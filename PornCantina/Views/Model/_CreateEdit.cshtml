@@ -1,0 +1,24 @@
+﻿@model PornCantina.ViewModels.ModelCreateEditViewModel
+
+<table>
+    <tbody>
+        <tr>
+            <td class="inputLabelCell">
+				@Html.LabelFor(model => model.Name):
+			</td>
+			<td class="inputDataCell" align="left">
+				@Html.EditorFor(model => model.Name)
+				@Html.ValidationMessageFor(model => model.Name, "*")
+			</td>
+        </tr>
+		<tr>
+			<td class="inputLabelCell">
+				@Html.LabelFor(model => model.WebSites):
+			</td>
+			<td class="inputDataCell"  align="left">
+				@Html.DropDownListFor(model => model.SelectedWebSite, new SelectList(Model.WebSites, "Value", "Text"), string.Empty)
+				@Html.ValidationMessageFor(model => model.SelectedWebSite, "*")
+			</td>
+		</tr>
+    </tbody>
+</table>

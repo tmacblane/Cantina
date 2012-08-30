@@ -1,0 +1,30 @@
+﻿@model PornCantina.Models.Image
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<fieldset>
+    <legend>Thumbnail</legend>
+
+    <div class="display-label">GalleryId</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.GalleryId)
+    </div>
+
+    <div class="display-label">Rating</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Rating)
+    </div>
+
+    <div class="display-label">Location</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.FilePath)
+    </div>
+</fieldset>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id=Model.Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

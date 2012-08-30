@@ -1,0 +1,30 @@
+﻿@model PornCantina.Helpers.PagedList<PornCantina.Models.Gallery>
+
+<div id="thumbnails">
+	<div id="topPagingControls">
+		@Html.Partial("_PagingControls", Model)
+	</div>
+	<div id="galleryThumbnails">
+		<ul>
+			@foreach (var item in Model.Entities)
+	  {
+		  <li class="gallery">
+			<a href="@Url.Action("Model", new { name = @item.GetModelName(item.ModelId), galleryId = item.Id })" title="@item.Title">
+				<img src="@item.GetThumbnailImage(item.Id)" alt="img" />
+			</a>
+			<h3 class="title">
+				<a href="@Url.Action("Model", new { name = @item.GetModelName(item.ModelId), galleryId = item.Id })" title="@item.Title">@item.Title</a>
+			</h3>
+			<h3 class="title">
+				<a href="@Url.Action("Index", "Model", new { modelId = item.ModelId })">@item.GetModelName(item.ModelId)</a>
+			</h3>
+		  </li>
+	  }
+		</ul>
+	</div>
+	<div id="bottomPagingControls">
+		@Html.Partial("_PagingControls", Model)
+	</div>
+</div>
+<div id="ads">
+</div>

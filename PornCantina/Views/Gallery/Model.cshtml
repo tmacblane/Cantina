@@ -1,0 +1,56 @@
+﻿@model IEnumerable<PornCantina.Models.Image>
+		   
+@{
+	ViewBag.Title = @Model.FirstOrDefault().GetModelName(Model.FirstOrDefault().GalleryId) + " - " + @Model.FirstOrDefault().GetGalleryName(Model.FirstOrDefault().GalleryId);
+}
+		   
+<div id="breadcrumbs">
+	<ul>
+		<li>
+			<h2>@Html.ActionLink("Gallery", "Index", "Gallery")</h2>
+		</li>
+		<li>
+			<h2>>></h2>
+		</li>
+		<li>
+			<a href="@Url.Action("Index", "Model", new { modelId = Model.FirstOrDefault().GetModelId(Model.FirstOrDefault().GalleryId) })">
+				<h2>@Model.FirstOrDefault().GetModelName(Model.FirstOrDefault().GalleryId)</h2>
+			</a>
+		</li>
+		<li>
+			<h2>>></h2>
+		</li>
+		<li>
+			<a href="@Model.FirstOrDefault().GetModelGalleryURL(Model.FirstOrDefault().GalleryId)" target="_blank">
+				<h2>@Model.FirstOrDefault().GetGalleryName(Model.FirstOrDefault().GalleryId)</h2>
+			</a>
+		</li>
+	</ul>
+</div>
+<div id="thumbnails">
+	<div id="topPaysiteURL">
+		<a href="@Model.FirstOrDefault().GetModelPaySiteURL(Model.FirstOrDefault().GalleryId)" target="_blank">
+			<h1>Want to see more @Model.FirstOrDefault().GetModelName(@Model.FirstOrDefault().GalleryId)?</h1>
+		</a>
+	</div>
+
+	<div>
+		<ul>
+			@foreach (var item in Model)
+	  {
+		  <li class="gallery">
+			<a href="../@item.FilePath/@item.FileName" rel="lightbox[modelGallery]">
+				<img src="../@item.FilePath/@item.ThumbnailFileName" alt="@item.FileName" />
+			</a>
+		  </li>
+	  }
+		</ul>
+	</div>
+	<div id="bottomPaysiteURL">
+		<a href="@Model.FirstOrDefault().GetModelPaySiteURL(Model.FirstOrDefault().GalleryId)" target="_blank">
+			<h1>Click here to join!</h1>
+		</a>
+	</div>
+</div>
+<div id="ads">
+</div>

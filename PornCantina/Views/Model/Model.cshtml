@@ -1,0 +1,36 @@
+﻿@model PornCantina.Helpers.PagedList<PornCantina.Models.Gallery>
+		   
+@{
+	ViewBag.Title = @Model.Entities.FirstOrDefault().GetModelName(@Model.Entities.FirstOrDefault().ModelId);
+}
+		   
+<div id="thumbnails">
+	<div id="paysiteURL">
+		<a href="@Model.Entities.FirstOrDefault().GetModelPaySiteURL(Model.Entities.FirstOrDefault().ModelId)" target="_blank">
+			<h1>Want to see more @Model.Entities.FirstOrDefault().GetModelName(@Model.Entities.FirstOrDefault().ModelId)?</h1>
+		</a>
+	</div>
+	<div id="topPagingControls">
+		@Html.Partial("_PagingControls", Model)
+	</div>
+	<div>
+		<ul>
+			@foreach (var item in Model.Entities)
+	  {
+		  <li class="gallery">
+			<a href="@Url.Action("Model", "Gallery", new { name = @item.GetModelName(item.ModelId), galleryId = item.Id })" title="@item.Title">
+				<img src="@item.GetThumbnailImage(item.Id)" alt="img" />
+			</a>
+			<h3 class="title">
+				<a href="@Url.Action("Model", "Gallery", new { name = @item.GetModelName(item.ModelId), galleryId = item.Id })" title="@item.Title">@item.Title</a>
+			</h3>
+		  </li>
+	  }
+		</ul>
+	</div>
+	<div id="bottomPagingControls">
+		@Html.Partial("_PagingControls", Model)
+	</div>
+</div>
+<div id="ads">
+</div>

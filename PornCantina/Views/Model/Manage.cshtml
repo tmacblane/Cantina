@@ -1,0 +1,57 @@
+﻿@model IEnumerable<PornCantina.Models.Model>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table>
+    <thead>
+        <tr>
+            <th>
+                Name
+            </th>
+            <th>
+                WebSite
+            </th>
+            <th>
+                Active Galleries
+            </th>
+            <th>
+                Inactive Galleries
+            </th>
+        </tr>
+    </thead>
+    
+@foreach (var item in Model) {
+    <tbody>
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                <a href="@item.GetWebSiteReferralLink(item)">@item.GetWebSiteByModel(item)</a>
+            </td>
+            <td>
+                @item.GetActiveGalleryCountByModel(item.Id)
+            </td>
+            <td>
+                @item.GetInactiveGalleryCountByModel(item.Id)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id=item.Id }) |
+                @Html.ActionLink("Details", "Details", new { id=item.Id })
+            </td>
+        </tr>
+    </tbody>
+}
+
+</table>
+
+<div>
+    @Html.ActionLink("Back to Admin", "../Admin")
+</div>

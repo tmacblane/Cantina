@@ -1,0 +1,61 @@
+﻿@model PornCantina.ViewModels.GalleryCreateEditModel
+
+@{
+    ViewBag.Title = "Create";
+}
+
+<h2>Create</h2>
+
+<script src="@Url.Content("~/Scripts/jquery.validate.min.js")" type="text/javascript"></script>
+<script src="@Url.Content("~/Scripts/jquery.validate.unobtrusive.min.js")" type="text/javascript"></script>
+
+@using (Html.BeginForm("Create", "Gallery"))
+{
+    @Html.ValidationSummary(false)
+        
+    <table>
+        <tbody>
+		    <tr>
+			    <td class="inputLabelCell">
+				    @Html.LabelFor(model => model.Models):
+			    </td>
+			    <td class="inputDataCell"  align="left">
+				    @Html.DropDownListFor(model => model.SelectedModel, new SelectList(Model.Models, "Value", "Text"), string.Empty)
+				    @Html.ValidationMessageFor(model => model.SelectedModel, "*")
+			    </td>
+		    </tr>
+            <tr>
+                <td class="inputLabelCell">
+				    @Html.LabelFor(model => model.Title):
+			    </td>
+			    <td class="inputDataCell" align="left">
+				    @Html.EditorFor(model => model.Title)
+				    @Html.ValidationMessageFor(model => model.Title, "*")
+			    </td>
+            </tr>
+            <tr>
+                <td class="inputLabelCell">
+				    @Html.LabelFor(model => model.Folder):
+			    </td>
+			    <td class="inputDataCell" align="left">
+				    @Html.EditorFor(model => model.Folder)
+				    @Html.ValidationMessageFor(model => model.Folder, "*")
+			    </td>
+            </tr>
+            <tr>
+                <td class="inputLabelCell">
+				    @Html.LabelFor(model => model.DatePublished):
+			    </td>
+			    <td class="inputDataCell" align="left">
+				    @Html.EditorFor(model => model.DatePublished)
+				    @Html.ValidationMessageFor(model => model.DatePublished, "*")
+			    </td>
+            </tr>
+        </tbody>
+    </table>
+    
+	<div style="margin-right: 20px;">
+		<input type="submit" value="Create" />			
+		<input type="button" value="Cancel" onclick="window.history.back()"/>
+	</div>	
+}

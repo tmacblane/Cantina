@@ -1,0 +1,48 @@
+﻿@model PornCantina.Models.Gallery
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<fieldset>
+    <legend>Gallery</legend>
+
+    <div class="display-label">ModelId</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.ModelId)
+    </div>
+
+    <div class="display-label">Title</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Title)
+    </div>
+
+    <div class="display-label">Folder</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Folder)
+    </div>
+
+    <div class="display-label">DatePublished</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.DatePublished)
+    </div>
+
+    <div class="display-label">Rating</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Rating)
+    </div>
+
+    <div class="display-label">IsActive</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.IsActive)
+    </div>
+</fieldset>
+@using (Html.BeginForm()) {
+    <p>
+        <input type="submit" value="Delete" /> |
+        @Html.ActionLink("Back to List", "Index")
+    </p>
+}

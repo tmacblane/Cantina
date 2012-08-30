@@ -1,0 +1,69 @@
+﻿<ul>
+	@{if (ViewBag.HasPrevious)
+		{
+			<li>
+				@Html.ActionLink("Previous", "Index", new { modelId = (ViewBag.ModelId), page = (ViewBag.CurrentPage - 1)})   	
+			</li>
+		}	
+	 }
+
+	@{if(ViewBag.HasPrevious && ViewBag.CurrentPage - 5 >= ViewBag.FirstPage)
+		{
+			<li>
+				@Html.ActionLink("<<", "Index", new { modelId = (ViewBag.ModelId), page = (ViewBag.CurrentPage - 5)})
+			</li>
+		}
+	}
+	
+	<li>
+		@Html.ActionLink((string)ViewBag.CurrentPage.ToString(), "Index", new { modelId = (ViewBag.ModelId), page = (ViewBag.CurrentPage)}) 
+	</li>
+
+	@{if(ViewBag.HasMore && ViewBag.CurrentPage + 1 <= ViewBag.LastPage)
+		{
+			<li>
+				@Html.ActionLink((string)(ViewBag.CurrentPage + 1).ToString(), "Index", new { modelId = (ViewBag.ModelId), page = (ViewBag.CurrentPage + 1)})  
+			</li>
+		}
+	}
+	
+	@{if (ViewBag.HasMore && ViewBag.CurrentPage + 2 <= ViewBag.LastPage)
+		{
+			<li>
+				@Html.ActionLink((string)(ViewBag.CurrentPage + 2).ToString(), "Index", new { modelId = (ViewBag.ModelId), page = (ViewBag.CurrentPage + 2)})  
+			</li>
+		}
+	}
+
+	@{if(ViewBag.HasMore && ViewBag.CurrentPage + 3 <= ViewBag.LastPage)
+		{
+			<li>
+				@Html.ActionLink((string)(ViewBag.CurrentPage + 3).ToString(), "Index", new { modelId = (ViewBag.ModelId), page = (ViewBag.CurrentPage + 3)})  
+			</li>
+		}
+	}
+	
+	@{if(ViewBag.HasMore && ViewBag.CurrentPage + 4 <= ViewBag.LastPage)
+		{
+			<li>
+				@Html.ActionLink((string)(ViewBag.CurrentPage + 4).ToString(), "Index", new { modelId = (ViewBag.ModelId), page = (ViewBag.CurrentPage + 4)})  
+			</li>
+		}
+	}
+	
+	@{if(ViewBag.HasMore && ViewBag.CurrentPage + 5 <= ViewBag.LastPage)
+		{
+			<li>
+				@Html.ActionLink(">>", "Index", new { modelId = (ViewBag.ModelId), page = (ViewBag.CurrentPage + 5)})  
+			</li>
+		}
+	}
+	
+	@{if(ViewBag.HasMore && ViewBag.CurrentPage < ViewBag.LastPage)
+		{
+			<li>
+				@Html.ActionLink("Next", "Index", new { modelId = (ViewBag.ModelId), page = (ViewBag.CurrentPage + 1)})   
+			</li>
+		}
+	}
+</ul>	
