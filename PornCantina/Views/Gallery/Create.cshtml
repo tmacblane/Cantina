@@ -44,6 +44,15 @@
             </tr>
             <tr>
                 <td class="inputLabelCell">
+				    @Html.LabelFor(model => model.URL):
+			    </td>
+			    <td class="inputDataCell" align="left">
+				    @Html.EditorFor(model => model.URL)
+				    @Html.ValidationMessageFor(model => model.URL, "*")
+			    </td>
+            </tr>
+            <tr>
+                <td class="inputLabelCell">
 				    @Html.LabelFor(model => model.DatePublished):
 			    </td>
 			    <td class="inputDataCell" align="left">

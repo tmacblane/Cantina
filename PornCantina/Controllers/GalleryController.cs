@@ -49,7 +49,7 @@ namespace PornCantina.Controllers
 		}
 
 		// UI Automation Create
-		public void Create(Gallery gallery)
+		public void CreateGallery(Gallery gallery)
 		{
 			if(ModelState.IsValid)
 			{
@@ -76,7 +76,7 @@ namespace PornCantina.Controllers
 				db.SaveChanges();
 
 				// Create Gallery Folder
-				string basePath = @"Content\Images\" + gallery.GetModelName(gallery.ModelId).Replace(" ", string.Empty);
+				string basePath = "Content/Images/" + gallery.GetModelName(gallery.ModelId).Replace(" ", string.Empty);
 				DirectoryInfo dInfo = new DirectoryInfo(AppDomain.CurrentDomain.BaseDirectory + basePath);
 				dInfo.CreateSubdirectory(gallery.Folder.Replace(" ", string.Empty));
 
@@ -85,9 +85,6 @@ namespace PornCantina.Controllers
 
 			return View(gallery);
 		}
-
-		//
-		// GET: /Gallery/Edit/5
 
 		public ActionResult Edit(Guid id)
 		{
@@ -107,9 +104,6 @@ namespace PornCantina.Controllers
 
 			return View(viewModel);
 		}
-
-		//
-		// POST: /Gallery/Edit/5
 
 		[HttpPost]
 		public ActionResult Edit(GalleryCreateEditModel galleryCreateEditModel)
@@ -248,7 +242,7 @@ namespace PornCantina.Controllers
 
 		public ActionResult PopulateGalleryImages(string modelName, string folderName)
 		{
-			string basePath = string.Format(@"Content\Images\{0}\{1}", modelName.Replace(" ", string.Empty), folderName);
+			string basePath = string.Format(@"Content/Images/{0}/{1}", modelName.Replace(" ", string.Empty), folderName);
 			DirectoryInfo dInfo = new DirectoryInfo(AppDomain.CurrentDomain.BaseDirectory + basePath);
 
 			Guid modelId = db.Models.Where(m => m.Name.Replace(" ", string.Empty) == modelName.Replace(" ", string.Empty)).FirstOrDefault().Id;
@@ -293,7 +287,7 @@ namespace PornCantina.Controllers
 
 		public ActionResult RenameAndCreateThumbnails(string modelName, string folderName)
 		{
-			string basePath = string.Format(@"Content\Images\{0}\{1}", modelName.Replace(" ", string.Empty), folderName);
+			string basePath = string.Format("Content/Images/{0}/{1}", modelName.Replace(" ", string.Empty), folderName);
 			DirectoryInfo dInfo = new DirectoryInfo(AppDomain.CurrentDomain.BaseDirectory + basePath);
 
 			int i = 1;
@@ -314,7 +308,7 @@ namespace PornCantina.Controllers
 
 				if(file.Name != string.Format("{0}{1}", filename, file.Extension.ToLower()))
 				{
-					file.CopyTo(string.Format(@"{0}\{1}{2}", dInfo, filename, file.Extension.ToLower()), true);
+					file.CopyTo(string.Format(@"{0}/{1}{2}", dInfo, filename, file.Extension.ToLower()), true);
 				}
 
 				// Create Thumbnail
@@ -322,7 +316,7 @@ namespace PornCantina.Controllers
 
 				System.Drawing.Image thumbnailImage = this.ResizeImage(bitmap, new Size(180, 240));
 
-				this.SaveJpegThumbnail(string.Format(@"{0}\tn_{1}{2}", dInfo, filename, ".jpg"), (Bitmap)thumbnailImage, 100);
+				this.SaveJpegThumbnail(string.Format(@"{0}/tn_{1}{2}", dInfo, filename, ".jpg"), (Bitmap)thumbnailImage, 100);
 
 				if(file.Name != string.Format("{0}{1}", filename, file.Extension.ToLower()))
 				{
@@ -423,7 +417,7 @@ namespace PornCantina.Controllers
 
 		public void PopulateGalleryImage()
 		{
-			string basePath = @"Content\Images";
+			string basePath = @"Content/Images";
 			DirectoryInfo dInfo = new DirectoryInfo(AppDomain.CurrentDomain.BaseDirectory + basePath);
 
 			using(var context = new PornCantinaContext())
