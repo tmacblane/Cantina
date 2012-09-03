@@ -14,6 +14,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{5DD208
 		.nuget\NuGet.targets = .nuget\NuGet.targets
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PornCantina.FFMpegFrameCapture", "PornCantina.FFMpegFrameCapture\PornCantina.FFMpegFrameCapture.csproj", "{4A9C201B-01D9-49C9-B3F6-E754159CC24F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -54,6 +56,16 @@ Global
 		{2975A1B5-3160-44B3-9CAC-3617EDB23AC7}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
 		{2975A1B5-3160-44B3-9CAC-3617EDB23AC7}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{2975A1B5-3160-44B3-9CAC-3617EDB23AC7}.Release|x86.ActiveCfg = Release|Any CPU
+		{4A9C201B-01D9-49C9-B3F6-E754159CC24F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A9C201B-01D9-49C9-B3F6-E754159CC24F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A9C201B-01D9-49C9-B3F6-E754159CC24F}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{4A9C201B-01D9-49C9-B3F6-E754159CC24F}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{4A9C201B-01D9-49C9-B3F6-E754159CC24F}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{4A9C201B-01D9-49C9-B3F6-E754159CC24F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A9C201B-01D9-49C9-B3F6-E754159CC24F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A9C201B-01D9-49C9-B3F6-E754159CC24F}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{4A9C201B-01D9-49C9-B3F6-E754159CC24F}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{4A9C201B-01D9-49C9-B3F6-E754159CC24F}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
