@@ -276,6 +276,14 @@
     <Content Include="Views\Image\Details.cshtml" />
     <Content Include="Views\Image\Index.cshtml" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="Views\WebSite\Create.cshtml" />
+    <Content Include="Views\WebSite\Delete.cshtml" />
+    <Content Include="Views\WebSite\Details.cshtml" />
+    <Content Include="Views\WebSite\Edit.cshtml" />
+    <Content Include="Views\WebSite\Index.cshtml" />
+    <Content Include="Views\WebSite\Manage.cshtml" />
+  </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>

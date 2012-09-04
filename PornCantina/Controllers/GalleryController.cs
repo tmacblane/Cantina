@@ -292,6 +292,14 @@ namespace PornCantina.Controllers
 
 			int i = 1;
 
+			//foreach(var file in dInfo.GetFiles())
+			//{
+			//    if(file.Length < 51200)
+			//    {
+			//        file.Delete();
+			//    }
+			//}
+
 			// iterate through each file and rename and create thumbnails
 			foreach(var file in dInfo.GetFiles())
 			{
@@ -350,21 +358,28 @@ namespace PornCantina.Controllers
 				percent = percentH;
 			}
 
-			RectangleF destinationRect = new RectangleF(0, 0, size.Width, size.Height);
-
 			int destWidth = (int)(sourceWidth * percent);
 			int destHeight = (int)(sourceHeight * percent);
 
 			System.Drawing.Image image = new Bitmap(size.Width, size.Height);
+			RectangleF destinationRect;
+
+			if(imageToResize.Width > imageToResize.Height)
+			{
+				destinationRect = new RectangleF(-destWidth / 4, 0, destWidth, destHeight);
+			}
+			else
+			{
+				destinationRect = new RectangleF(0, 0, destWidth, destHeight);
+			}
 
 			Graphics graphics = Graphics.FromImage(image);
-			graphics.DrawImage(image, 0, 0);
-
-			RectangleF sourceRect = new RectangleF(0, 0, percentW, percentH);
+			// graphics.DrawImage(image, 0, 0);
 
 			graphics.InterpolationMode = System.Drawing.Drawing2D.InterpolationMode.High;
 
-			graphics.DrawImage(imageToResize, 0, 0, destWidth, destHeight);
+			graphics.DrawImage(imageToResize, destinationRect);
+			// graphics.DrawImage(imageToResize, 0, 0, destWidth, destHeight);
 			imageToResize.Dispose();
 			graphics.Dispose();
 

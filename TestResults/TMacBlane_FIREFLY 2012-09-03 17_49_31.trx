@@ -1,0 +1,152 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="71477ef9-8340-4672-96d8-81cfca6ddaf1" name="TMacBlane@FIREFLY 2012-09-03 17:49:31" runUser="Firefly\TMacBlane" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Default Test Settings" id="72b09e89-261a-45bc-85b5-dfa2afddcd1f">
+    <Deployment userDeploymentRoot="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\TestResults" useDefaultDeploymentRoot="false" runDeploymentRoot="TMacBlane_FIREFLY 2012-09-03 17_49_31">
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\AutomationFramework\bin\Debug\AutomationFramework.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\packages\Microsoft.AspNet.WebPages.2.0.20710.0\lib\net40\System.Web.WebPages.Deployment.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\packages\Microsoft.AspNet.Mvc.4.0.20505.0\lib\net40\System.Web.Mvc.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\bin\Debug\WebDriver.Support.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\PornCantina\bin\PornCantina.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\packages\Microsoft.AspNet.WebPages.2.0.20710.0\lib\net40\System.Web.Helpers.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\bin\Debug\WebDriver.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\packages\Microsoft.AspNet.WebPages.2.0.20710.0\lib\net40\System.Web.WebPages.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\packages\Microsoft.Web.Infrastructure.1.0.0.0\lib\net40\Microsoft.Web.Infrastructure.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\packages\Microsoft.AspNet.WebPages.2.0.20710.0\lib\net40\System.Web.WebPages.Razor.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\bin\Debug\Ionic.Zip.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\packages\Microsoft.AspNet.Razor.2.0.20710.0\lib\net40\System.Web.Razor.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\bin\Debug\TechTalk.SpecFlow.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\bin\Debug\Castle.Core.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\bin\Debug\Newtonsoft.Json.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2012-09-03T17:49:31.1615928-04:00" queuing="2012-09-03T17:49:31.4615928-04:00" start="2012-09-03T17:49:31.4715928-04:00" finish="2012-09-03T17:50:20.1775928-04:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="2" executed="2" error="0" failed="2" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="PopulateZellysCashGalleries_Zellys_Com" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" id="efe8e8c2-3563-b091-1ee4-879573922381">
+      <Description>Populate ZellysCash Galleries</Description>
+      <Execution id="e3f18f53-f22c-4897-99cb-2abd00ec6c31" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>ZellysCash</Value>
+        </Property>
+        <Property>
+          <Key>VariantName</Key>
+          <Value>Zellys.com</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:modelName</Key>
+          <Value>Zellys.com</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Users/TMacBlane/Documents/DevelopmentProjects/PornCantina.UIAutomation/bin/Debug/PornCantina.UIAutomation.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PornCantina.UIAutomation.Scenarios.ZellysCashFeature, PornCantina.UIAutomation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PopulateZellysCashGalleries_Zellys_Com" />
+    </UnitTest>
+    <UnitTest name="PopulateZellysCashGalleries_MelissaXoXo" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" id="3244bd33-62ad-5b0c-a0f8-17623bcb7156">
+      <Description>Populate ZellysCash Galleries</Description>
+      <Execution id="a81ac533-18ad-49a9-9d7b-064976c63e16" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>ZellysCash</Value>
+        </Property>
+        <Property>
+          <Key>VariantName</Key>
+          <Value>Melissa XoXo</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:modelName</Key>
+          <Value>Melissa XoXo</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Users/TMacBlane/Documents/DevelopmentProjects/PornCantina.UIAutomation/bin/Debug/PornCantina.UIAutomation.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PornCantina.UIAutomation.Scenarios.ZellysCashFeature, PornCantina.UIAutomation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PopulateZellysCashGalleries_MelissaXoXo" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="3244bd33-62ad-5b0c-a0f8-17623bcb7156" executionId="a81ac533-18ad-49a9-9d7b-064976c63e16" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="efe8e8c2-3563-b091-1ee4-879573922381" executionId="e3f18f53-f22c-4897-99cb-2abd00ec6c31" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="a81ac533-18ad-49a9-9d7b-064976c63e16" testId="3244bd33-62ad-5b0c-a0f8-17623bcb7156" testName="PopulateZellysCashGalleries_MelissaXoXo" computerName="FIREFLY" duration="00:00:36.0146707" startTime="2012-09-03T17:49:31.4965928-04:00" endTime="2012-09-03T17:50:07.9445928-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a81ac533-18ad-49a9-9d7b-064976c63e16">
+      <Output>
+        <StdOut>Given I open the zellyscash page
+-&gt; done: StepDefinitions.GivenIOpenTheSpecifiedPage("zellyscash") (6.7s)
+Then I should be on the zellyscash page
+-&gt; done: StepDefinitions.IShouldBeOnTheSpecifiedPage("zellyscash") (0.0s)
+When I select the Melissa XoXo zellyscash paysite
+-&gt; done: ZellysCashStepDefinitions.WhenISelectTheSpecifiedZellysPaysite("Melissa XoXo") (3.5s)
+Then I should see the Melissa XoXo zellyscash hosted galleries
+-&gt; done: ZellysCashStepDefinitions.ThenIShouldSeeTheSpecifiedZellysHostedGalleries("Melissa XoXo") (0.0s)
+And I should create any new Melissa XoXo zellyscash galleries
+-&gt; error: Unable to locate element: {"method":"xpath","selector":"//form[2]/table/tbody/tr[2]/td/table/tbody/tr[118]/td[3]"}</StdOut>
+        <ErrorInfo>
+          <Message>Test method PornCantina.UIAutomation.Scenarios.ZellysCashFeature.PopulateZellysCashGalleries_MelissaXoXo threw exception: 
+OpenQA.Selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//form[2]/table/tbody/tr[2]/td/table/tbody/tr[118]/td[3]"}</Message>
+          <StackTrace>    at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElementByXPath(String xpath)
+   at OpenQA.Selenium.By.&lt;&gt;c__DisplayClasse.&lt;XPath&gt;b__c(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(By by)
+   at AutomationFramework.BrowserHelper.GetElementByXPath(IWebDriver driver, String locator, String additionalLocatorPath) in C:\Users\TMacBlane\documents\visual studio 2010\Projects\PornCantina\AutomationFramework\Classes\BrowserHelper.cs:line 106
+   at AutomationFramework.BrowserHelper.GetElement(IWebDriver driver, String locator, String additionalLocatorPath) in C:\Users\TMacBlane\documents\visual studio 2010\Projects\PornCantina\AutomationFramework\Classes\BrowserHelper.cs:line 25
+   at AutomationFramework.WebBrowser.GetText(String locator, String additionalLocatorPath) in C:\Users\TMacBlane\documents\visual studio 2010\Projects\PornCantina\AutomationFramework\Classes\WebBrowser.cs:line 154
+   at AutomationFramework.PageElementExtensions.GetText(IPageElement element, String additionalLocator) in C:\Users\TMacBlane\documents\visual studio 2010\Projects\PornCantina\AutomationFramework\Classes\PageElementExtensions.cs:line 76
+   at PornCantina.UIAutomation.StepDefinitions.ZellysCashStepDefinitions.ThenIShouldCreateAnyNewModelNameZellysGalleries(String modelName) in C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\StepDefinitions\ZellysCashStepDefinitions.cs:line 93
+   at lambda_method(Closure , IContextManager , String )
+   at TechTalk.SpecFlow.Bindings.MethodBinding.InvokeAction(IContextManager contextManager, Object[] arguments, ITestTracer testTracer, TimeSpan&amp; duration)
+   at TechTalk.SpecFlow.Bindings.StepDefinitionBinding.Invoke(IContextManager contextManager, ITestTracer testTracer, Object[] arguments, TimeSpan&amp; duration)
+   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.ExecuteStepMatch(BindingMatch match, Object[] arguments)
+   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.ExecuteStep(StepArgs stepArgs)
+   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.OnAfterLastStep()
+   at TechTalk.SpecFlow.TestRunner.CollectScenarioErrors()
+   at PornCantina.UIAutomation.Scenarios.ZellysCashFeature.ScenarioCleanup() in C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\Scenarios\ZellysCash.feature.cs:line 0
+   at PornCantina.UIAutomation.Scenarios.ZellysCashFeature.PopulateZellysCashGalleries(String modelName, String[] exampleTags) in c:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\Scenarios\ZellysCash.feature:line 10
+   at PornCantina.UIAutomation.Scenarios.ZellysCashFeature.PopulateZellysCashGalleries_MelissaXoXo() in C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\Scenarios\ZellysCash.feature.cs:line 0
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="e3f18f53-f22c-4897-99cb-2abd00ec6c31" testId="efe8e8c2-3563-b091-1ee4-879573922381" testName="PopulateZellysCashGalleries_Zellys_Com" computerName="FIREFLY" duration="00:00:12.1901187" startTime="2012-09-03T17:50:07.9455928-04:00" endTime="2012-09-03T17:50:20.1405928-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e3f18f53-f22c-4897-99cb-2abd00ec6c31">
+      <Output>
+        <StdOut>Given I open the zellyscash page
+-&gt; done: StepDefinitions.GivenIOpenTheSpecifiedPage("zellyscash") (2.9s)
+Then I should be on the zellyscash page
+-&gt; done: StepDefinitions.IShouldBeOnTheSpecifiedPage("zellyscash") (0.1s)
+When I select the Zellys.com zellyscash paysite
+-&gt; done: ZellysCashStepDefinitions.WhenISelectTheSpecifiedZellysPaysite("Zellys.com") (7.7s)
+Then I should see the Zellys.com zellyscash hosted galleries
+-&gt; done: ZellysCashStepDefinitions.ThenIShouldSeeTheSpecifiedZellysHostedGalleries("Zellys.com") (0.0s)
+And I should create any new Zellys.com zellyscash galleries
+-&gt; error: Index was outside the bounds of the array.</StdOut>
+        <ErrorInfo>
+          <Message>Test method PornCantina.UIAutomation.Scenarios.ZellysCashFeature.PopulateZellysCashGalleries_Zellys_Com threw exception: 
+System.IndexOutOfRangeException: Index was outside the bounds of the array.</Message>
+          <StackTrace>    at PornCantina.UIAutomation.StepDefinitions.ZellysCashStepDefinitions.ThenIShouldCreateAnyNewModelNameZellysGalleries(String modelName) in C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\StepDefinitions\ZellysCashStepDefinitions.cs:line 107
+   at lambda_method(Closure , IContextManager , String )
+   at TechTalk.SpecFlow.Bindings.MethodBinding.InvokeAction(IContextManager contextManager, Object[] arguments, ITestTracer testTracer, TimeSpan&amp; duration)
+   at TechTalk.SpecFlow.Bindings.StepDefinitionBinding.Invoke(IContextManager contextManager, ITestTracer testTracer, Object[] arguments, TimeSpan&amp; duration)
+   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.ExecuteStepMatch(BindingMatch match, Object[] arguments)
+   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.ExecuteStep(StepArgs stepArgs)
+   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.OnAfterLastStep()
+   at TechTalk.SpecFlow.TestRunner.CollectScenarioErrors()
+   at PornCantina.UIAutomation.Scenarios.ZellysCashFeature.ScenarioCleanup() in C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\Scenarios\ZellysCash.feature.cs:line 0
+   at PornCantina.UIAutomation.Scenarios.ZellysCashFeature.PopulateZellysCashGalleries(String modelName, String[] exampleTags) in c:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\Scenarios\ZellysCash.feature:line 10
+   at PornCantina.UIAutomation.Scenarios.ZellysCashFeature.PopulateZellysCashGalleries_Zellys_Com() in C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\Scenarios\ZellysCash.feature.cs:line 0
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

@@ -1,0 +1,51 @@
+﻿@model PornCantina.Models.WebSite
+
+@{
+    ViewBag.Title = "Edit";
+}
+
+<h2>Edit</h2>
+
+<script src="@Url.Content("~/Scripts/jquery.validate.min.js")" type="text/javascript"></script>
+<script src="@Url.Content("~/Scripts/jquery.validate.unobtrusive.min.js")" type="text/javascript"></script>
+
+@using (Html.BeginForm()) {
+    @Html.ValidationSummary(true)
+    <fieldset>
+        <legend>WebSite</legend>
+
+        @Html.HiddenFor(model => model.Id)
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Name)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Name)
+            @Html.ValidationMessageFor(model => model.Name)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.ReferralLink)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.ReferralLink)
+            @Html.ValidationMessageFor(model => model.ReferralLink)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.RSSFeed)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.RSSFeed)
+            @Html.ValidationMessageFor(model => model.RSSFeed)
+        </div>
+
+        <p>
+            <input type="submit" value="Save" />
+        </p>
+    </fieldset>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Manage")
+</div>

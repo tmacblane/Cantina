@@ -16,7 +16,9 @@
 	}
 	
 	<li>
-		@Html.ActionLink((string)ViewBag.CurrentPage.ToString(), "Index", new { modelId = (ViewBag.ModelId), page = (ViewBag.CurrentPage)}) 
+		<b>
+			@Html.ActionLink((string)ViewBag.CurrentPage.ToString(), "Index", new { modelId = (ViewBag.ModelId), page = (ViewBag.CurrentPage)}) 
+		</b>
 	</li>
 
 	@{if(ViewBag.HasMore && ViewBag.CurrentPage + 1 <= ViewBag.LastPage)

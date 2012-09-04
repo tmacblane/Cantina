@@ -1,0 +1,41 @@
+﻿@model IEnumerable<PornCantina.Models.WebSite>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+    @Html.ActionLink("GetHtmlInformation", "GetHtmlInformation")
+    @Html.ActionLink("Get RSS Information", "GetRSSInformation")
+</p>
+<table>
+    <tr>
+        <th>
+            Name
+        </th>
+        <th>
+            RSS Feed
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            <a href = @item.ReferralLink>@item.Name</a>
+        </td>
+        <td>
+            <a href = @Html.DisplayFor(modelItem => item.RSSFeed)>@Html.DisplayFor(modelItem => item.RSSFeed)</a>
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.Id }) |
+            @Html.ActionLink("Details", "Details", new { id=item.Id }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.Id })
+        </td>
+    </tr>
+}
+
+</table>
