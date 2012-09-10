@@ -1,0 +1,195 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="f9d700fb-cd12-45fd-b40e-5b21e2075609" name="TMacBlane@FIREFLY 2012-09-09 17:49:41" runUser="Firefly\TMacBlane" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Default Test Settings" id="6a2e774a-8863-4294-b57c-c4e9f667e31a">
+    <Deployment runDeploymentRoot="TMacBlane_FIREFLY 2012-09-09 17_49_41">
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\AutomationFramework\bin\Debug\AutomationFramework.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\packages\Microsoft.AspNet.WebPages.2.0.20710.0\lib\net40\System.Web.WebPages.Deployment.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\PornCantina\bin\PornCantina.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\packages\Microsoft.AspNet.Mvc.4.0.20505.0\lib\net40\System.Web.Mvc.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\bin\Debug\WebDriver.Support.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\packages\Microsoft.AspNet.WebPages.2.0.20710.0\lib\net40\System.Web.Helpers.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\bin\Debug\WebDriver.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\packages\Microsoft.AspNet.WebPages.2.0.20710.0\lib\net40\System.Web.WebPages.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\packages\Microsoft.Web.Infrastructure.1.0.0.0\lib\net40\Microsoft.Web.Infrastructure.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\packages\Microsoft.AspNet.WebPages.2.0.20710.0\lib\net40\System.Web.WebPages.Razor.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\bin\Debug\Ionic.Zip.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\packages\Microsoft.AspNet.Razor.2.0.20710.0\lib\net40\System.Web.Razor.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\bin\Debug\TechTalk.SpecFlow.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\bin\Debug\Castle.Core.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\bin\Debug\Newtonsoft.Json.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2012-09-09T17:49:41.0586000-04:00" queuing="2012-09-09T17:49:41.5596000-04:00" start="2012-09-09T17:49:41.5826000-04:00" finish="2012-09-09T17:50:26.1296000-04:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="2" executed="2" error="0" failed="2" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="PopulatePinkVelvetVaultGalleries_TiffanyAlexis_Com" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" id="09f339eb-e1ff-0d96-dca9-6e24e2f7cfbf">
+      <Description>Populate PinkVelvetVault Galleries</Description>
+      <Execution id="d7afd671-bbfc-4e4e-9b41-86e0833bf819" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>PinkVelvetVault</Value>
+        </Property>
+        <Property>
+          <Key>VariantName</Key>
+          <Value>TiffanyAlexis.com</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:site</Key>
+          <Value>TiffanyAlexis.com</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:modelName</Key>
+          <Value>Tiffany Alexis</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Users/TMacBlane/Documents/DevelopmentProjects/PornCantina.UIAutomation/bin/Debug/PornCantina.UIAutomation.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PornCantina.UIAutomation.Scenarios.PinkVelvetVaultFeature, PornCantina.UIAutomation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PopulatePinkVelvetVaultGalleries_TiffanyAlexis_Com" />
+    </UnitTest>
+    <UnitTest name="PopulatePinkVelvetVaultGalleries_TaylorTrue" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" id="90275ed3-6b7f-be6c-3123-37a1d67aeee3">
+      <Description>Populate PinkVelvetVault Galleries</Description>
+      <Execution id="faae7284-46a1-4a8d-adde-ccaa9a36a009" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>PinkVelvetVault</Value>
+        </Property>
+        <Property>
+          <Key>VariantName</Key>
+          <Value>TaylorTrue</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:site</Key>
+          <Value>TaylorTrue</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:modelName</Key>
+          <Value>Taylor True</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Users/TMacBlane/Documents/DevelopmentProjects/PornCantina.UIAutomation/bin/Debug/PornCantina.UIAutomation.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PornCantina.UIAutomation.Scenarios.PinkVelvetVaultFeature, PornCantina.UIAutomation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PopulatePinkVelvetVaultGalleries_TaylorTrue" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="90275ed3-6b7f-be6c-3123-37a1d67aeee3" executionId="faae7284-46a1-4a8d-adde-ccaa9a36a009" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="09f339eb-e1ff-0d96-dca9-6e24e2f7cfbf" executionId="d7afd671-bbfc-4e4e-9b41-86e0833bf819" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="faae7284-46a1-4a8d-adde-ccaa9a36a009" testId="90275ed3-6b7f-be6c-3123-37a1d67aeee3" testName="PopulatePinkVelvetVaultGalleries_TaylorTrue" computerName="FIREFLY" duration="00:00:25.0017649" startTime="2012-09-09T17:49:41.5946000-04:00" endTime="2012-09-09T17:50:07.0196000-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="faae7284-46a1-4a8d-adde-ccaa9a36a009">
+      <Output>
+        <StdOut>Given I open the pinkvelvet page
+-&gt; done: StepDefinitions.GivenIOpenTheSpecifiedPage("pinkvelvet") (6.1s)
+Then I should be on the pinkvelvet page
+-&gt; done: StepDefinitions.IShouldBeOnTheSpecifiedPage("pinkvelvet") (0.1s)
+When I enter the PinkVelvetVault ccbill id
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenIEnterTheSpecifiedCcbillId("PinkVelvetVault") (0.1s)
+And I select TaylorTrue from the site dropdown list
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenISelectTheModelNameFromTheSiteDropdownList("TaylorTrue") (0.7s)
+And I select the All date range
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenISelectTheDateRangeDateRange("All") (0.1s)
+And I select the type of Pics
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenISelectTheSpecifiedType("Pics") (0.1s)
+And I select the thumbnail size 130x174
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenISelectTheSpecifiedThumbnailSize("130x174") (0.1s)
+And I select to display All galleries per page
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenISelectToDisplaySpecifiedNumberOfGalleriesPerPage("All") (0.1s)
+And I click the generate button
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenIClickTheGenerateButton() (0.8s)
+Then I should see the populated list of galleries
+-&gt; done: HostedGalleriesManagerStepDefinitions.ThenIShouldSeeThePopulatedListOfGalleries() (0.0s)
+And I should create any new Taylor True pinkvelvetvault galleries
+-&gt; error: Unable to locate element: {"method":"xpath","selector":"//tr[30]/td/table/tbody/tr/td[2]/span"}</StdOut>
+        <ErrorInfo>
+          <Message>Test method PornCantina.UIAutomation.Scenarios.PinkVelvetVaultFeature.PopulatePinkVelvetVaultGalleries_TaylorTrue threw exception: 
+OpenQA.Selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//tr[30]/td/table/tbody/tr/td[2]/span"}</Message>
+          <StackTrace>    at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElementByXPath(String xpath)
+   at OpenQA.Selenium.By.&lt;&gt;c__DisplayClasse.&lt;XPath&gt;b__c(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(By by)
+   at AutomationFramework.BrowserHelper.GetElementByXPath(IWebDriver driver, String locator, String additionalLocatorPath) in C:\Users\TMacBlane\documents\visual studio 2010\Projects\PornCantina\AutomationFramework\Classes\BrowserHelper.cs:line 106
+   at AutomationFramework.BrowserHelper.GetElement(IWebDriver driver, String locator, String additionalLocatorPath) in C:\Users\TMacBlane\documents\visual studio 2010\Projects\PornCantina\AutomationFramework\Classes\BrowserHelper.cs:line 25
+   at AutomationFramework.WebBrowser.GetText(String locator, String additionalLocatorPath) in C:\Users\TMacBlane\documents\visual studio 2010\Projects\PornCantina\AutomationFramework\Classes\WebBrowser.cs:line 154
+   at AutomationFramework.PageElementExtensions.GetText(IPageElement element, String additionalLocator) in C:\Users\TMacBlane\documents\visual studio 2010\Projects\PornCantina\AutomationFramework\Classes\PageElementExtensions.cs:line 76
+   at PornCantina.UIAutomation.StepDefinitions.PinkVelvetVaultStepDefinitions.ThenIShouldCreateAnyNewModelNamePinkvelvetvaultGalleries(String modelName) in C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\StepDefinitions\PinkVelvetVaultStepDefinitions.cs:line 36
+   at lambda_method(Closure , IContextManager , String )
+   at TechTalk.SpecFlow.Bindings.MethodBinding.InvokeAction(IContextManager contextManager, Object[] arguments, ITestTracer testTracer, TimeSpan&amp; duration)
+   at TechTalk.SpecFlow.Bindings.StepDefinitionBinding.Invoke(IContextManager contextManager, ITestTracer testTracer, Object[] arguments, TimeSpan&amp; duration)
+   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.ExecuteStepMatch(BindingMatch match, Object[] arguments)
+   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.ExecuteStep(StepArgs stepArgs)
+   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.OnAfterLastStep()
+   at TechTalk.SpecFlow.TestRunner.CollectScenarioErrors()
+   at PornCantina.UIAutomation.Scenarios.PinkVelvetVaultFeature.ScenarioCleanup() in C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\Scenarios\PinkVelvetVault.feature.cs:line 0
+   at PornCantina.UIAutomation.Scenarios.PinkVelvetVaultFeature.PopulatePinkVelvetVaultGalleries(String site, String modelName, String[] exampleTags) in c:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\Scenarios\PinkVelvetVault.feature:line 16
+   at PornCantina.UIAutomation.Scenarios.PinkVelvetVaultFeature.PopulatePinkVelvetVaultGalleries_TaylorTrue() in C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\Scenarios\PinkVelvetVault.feature.cs:line 0
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="d7afd671-bbfc-4e4e-9b41-86e0833bf819" testId="09f339eb-e1ff-0d96-dca9-6e24e2f7cfbf" testName="PopulatePinkVelvetVaultGalleries_TiffanyAlexis_Com" computerName="FIREFLY" duration="00:00:19.0579716" startTime="2012-09-09T17:50:07.0206000-04:00" endTime="2012-09-09T17:50:26.0826000-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d7afd671-bbfc-4e4e-9b41-86e0833bf819">
+      <Output>
+        <StdOut>Given I open the pinkvelvet page
+-&gt; done: StepDefinitions.GivenIOpenTheSpecifiedPage("pinkvelvet") (3.4s)
+Then I should be on the pinkvelvet page
+-&gt; done: StepDefinitions.IShouldBeOnTheSpecifiedPage("pinkvelvet") (0.1s)
+When I enter the PinkVelvetVault ccbill id
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenIEnterTheSpecifiedCcbillId("PinkVelvetVault") (0.1s)
+And I select TiffanyAlexis.com from the site dropdown list
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenISelectTheModelNameFromTheSiteDropdownList("TiffanyAlexis.com") (0.7s)
+And I select the All date range
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenISelectTheDateRangeDateRange("All") (0.1s)
+And I select the type of Pics
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenISelectTheSpecifiedType("Pics") (0.1s)
+And I select the thumbnail size 130x174
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenISelectTheSpecifiedThumbnailSize("130x174") (0.0s)
+And I select to display All galleries per page
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenISelectToDisplaySpecifiedNumberOfGalleriesPerPage("All") (0.1s)
+And I click the generate button
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenIClickTheGenerateButton() (1.5s)
+Then I should see the populated list of galleries
+-&gt; done: HostedGalleriesManagerStepDefinitions.ThenIShouldSeeThePopulatedListOfGalleries() (0.0s)
+And I should create any new Tiffany Alexis pinkvelvetvault galleries
+-&gt; error: Unable to locate element: {"method":"xpath","selector":"//tr[16]/td/table/tbody/tr/td[2]/span"}</StdOut>
+        <ErrorInfo>
+          <Message>Test method PornCantina.UIAutomation.Scenarios.PinkVelvetVaultFeature.PopulatePinkVelvetVaultGalleries_TiffanyAlexis_Com threw exception: 
+OpenQA.Selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//tr[16]/td/table/tbody/tr/td[2]/span"}</Message>
+          <StackTrace>    at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElementByXPath(String xpath)
+   at OpenQA.Selenium.By.&lt;&gt;c__DisplayClasse.&lt;XPath&gt;b__c(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(By by)
+   at AutomationFramework.BrowserHelper.GetElementByXPath(IWebDriver driver, String locator, String additionalLocatorPath) in C:\Users\TMacBlane\documents\visual studio 2010\Projects\PornCantina\AutomationFramework\Classes\BrowserHelper.cs:line 106
+   at AutomationFramework.BrowserHelper.GetElement(IWebDriver driver, String locator, String additionalLocatorPath) in C:\Users\TMacBlane\documents\visual studio 2010\Projects\PornCantina\AutomationFramework\Classes\BrowserHelper.cs:line 25
+   at AutomationFramework.WebBrowser.GetText(String locator, String additionalLocatorPath) in C:\Users\TMacBlane\documents\visual studio 2010\Projects\PornCantina\AutomationFramework\Classes\WebBrowser.cs:line 154
+   at AutomationFramework.PageElementExtensions.GetText(IPageElement element, String additionalLocator) in C:\Users\TMacBlane\documents\visual studio 2010\Projects\PornCantina\AutomationFramework\Classes\PageElementExtensions.cs:line 76
+   at PornCantina.UIAutomation.StepDefinitions.PinkVelvetVaultStepDefinitions.ThenIShouldCreateAnyNewModelNamePinkvelvetvaultGalleries(String modelName) in C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\StepDefinitions\PinkVelvetVaultStepDefinitions.cs:line 36
+   at lambda_method(Closure , IContextManager , String )
+   at TechTalk.SpecFlow.Bindings.MethodBinding.InvokeAction(IContextManager contextManager, Object[] arguments, ITestTracer testTracer, TimeSpan&amp; duration)
+   at TechTalk.SpecFlow.Bindings.StepDefinitionBinding.Invoke(IContextManager contextManager, ITestTracer testTracer, Object[] arguments, TimeSpan&amp; duration)
+   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.ExecuteStepMatch(BindingMatch match, Object[] arguments)
+   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.ExecuteStep(StepArgs stepArgs)
+   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.OnAfterLastStep()
+   at TechTalk.SpecFlow.TestRunner.CollectScenarioErrors()
+   at PornCantina.UIAutomation.Scenarios.PinkVelvetVaultFeature.ScenarioCleanup() in C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\Scenarios\PinkVelvetVault.feature.cs:line 0
+   at PornCantina.UIAutomation.Scenarios.PinkVelvetVaultFeature.PopulatePinkVelvetVaultGalleries(String site, String modelName, String[] exampleTags) in c:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\Scenarios\PinkVelvetVault.feature:line 16
+   at PornCantina.UIAutomation.Scenarios.PinkVelvetVaultFeature.PopulatePinkVelvetVaultGalleries_TiffanyAlexis_Com() in C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\Scenarios\PinkVelvetVault.feature.cs:line 0
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>
