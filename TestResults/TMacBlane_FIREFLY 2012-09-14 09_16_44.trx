@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="fd77820a-689e-4abd-9c72-5b1aaeeb41bd" name="TMacBlane@FIREFLY 2012-09-14 09:16:44" runUser="Firefly\TMacBlane" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Default Test Settings" id="7d5ea2b6-4c08-47b7-b9f9-e2a206f9d460">
+    <Deployment runDeploymentRoot="TMacBlane_FIREFLY 2012-09-14 09_16_44">
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\AutomationFramework\bin\Debug\AutomationFramework.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\packages\Microsoft.AspNet.WebPages.2.0.20710.0\lib\net40\System.Web.WebPages.Deployment.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\PornCantina\bin\PornCantina.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\packages\Microsoft.AspNet.Mvc.4.0.20505.0\lib\net40\System.Web.Mvc.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\bin\Debug\WebDriver.Support.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\packages\Microsoft.AspNet.WebPages.2.0.20710.0\lib\net40\System.Web.Helpers.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\bin\Debug\WebDriver.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\packages\Microsoft.AspNet.WebPages.2.0.20710.0\lib\net40\System.Web.WebPages.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\packages\Microsoft.Web.Infrastructure.1.0.0.0\lib\net40\Microsoft.Web.Infrastructure.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\packages\Microsoft.AspNet.WebPages.2.0.20710.0\lib\net40\System.Web.WebPages.Razor.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\bin\Debug\Ionic.Zip.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\packages\Microsoft.AspNet.Razor.2.0.20710.0\lib\net40\System.Web.Razor.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\bin\Debug\TechTalk.SpecFlow.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\bin\Debug\Castle.Core.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\bin\Debug\Newtonsoft.Json.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2012-09-14T09:16:44.6549530-04:00" queuing="2012-09-14T09:16:45.0899530-04:00" start="2012-09-14T09:16:45.1339530-04:00" finish="2012-09-14T09:16:56.1629530-04:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="PopulatePinkVelvetVaultGalleries_MeetMadden_Com" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" id="9b8a8829-6f71-8101-2626-855991eddcfc">
+      <Description>Populate PinkVelvetVault Galleries</Description>
+      <Execution id="42d11cb2-b8dc-47b1-9526-992f8b472cfd" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>PinkVelvetVault</Value>
+        </Property>
+        <Property>
+          <Key>VariantName</Key>
+          <Value>MeetMadden.com</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:site</Key>
+          <Value>MeetMadden.com</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:modelName</Key>
+          <Value>Meet Madden</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Users/TMacBlane/Documents/DevelopmentProjects/PornCantina.UIAutomation/bin/Debug/PornCantina.UIAutomation.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PornCantina.UIAutomation.Scenarios.PinkVelvetVaultFeature, PornCantina.UIAutomation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PopulatePinkVelvetVaultGalleries_MeetMadden_Com" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="9b8a8829-6f71-8101-2626-855991eddcfc" executionId="42d11cb2-b8dc-47b1-9526-992f8b472cfd" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="42d11cb2-b8dc-47b1-9526-992f8b472cfd" testId="9b8a8829-6f71-8101-2626-855991eddcfc" testName="PopulatePinkVelvetVaultGalleries_MeetMadden_Com" computerName="FIREFLY" duration="00:00:10.5496072" startTime="2012-09-14T09:16:45.1569530-04:00" endTime="2012-09-14T09:16:56.1279530-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="42d11cb2-b8dc-47b1-9526-992f8b472cfd">
+      <Output>
+        <StdOut>Given I open the pinkvelvet page
+-&gt; done: StepDefinitions.GivenIOpenTheSpecifiedPage("pinkvelvet") (5.7s)
+Then I should be on the pinkvelvet page
+-&gt; done: StepDefinitions.IShouldBeOnTheSpecifiedPage("pinkvelvet") (0.1s)
+When I enter the PinkVelvetVault ccbill id
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenIEnterTheSpecifiedCcbillId("PinkVelvetVault") (0.1s)
+And I select MeetMadden.com from the site dropdown list
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenISelectTheModelNameFromTheSiteDropdownList("MeetMadden.com") (0.8s)
+And I select the Past Week date range
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenISelectTheDateRangeDateRange("Past Week") (0.1s)
+And I select the type of Pics
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenISelectTheSpecifiedType("Pics") (0.1s)
+And I select the thumbnail size 130x174
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenISelectTheSpecifiedThumbnailSize("130x174") (0.1s)
+And I select to display All galleries per page
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenISelectToDisplaySpecifiedNumberOfGalleriesPerPage("All") (0.1s)
+And I click the generate button
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenIClickTheGenerateButton() (0.9s)
+Then I should see the populated list of galleries
+-&gt; done: HostedGalleriesManagerStepDefinitions.ThenIShouldSeeThePopulatedListOfGalleries() (0.1s)
+And I should create any new Meet Madden pinkvelvetvault galleries
+-&gt; done: PinkVelvetVaultStepDefinitions.ThenIShouldCreateAnyNewModelNamePinkvelvetvaultGalleries("Meet Madden") (1.4s)</StdOut>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

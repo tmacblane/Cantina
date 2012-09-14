@@ -300,8 +300,10 @@ namespace PornCantina.Controllers
 			//    }
 			//}
 
+			var files = dInfo.GetFiles().OrderByDescending(f => f.Name).Reverse();
+
 			// iterate through each file and rename and create thumbnails
-			foreach(var file in dInfo.GetFiles())
+			foreach(var file in files)
 			{
 				string filename = string.Empty;
 

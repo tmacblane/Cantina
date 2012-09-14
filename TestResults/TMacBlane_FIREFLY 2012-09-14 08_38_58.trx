@@ -1,0 +1,1244 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="239184f4-fbbf-4a6e-afce-55ae9e2f16a0" name="TMacBlane@FIREFLY 2012-09-14 08:38:58" runUser="Firefly\TMacBlane" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Default Test Settings" id="b9f82e25-687c-4234-bd8c-3d94610431c9">
+    <Deployment runDeploymentRoot="TMacBlane_FIREFLY 2012-09-14 08_38_58">
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\AutomationFramework\bin\Debug\AutomationFramework.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\packages\Microsoft.AspNet.WebPages.2.0.20710.0\lib\net40\System.Web.WebPages.Deployment.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\PornCantina\bin\PornCantina.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\packages\Microsoft.AspNet.Mvc.4.0.20505.0\lib\net40\System.Web.Mvc.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\bin\Debug\WebDriver.Support.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\packages\Microsoft.AspNet.WebPages.2.0.20710.0\lib\net40\System.Web.Helpers.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\bin\Debug\WebDriver.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\packages\Microsoft.AspNet.WebPages.2.0.20710.0\lib\net40\System.Web.WebPages.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\packages\Microsoft.Web.Infrastructure.1.0.0.0\lib\net40\Microsoft.Web.Infrastructure.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\packages\Microsoft.AspNet.WebPages.2.0.20710.0\lib\net40\System.Web.WebPages.Razor.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\bin\Debug\Ionic.Zip.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\packages\Microsoft.AspNet.Razor.2.0.20710.0\lib\net40\System.Web.Razor.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\bin\Debug\TechTalk.SpecFlow.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\bin\Debug\Castle.Core.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\bin\Debug\Newtonsoft.Json.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2012-09-14T08:38:58.1799530-04:00" queuing="2012-09-14T08:39:00.2809530-04:00" start="2012-09-14T08:39:00.4019530-04:00" finish="2012-09-14T08:49:21.8709530-04:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="26" executed="26" passed="21" error="0" failed="5" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="PopulateBellaCashGalleries_MonroeLee" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" id="6af92fa9-0ccf-8383-ab91-02e618ce084c">
+      <Description>Populate BellaCash Galleries</Description>
+      <Execution id="5dc08d81-7f3c-44ae-b326-709205e30da4" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>BellaCash</Value>
+        </Property>
+        <Property>
+          <Key>VariantName</Key>
+          <Value>Monroe Lee</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:modelName</Key>
+          <Value>Monroe Lee</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Users/TMacBlane/Documents/DevelopmentProjects/PornCantina.UIAutomation/bin/Debug/PornCantina.UIAutomation.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PornCantina.UIAutomation.Scenarios.BellaCashFeature, PornCantina.UIAutomation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PopulateBellaCashGalleries_MonroeLee" />
+    </UnitTest>
+    <UnitTest name="PopulateZellysCashGalleries_BluEyedCass" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" id="d4651545-402e-63fd-5727-2f619b78f07c">
+      <Description>Populate ZellysCash Galleries</Description>
+      <Execution id="869fc3b6-7be3-48ab-8eb7-07444405a7ae" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>ZellysCash</Value>
+        </Property>
+        <Property>
+          <Key>VariantName</Key>
+          <Value>BluEyedCass</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:modelName</Key>
+          <Value>BluEyedCass</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Users/TMacBlane/Documents/DevelopmentProjects/PornCantina.UIAutomation/bin/Debug/PornCantina.UIAutomation.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PornCantina.UIAutomation.Scenarios.ZellysCashFeature, PornCantina.UIAutomation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PopulateZellysCashGalleries_BluEyedCass" />
+    </UnitTest>
+    <UnitTest name="PopulateBellaCashGalleries_AvaDawn" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" id="2272289c-032b-1243-7330-eb5092e584fc">
+      <Description>Populate BellaCash Galleries</Description>
+      <Execution id="17a62ee2-6a24-4924-a414-bd34510a56fb" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>BellaCash</Value>
+        </Property>
+        <Property>
+          <Key>VariantName</Key>
+          <Value>Ava Dawn</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:modelName</Key>
+          <Value>Ava Dawn</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Users/TMacBlane/Documents/DevelopmentProjects/PornCantina.UIAutomation/bin/Debug/PornCantina.UIAutomation.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PornCantina.UIAutomation.Scenarios.BellaCashFeature, PornCantina.UIAutomation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PopulateBellaCashGalleries_AvaDawn" />
+    </UnitTest>
+    <UnitTest name="PopulatePinkVelvetVaultGalleries_Nikkisplaymates_Com" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" id="4cbca76b-5162-199c-dd79-ce8dc44ed77b">
+      <Description>Populate PinkVelvetVault Galleries</Description>
+      <Execution id="e006e743-b7b9-4d61-bfdd-daaf1e772233" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>PinkVelvetVault</Value>
+        </Property>
+        <Property>
+          <Key>VariantName</Key>
+          <Value>Nikkisplaymates.com</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:site</Key>
+          <Value>Nikkisplaymates.com</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:modelName</Key>
+          <Value>Nikkis Sims</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Users/TMacBlane/Documents/DevelopmentProjects/PornCantina.UIAutomation/bin/Debug/PornCantina.UIAutomation.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PornCantina.UIAutomation.Scenarios.PinkVelvetVaultFeature, PornCantina.UIAutomation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PopulatePinkVelvetVaultGalleries_Nikkisplaymates_Com" />
+    </UnitTest>
+    <UnitTest name="PopulateJewelsGoldGalleries" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" id="64a7a8aa-d2a3-43db-0a19-db0baa07537e">
+      <Description>Populate JewelsGold Galleries</Description>
+      <Execution id="4a7ba4e0-fc16-4caa-8553-232a8edf9aa0" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>JewelsGold</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Users/TMacBlane/Documents/DevelopmentProjects/PornCantina.UIAutomation/bin/Debug/PornCantina.UIAutomation.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PornCantina.UIAutomation.Scenarios.JewelsGoldFeature, PornCantina.UIAutomation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PopulateJewelsGoldGalleries" />
+    </UnitTest>
+    <UnitTest name="PopulateBellaCashGalleries_Bryci" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" id="66f4f75a-e39b-800c-c209-257f1c101b17">
+      <Description>Populate BellaCash Galleries</Description>
+      <Execution id="c69b5e06-cf89-4f18-a7cd-910cbf5d75b2" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>BellaCash</Value>
+        </Property>
+        <Property>
+          <Key>VariantName</Key>
+          <Value>Bryci</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:modelName</Key>
+          <Value>Bryci</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Users/TMacBlane/Documents/DevelopmentProjects/PornCantina.UIAutomation/bin/Debug/PornCantina.UIAutomation.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PornCantina.UIAutomation.Scenarios.BellaCashFeature, PornCantina.UIAutomation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PopulateBellaCashGalleries_Bryci" />
+    </UnitTest>
+    <UnitTest name="PopulatePinkVelvetVaultGalleries_LynnPops_Com" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" id="70329624-f7cc-6664-b631-4cc70d51a00f">
+      <Description>Populate PinkVelvetVault Galleries</Description>
+      <Execution id="348d83b7-f668-44e7-947e-db0aec1c8eef" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>PinkVelvetVault</Value>
+        </Property>
+        <Property>
+          <Key>VariantName</Key>
+          <Value>LynnPops.com</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:site</Key>
+          <Value>LynnPops.com</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:modelName</Key>
+          <Value>Lynn Pops</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Users/TMacBlane/Documents/DevelopmentProjects/PornCantina.UIAutomation/bin/Debug/PornCantina.UIAutomation.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PornCantina.UIAutomation.Scenarios.PinkVelvetVaultFeature, PornCantina.UIAutomation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PopulatePinkVelvetVaultGalleries_LynnPops_Com" />
+    </UnitTest>
+    <UnitTest name="PopulatePinkVelvetVaultGalleries_BellaXOXO_Com" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" id="330e0218-b1c3-0599-b86f-bb99241a385f">
+      <Description>Populate PinkVelvetVault Galleries</Description>
+      <Execution id="da07598c-06d8-4f91-862c-b4aa0a3298dd" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>PinkVelvetVault</Value>
+        </Property>
+        <Property>
+          <Key>VariantName</Key>
+          <Value>BellaXOXO.com</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:site</Key>
+          <Value>BellaXOXO.com</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:modelName</Key>
+          <Value>Bella XOXO</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Users/TMacBlane/Documents/DevelopmentProjects/PornCantina.UIAutomation/bin/Debug/PornCantina.UIAutomation.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PornCantina.UIAutomation.Scenarios.PinkVelvetVaultFeature, PornCantina.UIAutomation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PopulatePinkVelvetVaultGalleries_BellaXOXO_Com" />
+    </UnitTest>
+    <UnitTest name="PopulateBellaCashGalleries_NatalieTyler" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" id="7c9891c3-de5a-d9fc-615e-6f7414163765">
+      <Description>Populate BellaCash Galleries</Description>
+      <Execution id="53f3f184-1c22-4b22-825b-84e4bc03ab0e" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>BellaCash</Value>
+        </Property>
+        <Property>
+          <Key>VariantName</Key>
+          <Value>Natalie Tyler</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:modelName</Key>
+          <Value>Natalie Tyler</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Users/TMacBlane/Documents/DevelopmentProjects/PornCantina.UIAutomation/bin/Debug/PornCantina.UIAutomation.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PornCantina.UIAutomation.Scenarios.BellaCashFeature, PornCantina.UIAutomation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PopulateBellaCashGalleries_NatalieTyler" />
+    </UnitTest>
+    <UnitTest name="PopulatePinkVelvetVaultGalleries_TiffanyAlexis_Com" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" id="09f339eb-e1ff-0d96-dca9-6e24e2f7cfbf">
+      <Description>Populate PinkVelvetVault Galleries</Description>
+      <Execution id="f5b9a58c-0f4c-4475-9da6-4f35a2abbea9" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>PinkVelvetVault</Value>
+        </Property>
+        <Property>
+          <Key>VariantName</Key>
+          <Value>TiffanyAlexis.com</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:site</Key>
+          <Value>TiffanyAlexis.com</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:modelName</Key>
+          <Value>Tiffany Alexis</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Users/TMacBlane/Documents/DevelopmentProjects/PornCantina.UIAutomation/bin/Debug/PornCantina.UIAutomation.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PornCantina.UIAutomation.Scenarios.PinkVelvetVaultFeature, PornCantina.UIAutomation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PopulatePinkVelvetVaultGalleries_TiffanyAlexis_Com" />
+    </UnitTest>
+    <UnitTest name="PopulatePinkVelvetVaultGalleries_BrianaLeeOnline" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" id="b561c79c-303d-25b6-3666-9b140d099ec6">
+      <Description>Populate PinkVelvetVault Galleries</Description>
+      <Execution id="a8e917e5-5033-40f2-8881-11b8d854d5a4" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>PinkVelvetVault</Value>
+        </Property>
+        <Property>
+          <Key>VariantName</Key>
+          <Value>BrianaLeeOnline</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:site</Key>
+          <Value>BrianaLeeOnline</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:modelName</Key>
+          <Value>Briana Lee Online</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Users/TMacBlane/Documents/DevelopmentProjects/PornCantina.UIAutomation/bin/Debug/PornCantina.UIAutomation.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PornCantina.UIAutomation.Scenarios.PinkVelvetVaultFeature, PornCantina.UIAutomation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PopulatePinkVelvetVaultGalleries_BrianaLeeOnline" />
+    </UnitTest>
+    <UnitTest name="PopulatePinkVelvetVaultGalleries_BrianaLeeExtreme_Com" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" id="076a81dd-d8a3-782a-c412-1ea2d0276610">
+      <Description>Populate PinkVelvetVault Galleries</Description>
+      <Execution id="4bde04e1-8491-4be4-835c-64f44d2071c7" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>PinkVelvetVault</Value>
+        </Property>
+        <Property>
+          <Key>VariantName</Key>
+          <Value>BrianaLeeExtreme.com</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:site</Key>
+          <Value>BrianaLeeExtreme.com</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:modelName</Key>
+          <Value>Briana Lee Extreme</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Users/TMacBlane/Documents/DevelopmentProjects/PornCantina.UIAutomation/bin/Debug/PornCantina.UIAutomation.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PornCantina.UIAutomation.Scenarios.PinkVelvetVaultFeature, PornCantina.UIAutomation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PopulatePinkVelvetVaultGalleries_BrianaLeeExtreme_Com" />
+    </UnitTest>
+    <UnitTest name="PopulateBellaCashGalleries_TaliaShepard" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" id="b2fe822b-5976-20eb-494c-a2e70b73f8a8">
+      <Description>Populate BellaCash Galleries</Description>
+      <Execution id="9e46abad-30cc-4a2a-9907-90c9aa8c23d4" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>BellaCash</Value>
+        </Property>
+        <Property>
+          <Key>VariantName</Key>
+          <Value>Talia Shepard</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:modelName</Key>
+          <Value>Talia Shepard</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Users/TMacBlane/Documents/DevelopmentProjects/PornCantina.UIAutomation/bin/Debug/PornCantina.UIAutomation.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PornCantina.UIAutomation.Scenarios.BellaCashFeature, PornCantina.UIAutomation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PopulateBellaCashGalleries_TaliaShepard" />
+    </UnitTest>
+    <UnitTest name="PopulateZellysCashGalleries_Zellys_Com" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" id="efe8e8c2-3563-b091-1ee4-879573922381">
+      <Description>Populate ZellysCash Galleries</Description>
+      <Execution id="00562032-e54a-4025-8e18-7bbcd076e6da" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>ZellysCash</Value>
+        </Property>
+        <Property>
+          <Key>VariantName</Key>
+          <Value>Zellys.com</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:modelName</Key>
+          <Value>Zellys.com</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Users/TMacBlane/Documents/DevelopmentProjects/PornCantina.UIAutomation/bin/Debug/PornCantina.UIAutomation.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PornCantina.UIAutomation.Scenarios.ZellysCashFeature, PornCantina.UIAutomation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PopulateZellysCashGalleries_Zellys_Com" />
+    </UnitTest>
+    <UnitTest name="PopulateSoloRevenueGalleries_NatashaBelle" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" id="ebbecc38-d662-fe20-bb0b-7b866076d219">
+      <Description>Populate SoloRevenue Galleries</Description>
+      <Execution id="becd0a36-b251-4e8f-b1e7-1bb970359ecc" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>SoloRevenue</Value>
+        </Property>
+        <Property>
+          <Key>VariantName</Key>
+          <Value>Natasha Belle</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:modelName</Key>
+          <Value>Natasha Belle</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Users/TMacBlane/Documents/DevelopmentProjects/PornCantina.UIAutomation/bin/Debug/PornCantina.UIAutomation.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PornCantina.UIAutomation.Scenarios.SoloRevenueFeature, PornCantina.UIAutomation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PopulateSoloRevenueGalleries_NatashaBelle" />
+    </UnitTest>
+    <UnitTest name="PopulatePinkVelvetVaultGalleries_CherryZips_Com" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" id="6723ee26-ffeb-9536-ffc6-148f6bd91bb4">
+      <Description>Populate PinkVelvetVault Galleries</Description>
+      <Execution id="f706496e-205d-4fcf-8f1f-a63ef715c682" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>PinkVelvetVault</Value>
+        </Property>
+        <Property>
+          <Key>VariantName</Key>
+          <Value>CherryZips.com</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:site</Key>
+          <Value>CherryZips.com</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:modelName</Key>
+          <Value>Cherry Zips</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Users/TMacBlane/Documents/DevelopmentProjects/PornCantina.UIAutomation/bin/Debug/PornCantina.UIAutomation.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PornCantina.UIAutomation.Scenarios.PinkVelvetVaultFeature, PornCantina.UIAutomation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PopulatePinkVelvetVaultGalleries_CherryZips_Com" />
+    </UnitTest>
+    <UnitTest name="PopulateMinxManiaGalleries" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" id="56f54296-15ab-8819-79de-9cb8a298433f">
+      <Description>Populate MinxMania Galleries</Description>
+      <Execution id="c1fef8af-a79c-4300-9fc9-4c2dd5df3445" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>MinxMafia</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Users/TMacBlane/Documents/DevelopmentProjects/PornCantina.UIAutomation/bin/Debug/PornCantina.UIAutomation.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PornCantina.UIAutomation.Scenarios.MinxMafiaFeature, PornCantina.UIAutomation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PopulateMinxManiaGalleries" />
+    </UnitTest>
+    <UnitTest name="PopulatePinkVelvetVaultGalleries_Brittany_Avalon_Com" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" id="2910964a-1343-9aba-d7b0-6918c25f5329">
+      <Description>Populate PinkVelvetVault Galleries</Description>
+      <Execution id="a87f1fe4-404e-4059-a45a-ddd47d178d43" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>PinkVelvetVault</Value>
+        </Property>
+        <Property>
+          <Key>VariantName</Key>
+          <Value>Brittany-Avalon.com</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:site</Key>
+          <Value>Brittany-Avalon.com</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:modelName</Key>
+          <Value>Brittany Avalon</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Users/TMacBlane/Documents/DevelopmentProjects/PornCantina.UIAutomation/bin/Debug/PornCantina.UIAutomation.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PornCantina.UIAutomation.Scenarios.PinkVelvetVaultFeature, PornCantina.UIAutomation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PopulatePinkVelvetVaultGalleries_Brittany_Avalon_Com" />
+    </UnitTest>
+    <UnitTest name="PopulatePinkVelvetVaultGalleries_TaylorTrue" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" id="90275ed3-6b7f-be6c-3123-37a1d67aeee3">
+      <Description>Populate PinkVelvetVault Galleries</Description>
+      <Execution id="b04abb6a-508d-4be4-98b9-423723be5da2" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>PinkVelvetVault</Value>
+        </Property>
+        <Property>
+          <Key>VariantName</Key>
+          <Value>TaylorTrue</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:site</Key>
+          <Value>TaylorTrue</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:modelName</Key>
+          <Value>Taylor True</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Users/TMacBlane/Documents/DevelopmentProjects/PornCantina.UIAutomation/bin/Debug/PornCantina.UIAutomation.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PornCantina.UIAutomation.Scenarios.PinkVelvetVaultFeature, PornCantina.UIAutomation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PopulatePinkVelvetVaultGalleries_TaylorTrue" />
+    </UnitTest>
+    <UnitTest name="PopulateSoloRevenueGalleries_AutumnRiley" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" id="5b4f7a04-e91d-3766-70df-2affdcfda282">
+      <Description>Populate SoloRevenue Galleries</Description>
+      <Execution id="53e9ccf3-4570-41a9-b07e-053240c65e60" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>SoloRevenue</Value>
+        </Property>
+        <Property>
+          <Key>VariantName</Key>
+          <Value>Autumn Riley</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:modelName</Key>
+          <Value>Autumn Riley</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Users/TMacBlane/Documents/DevelopmentProjects/PornCantina.UIAutomation/bin/Debug/PornCantina.UIAutomation.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PornCantina.UIAutomation.Scenarios.SoloRevenueFeature, PornCantina.UIAutomation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PopulateSoloRevenueGalleries_AutumnRiley" />
+    </UnitTest>
+    <UnitTest name="PopulatePinkVelvetVaultGalleries_RadiantDesire_Com" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" id="6ab30983-7e28-5632-d87f-2957844134d4">
+      <Description>Populate PinkVelvetVault Galleries</Description>
+      <Execution id="81646c10-913e-4745-aac5-be8c433e8236" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>PinkVelvetVault</Value>
+        </Property>
+        <Property>
+          <Key>VariantName</Key>
+          <Value>RadiantDesire.com</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:site</Key>
+          <Value>RadiantDesire.com</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:modelName</Key>
+          <Value>Radiant Desire</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Users/TMacBlane/Documents/DevelopmentProjects/PornCantina.UIAutomation/bin/Debug/PornCantina.UIAutomation.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PornCantina.UIAutomation.Scenarios.PinkVelvetVaultFeature, PornCantina.UIAutomation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PopulatePinkVelvetVaultGalleries_RadiantDesire_Com" />
+    </UnitTest>
+    <UnitTest name="PopulateBellaCashGalleries_KatieBanks" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" id="8c136c51-948d-db20-6929-2e8f37a20b36">
+      <Description>Populate BellaCash Galleries</Description>
+      <Execution id="a92b5b69-af97-4119-93bb-2f9d2504f012" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>BellaCash</Value>
+        </Property>
+        <Property>
+          <Key>VariantName</Key>
+          <Value>Katie Banks</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:modelName</Key>
+          <Value>Katie Banks</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Users/TMacBlane/Documents/DevelopmentProjects/PornCantina.UIAutomation/bin/Debug/PornCantina.UIAutomation.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PornCantina.UIAutomation.Scenarios.BellaCashFeature, PornCantina.UIAutomation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PopulateBellaCashGalleries_KatieBanks" />
+    </UnitTest>
+    <UnitTest name="PopulatePinkVelvetVaultGalleries_Sockblocked_Com" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" id="b4f0a9e8-5d81-3545-39ca-78302cfc2e4c">
+      <Description>Populate PinkVelvetVault Galleries</Description>
+      <Execution id="f97d93ed-5d46-44fa-b3a6-40de4f66332d" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>PinkVelvetVault</Value>
+        </Property>
+        <Property>
+          <Key>VariantName</Key>
+          <Value>Sockblocked.com</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:site</Key>
+          <Value>Sockblocked.com</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:modelName</Key>
+          <Value>Sock Blocked</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Users/TMacBlane/Documents/DevelopmentProjects/PornCantina.UIAutomation/bin/Debug/PornCantina.UIAutomation.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PornCantina.UIAutomation.Scenarios.PinkVelvetVaultFeature, PornCantina.UIAutomation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PopulatePinkVelvetVaultGalleries_Sockblocked_Com" />
+    </UnitTest>
+    <UnitTest name="PopulateZellysCashGalleries_MelissaXoXo" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" id="3244bd33-62ad-5b0c-a0f8-17623bcb7156">
+      <Description>Populate ZellysCash Galleries</Description>
+      <Execution id="9af0f74f-e066-40d8-94a6-8097def0b57a" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>ZellysCash</Value>
+        </Property>
+        <Property>
+          <Key>VariantName</Key>
+          <Value>Melissa XoXo</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:modelName</Key>
+          <Value>Melissa XoXo</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Users/TMacBlane/Documents/DevelopmentProjects/PornCantina.UIAutomation/bin/Debug/PornCantina.UIAutomation.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PornCantina.UIAutomation.Scenarios.ZellysCashFeature, PornCantina.UIAutomation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PopulateZellysCashGalleries_MelissaXoXo" />
+    </UnitTest>
+    <UnitTest name="PopulatePinkVelvetVaultGalleries_MeetMadden_Com" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" id="9b8a8829-6f71-8101-2626-855991eddcfc">
+      <Description>Populate PinkVelvetVault Galleries</Description>
+      <Execution id="ae610c5e-ebf8-4f83-b361-3e3e0ae8e9e5" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>PinkVelvetVault</Value>
+        </Property>
+        <Property>
+          <Key>VariantName</Key>
+          <Value>MeetMadden.com</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:site</Key>
+          <Value>MeetMadden.com</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:modelName</Key>
+          <Value>Meet Madden</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Users/TMacBlane/Documents/DevelopmentProjects/PornCantina.UIAutomation/bin/Debug/PornCantina.UIAutomation.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PornCantina.UIAutomation.Scenarios.PinkVelvetVaultFeature, PornCantina.UIAutomation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PopulatePinkVelvetVaultGalleries_MeetMadden_Com" />
+    </UnitTest>
+    <UnitTest name="PopulatePinkVelvetVaultGalleries_KendraRain_Com" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" id="faee341e-3298-bbd5-13d9-4d169a7040ed">
+      <Description>Populate PinkVelvetVault Galleries</Description>
+      <Execution id="c14d677f-3d60-405a-b147-1a2c9d2abb0d" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>PinkVelvetVault</Value>
+        </Property>
+        <Property>
+          <Key>VariantName</Key>
+          <Value>KendraRain.com</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:site</Key>
+          <Value>KendraRain.com</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:modelName</Key>
+          <Value>Kendra Rain</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Users/TMacBlane/Documents/DevelopmentProjects/PornCantina.UIAutomation/bin/Debug/PornCantina.UIAutomation.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PornCantina.UIAutomation.Scenarios.PinkVelvetVaultFeature, PornCantina.UIAutomation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PopulatePinkVelvetVaultGalleries_KendraRain_Com" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="b561c79c-303d-25b6-3666-9b140d099ec6" executionId="a8e917e5-5033-40f2-8881-11b8d854d5a4" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b2fe822b-5976-20eb-494c-a2e70b73f8a8" executionId="9e46abad-30cc-4a2a-9907-90c9aa8c23d4" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="8c136c51-948d-db20-6929-2e8f37a20b36" executionId="a92b5b69-af97-4119-93bb-2f9d2504f012" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="90275ed3-6b7f-be6c-3123-37a1d67aeee3" executionId="b04abb6a-508d-4be4-98b9-423723be5da2" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d4651545-402e-63fd-5727-2f619b78f07c" executionId="869fc3b6-7be3-48ab-8eb7-07444405a7ae" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="56f54296-15ab-8819-79de-9cb8a298433f" executionId="c1fef8af-a79c-4300-9fc9-4c2dd5df3445" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="6ab30983-7e28-5632-d87f-2957844134d4" executionId="81646c10-913e-4745-aac5-be8c433e8236" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="076a81dd-d8a3-782a-c412-1ea2d0276610" executionId="4bde04e1-8491-4be4-835c-64f44d2071c7" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="7c9891c3-de5a-d9fc-615e-6f7414163765" executionId="53f3f184-1c22-4b22-825b-84e4bc03ab0e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="64a7a8aa-d2a3-43db-0a19-db0baa07537e" executionId="4a7ba4e0-fc16-4caa-8553-232a8edf9aa0" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ebbecc38-d662-fe20-bb0b-7b866076d219" executionId="becd0a36-b251-4e8f-b1e7-1bb970359ecc" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="4cbca76b-5162-199c-dd79-ce8dc44ed77b" executionId="e006e743-b7b9-4d61-bfdd-daaf1e772233" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="efe8e8c2-3563-b091-1ee4-879573922381" executionId="00562032-e54a-4025-8e18-7bbcd076e6da" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="330e0218-b1c3-0599-b86f-bb99241a385f" executionId="da07598c-06d8-4f91-862c-b4aa0a3298dd" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="faee341e-3298-bbd5-13d9-4d169a7040ed" executionId="c14d677f-3d60-405a-b147-1a2c9d2abb0d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="09f339eb-e1ff-0d96-dca9-6e24e2f7cfbf" executionId="f5b9a58c-0f4c-4475-9da6-4f35a2abbea9" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="9b8a8829-6f71-8101-2626-855991eddcfc" executionId="ae610c5e-ebf8-4f83-b361-3e3e0ae8e9e5" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="6af92fa9-0ccf-8383-ab91-02e618ce084c" executionId="5dc08d81-7f3c-44ae-b326-709205e30da4" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="70329624-f7cc-6664-b631-4cc70d51a00f" executionId="348d83b7-f668-44e7-947e-db0aec1c8eef" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="6723ee26-ffeb-9536-ffc6-148f6bd91bb4" executionId="f706496e-205d-4fcf-8f1f-a63ef715c682" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="5b4f7a04-e91d-3766-70df-2affdcfda282" executionId="53e9ccf3-4570-41a9-b07e-053240c65e60" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="2910964a-1343-9aba-d7b0-6918c25f5329" executionId="a87f1fe4-404e-4059-a45a-ddd47d178d43" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b4f0a9e8-5d81-3545-39ca-78302cfc2e4c" executionId="f97d93ed-5d46-44fa-b3a6-40de4f66332d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="2272289c-032b-1243-7330-eb5092e584fc" executionId="17a62ee2-6a24-4924-a414-bd34510a56fb" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="66f4f75a-e39b-800c-c209-257f1c101b17" executionId="c69b5e06-cf89-4f18-a7cd-910cbf5d75b2" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="3244bd33-62ad-5b0c-a0f8-17623bcb7156" executionId="9af0f74f-e066-40d8-94a6-8097def0b57a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="a8e917e5-5033-40f2-8881-11b8d854d5a4" testId="b561c79c-303d-25b6-3666-9b140d099ec6" testName="PopulatePinkVelvetVaultGalleries_BrianaLeeOnline" computerName="FIREFLY" duration="00:00:15.5198581" startTime="2012-09-14T08:39:00.4029530-04:00" endTime="2012-09-14T08:39:16.5769530-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a8e917e5-5033-40f2-8881-11b8d854d5a4">
+      <Output>
+        <StdOut>Given I open the pinkvelvet page
+-&gt; done: StepDefinitions.GivenIOpenTheSpecifiedPage("pinkvelvet") (9.7s)
+Then I should be on the pinkvelvet page
+-&gt; done: StepDefinitions.IShouldBeOnTheSpecifiedPage("pinkvelvet") (0.3s)
+When I enter the PinkVelvetVault ccbill id
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenIEnterTheSpecifiedCcbillId("PinkVelvetVault") (0.1s)
+And I select BrianaLeeOnline from the site dropdown list
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenISelectTheModelNameFromTheSiteDropdownList("BrianaLeeOnline") (0.3s)
+And I select the Past Week date range
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenISelectTheDateRangeDateRange("Past Week") (0.1s)
+And I select the type of Pics
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenISelectTheSpecifiedType("Pics") (0.2s)
+And I select the thumbnail size 130x174
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenISelectTheSpecifiedThumbnailSize("130x174") (0.0s)
+And I select to display All galleries per page
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenISelectToDisplaySpecifiedNumberOfGalleriesPerPage("All") (0.1s)
+And I click the generate button
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenIClickTheGenerateButton() (1.0s)
+Then I should see the populated list of galleries
+-&gt; done: HostedGalleriesManagerStepDefinitions.ThenIShouldSeeThePopulatedListOfGalleries() (0.0s)
+And I should create any new Briana Lee Online pinkvelvetvault galleries
+-&gt; done: PinkVelvetVaultStepDefinitions.ThenIShouldCreateAnyNewModelNamePinkvelvetvaultGalleries("Briana Lee Online") (2.3s)</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="9e46abad-30cc-4a2a-9907-90c9aa8c23d4" testId="b2fe822b-5976-20eb-494c-a2e70b73f8a8" testName="PopulateBellaCashGalleries_TaliaShepard" computerName="FIREFLY" duration="00:00:17.9255458" startTime="2012-09-14T08:39:16.5849530-04:00" endTime="2012-09-14T08:39:34.5459530-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="9e46abad-30cc-4a2a-9907-90c9aa8c23d4">
+      <Output>
+        <StdOut>Given I open the bellacash page
+-&gt; done: StepDefinitions.GivenIOpenTheSpecifiedPage("bellacash") (5.2s)
+Then I should be on the bellacash page
+-&gt; done: StepDefinitions.IShouldBeOnTheSpecifiedPage("bellacash") (0.3s)
+When I select the Talia Shepard bellapass paysite
+-&gt; done: BellaCashStepDefinitions.WhenISelectTheSpecifiedPaysite("Talia Shepard") (0.1s)
+Then I should see the Talia Shepard bellapass hosted galleries
+-&gt; done: BellaCashStepDefinitions.ThenIShouldSeeTheSpecifiedHostedGalleries("Talia Shepard") (5.0s)
+And I should create any new Talia Shepard bellapass galleries
+-&gt; done: BellaCashStepDefinitions.ThenIShouldCreateAnyNewModelNameBellapassGalleries("Talia Shepard") (6.1s)</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="a92b5b69-af97-4119-93bb-2f9d2504f012" testId="8c136c51-948d-db20-6929-2e8f37a20b36" testName="PopulateBellaCashGalleries_KatieBanks" computerName="FIREFLY" duration="00:00:28.2436629" startTime="2012-09-14T08:39:34.5469530-04:00" endTime="2012-09-14T08:40:02.7979530-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a92b5b69-af97-4119-93bb-2f9d2504f012">
+      <Output>
+        <StdOut>Given I open the bellacash page
+-&gt; done: StepDefinitions.GivenIOpenTheSpecifiedPage("bellacash") (6.1s)
+Then I should be on the bellacash page
+-&gt; done: StepDefinitions.IShouldBeOnTheSpecifiedPage("bellacash") (0.5s)
+When I select the Katie Banks bellapass paysite
+-&gt; done: BellaCashStepDefinitions.WhenISelectTheSpecifiedPaysite("Katie Banks") (0.1s)
+Then I should see the Katie Banks bellapass hosted galleries
+-&gt; done: BellaCashStepDefinitions.ThenIShouldSeeTheSpecifiedHostedGalleries("Katie Banks") (10.3s)
+And I should create any new Katie Banks bellapass galleries
+-&gt; done: BellaCashStepDefinitions.ThenIShouldCreateAnyNewModelNameBellapassGalleries("Katie Banks") (10.0s)</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="b04abb6a-508d-4be4-98b9-423723be5da2" testId="90275ed3-6b7f-be6c-3123-37a1d67aeee3" testName="PopulatePinkVelvetVaultGalleries_TaylorTrue" computerName="FIREFLY" duration="00:00:10.5293345" startTime="2012-09-14T08:40:02.7999530-04:00" endTime="2012-09-14T08:40:13.3329530-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b04abb6a-508d-4be4-98b9-423723be5da2">
+      <Output>
+        <StdOut>Given I open the pinkvelvet page
+-&gt; done: StepDefinitions.GivenIOpenTheSpecifiedPage("pinkvelvet") (7.1s)
+Then I should be on the pinkvelvet page
+-&gt; done: StepDefinitions.IShouldBeOnTheSpecifiedPage("pinkvelvet") (0.2s)
+When I enter the PinkVelvetVault ccbill id
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenIEnterTheSpecifiedCcbillId("PinkVelvetVault") (0.1s)
+And I select TaylorTrue from the site dropdown list
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenISelectTheModelNameFromTheSiteDropdownList("TaylorTrue") (0.6s)
+And I select the Past Week date range
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenISelectTheDateRangeDateRange("Past Week") (0.1s)
+And I select the type of Pics
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenISelectTheSpecifiedType("Pics") (0.1s)
+And I select the thumbnail size 130x174
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenISelectTheSpecifiedThumbnailSize("130x174") (0.1s)
+And I select to display All galleries per page
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenISelectToDisplaySpecifiedNumberOfGalleriesPerPage("All") (0.1s)
+And I click the generate button
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenIClickTheGenerateButton() (0.9s)
+Then I should see the populated list of galleries
+-&gt; done: HostedGalleriesManagerStepDefinitions.ThenIShouldSeeThePopulatedListOfGalleries() (0.0s)
+And I should create any new Taylor True pinkvelvetvault galleries
+-&gt; done: PinkVelvetVaultStepDefinitions.ThenIShouldCreateAnyNewModelNamePinkvelvetvaultGalleries("Taylor True") (0.0s)</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="869fc3b6-7be3-48ab-8eb7-07444405a7ae" testId="d4651545-402e-63fd-5727-2f619b78f07c" testName="PopulateZellysCashGalleries_BluEyedCass" computerName="FIREFLY" duration="00:01:23.5182182" startTime="2012-09-14T08:40:13.3349530-04:00" endTime="2012-09-14T08:41:36.8569530-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="869fc3b6-7be3-48ab-8eb7-07444405a7ae">
+      <Output>
+        <StdOut>Given I open the zellyscash page
+-&gt; done: StepDefinitions.GivenIOpenTheSpecifiedPage("zellyscash") (4.6s)
+Then I should be on the zellyscash page
+-&gt; done: StepDefinitions.IShouldBeOnTheSpecifiedPage("zellyscash") (0.1s)
+When I select the BluEyedCass zellyscash paysite
+-&gt; done: ZellysCashStepDefinitions.WhenISelectTheSpecifiedZellysPaysite("BluEyedCass") (0.1s)
+Then I should see the BluEyedCass zellyscash hosted galleries
+-&gt; done: ZellysCashStepDefinitions.ThenIShouldSeeTheSpecifiedZellysHostedGalleries("BluEyedCass") (28.2s)
+And I should create any new BluEyedCass zellyscash galleries
+-&gt; error: Unable to locate element: {"method":"xpath","selector":"//form[2]/table/tbody/tr[2]/td/table/tbody/tr[168]/td[3]"}</StdOut>
+        <ErrorInfo>
+          <Message>Test method PornCantina.UIAutomation.Scenarios.ZellysCashFeature.PopulateZellysCashGalleries_BluEyedCass threw exception: 
+OpenQA.Selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//form[2]/table/tbody/tr[2]/td/table/tbody/tr[168]/td[3]"}</Message>
+          <StackTrace>    at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElementByXPath(String xpath)
+   at OpenQA.Selenium.By.&lt;&gt;c__DisplayClasse.&lt;XPath&gt;b__c(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(By by)
+   at AutomationFramework.BrowserHelper.GetElementByXPath(IWebDriver driver, String locator, String additionalLocatorPath) in C:\Users\TMacBlane\documents\visual studio 2010\Projects\PornCantina\AutomationFramework\Classes\BrowserHelper.cs:line 106
+   at AutomationFramework.BrowserHelper.GetElement(IWebDriver driver, String locator, String additionalLocatorPath) in C:\Users\TMacBlane\documents\visual studio 2010\Projects\PornCantina\AutomationFramework\Classes\BrowserHelper.cs:line 25
+   at AutomationFramework.WebBrowser.GetText(String locator, String additionalLocatorPath) in C:\Users\TMacBlane\documents\visual studio 2010\Projects\PornCantina\AutomationFramework\Classes\WebBrowser.cs:line 154
+   at AutomationFramework.PageElementExtensions.GetText(IPageElement element, String additionalLocator) in C:\Users\TMacBlane\documents\visual studio 2010\Projects\PornCantina\AutomationFramework\Classes\PageElementExtensions.cs:line 76
+   at PornCantina.UIAutomation.StepDefinitions.ZellysCashStepDefinitions.ThenIShouldCreateAnyNewModelNameZellysGalleries(String modelName) in C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\StepDefinitions\ZellysCashStepDefinitions.cs:line 110
+   at lambda_method(Closure , IContextManager , String )
+   at TechTalk.SpecFlow.Bindings.MethodBinding.InvokeAction(IContextManager contextManager, Object[] arguments, ITestTracer testTracer, TimeSpan&amp; duration)
+   at TechTalk.SpecFlow.Bindings.StepDefinitionBinding.Invoke(IContextManager contextManager, ITestTracer testTracer, Object[] arguments, TimeSpan&amp; duration)
+   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.ExecuteStepMatch(BindingMatch match, Object[] arguments)
+   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.ExecuteStep(StepArgs stepArgs)
+   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.OnAfterLastStep()
+   at TechTalk.SpecFlow.TestRunner.CollectScenarioErrors()
+   at PornCantina.UIAutomation.Scenarios.ZellysCashFeature.ScenarioCleanup() in C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\Scenarios\ZellysCash.feature.cs:line 0
+   at PornCantina.UIAutomation.Scenarios.ZellysCashFeature.PopulateZellysCashGalleries(String modelName, String[] exampleTags) in c:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\Scenarios\ZellysCash.feature:line 10
+   at PornCantina.UIAutomation.Scenarios.ZellysCashFeature.PopulateZellysCashGalleries_BluEyedCass() in C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\Scenarios\ZellysCash.feature.cs:line 0
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="c1fef8af-a79c-4300-9fc9-4c2dd5df3445" testId="56f54296-15ab-8819-79de-9cb8a298433f" testName="PopulateMinxManiaGalleries" computerName="FIREFLY" duration="00:00:13.7317751" startTime="2012-09-14T08:41:36.8579530-04:00" endTime="2012-09-14T08:41:50.5949530-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c1fef8af-a79c-4300-9fc9-4c2dd5df3445">
+      <Output>
+        <StdOut>Given I open the minx mafia page
+-&gt; done: StepDefinitions.GivenIOpenTheSpecifiedPage("minx mafia") (7.7s)
+Then I should be on the minx mafia page
+-&gt; done: StepDefinitions.IShouldBeOnTheSpecifiedPage("minx mafia") (0.0s)
+When I select the All date range
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenISelectTheDateRangeDateRange("All") (0.1s)
+When I select CatieMinx.com from the site dropdown list
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenISelectTheModelNameFromTheSiteDropdownList("CatieMinx.com") (0.2s)
+And I select the type of Pics
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenISelectTheSpecifiedType("Pics") (0.2s)
+And I select to display All galleries per page
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenISelectToDisplaySpecifiedNumberOfGalleriesPerPage("All") (0.1s)
+And I click the generate button
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenIClickTheGenerateButton() (2.1s)
+Then I should see the populated list of galleries
+-&gt; done: HostedGalleriesManagerStepDefinitions.ThenIShouldSeeThePopulatedListOfGalleries() (0.0s)
+And I should create any new Catie Minx minxmafia galleries
+-&gt; done: MinxMafiaStepDefinitions.ThenIShouldCreateAnyNewModelNameMinxmafiaGalleries("Catie Minx") (2.1s)</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="81646c10-913e-4745-aac5-be8c433e8236" testId="6ab30983-7e28-5632-d87f-2957844134d4" testName="PopulatePinkVelvetVaultGalleries_RadiantDesire_Com" computerName="FIREFLY" duration="00:00:12.9445567" startTime="2012-09-14T08:41:50.5999530-04:00" endTime="2012-09-14T08:42:03.5469530-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="81646c10-913e-4745-aac5-be8c433e8236">
+      <Output>
+        <StdOut>Given I open the pinkvelvet page
+-&gt; done: StepDefinitions.GivenIOpenTheSpecifiedPage("pinkvelvet") (5.3s)
+Then I should be on the pinkvelvet page
+-&gt; done: StepDefinitions.IShouldBeOnTheSpecifiedPage("pinkvelvet") (3.7s)
+When I enter the PinkVelvetVault ccbill id
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenIEnterTheSpecifiedCcbillId("PinkVelvetVault") (0.1s)
+And I select RadiantDesire.com from the site dropdown list
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenISelectTheModelNameFromTheSiteDropdownList("RadiantDesire.com") (0.5s)
+And I select the Past Week date range
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenISelectTheDateRangeDateRange("Past Week") (0.1s)
+And I select the type of Pics
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenISelectTheSpecifiedType("Pics") (0.1s)
+And I select the thumbnail size 130x174
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenISelectTheSpecifiedThumbnailSize("130x174") (0.1s)
+And I select to display All galleries per page
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenISelectToDisplaySpecifiedNumberOfGalleriesPerPage("All") (0.1s)
+And I click the generate button
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenIClickTheGenerateButton() (1.7s)
+Then I should see the populated list of galleries
+-&gt; done: HostedGalleriesManagerStepDefinitions.ThenIShouldSeeThePopulatedListOfGalleries() (0.0s)
+And I should create any new Radiant Desire pinkvelvetvault galleries
+-&gt; done: PinkVelvetVaultStepDefinitions.ThenIShouldCreateAnyNewModelNamePinkvelvetvaultGalleries("Radiant Desire") (0.0s)</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="4bde04e1-8491-4be4-835c-64f44d2071c7" testId="076a81dd-d8a3-782a-c412-1ea2d0276610" testName="PopulatePinkVelvetVaultGalleries_BrianaLeeExtreme_Com" computerName="FIREFLY" duration="00:00:07.9074911" startTime="2012-09-14T08:42:03.5489530-04:00" endTime="2012-09-14T08:42:11.4659530-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="4bde04e1-8491-4be4-835c-64f44d2071c7">
+      <Output>
+        <StdOut>Given I open the pinkvelvet page
+-&gt; done: StepDefinitions.GivenIOpenTheSpecifiedPage("pinkvelvet") (3.5s)
+Then I should be on the pinkvelvet page
+-&gt; done: StepDefinitions.IShouldBeOnTheSpecifiedPage("pinkvelvet") (1.2s)
+When I enter the PinkVelvetVault ccbill id
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenIEnterTheSpecifiedCcbillId("PinkVelvetVault") (0.1s)
+And I select BrianaLeeExtreme.com from the site dropdown list
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenISelectTheModelNameFromTheSiteDropdownList("BrianaLeeExtreme.com") (0.3s)
+And I select the Past Week date range
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenISelectTheDateRangeDateRange("Past Week") (0.1s)
+And I select the type of Pics
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenISelectTheSpecifiedType("Pics") (0.1s)
+And I select the thumbnail size 130x174
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenISelectTheSpecifiedThumbnailSize("130x174") (0.1s)
+And I select to display All galleries per page
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenISelectToDisplaySpecifiedNumberOfGalleriesPerPage("All") (0.1s)
+And I click the generate button
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenIClickTheGenerateButton() (1.0s)
+Then I should see the populated list of galleries
+-&gt; done: HostedGalleriesManagerStepDefinitions.ThenIShouldSeeThePopulatedListOfGalleries() (0.0s)
+And I should create any new Briana Lee Extreme pinkvelvetvault galleries
+-&gt; done: PinkVelvetVaultStepDefinitions.ThenIShouldCreateAnyNewModelNamePinkvelvetvaultGalleries("Briana Lee Extreme") (0.3s)</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="53f3f184-1c22-4b22-825b-84e4bc03ab0e" testId="7c9891c3-de5a-d9fc-615e-6f7414163765" testName="PopulateBellaCashGalleries_NatalieTyler" computerName="FIREFLY" duration="00:00:14.8417740" startTime="2012-09-14T08:42:11.4699530-04:00" endTime="2012-09-14T08:42:26.3149530-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="53f3f184-1c22-4b22-825b-84e4bc03ab0e">
+      <Output>
+        <StdOut>Given I open the bellacash page
+-&gt; done: StepDefinitions.GivenIOpenTheSpecifiedPage("bellacash") (5.9s)
+Then I should be on the bellacash page
+-&gt; done: StepDefinitions.IShouldBeOnTheSpecifiedPage("bellacash") (0.2s)
+When I select the Natalie Tyler bellapass paysite
+-&gt; done: BellaCashStepDefinitions.WhenISelectTheSpecifiedPaysite("Natalie Tyler") (0.1s)
+Then I should see the Natalie Tyler bellapass hosted galleries
+-&gt; done: BellaCashStepDefinitions.ThenIShouldSeeTheSpecifiedHostedGalleries("Natalie Tyler") (4.9s)
+And I should create any new Natalie Tyler bellapass galleries
+-&gt; done: BellaCashStepDefinitions.ThenIShouldCreateAnyNewModelNameBellapassGalleries("Natalie Tyler") (2.5s)</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="4a7ba4e0-fc16-4caa-8553-232a8edf9aa0" testId="64a7a8aa-d2a3-43db-0a19-db0baa07537e" testName="PopulateJewelsGoldGalleries" computerName="FIREFLY" duration="00:00:02.8540382" startTime="2012-09-14T08:42:26.3159530-04:00" endTime="2012-09-14T08:42:29.1769530-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="4a7ba4e0-fc16-4caa-8553-232a8edf9aa0">
+      <Output>
+        <StdOut>Given I open the jewelsgold page
+-&gt; error: Object reference not set to an instance of an object.
+Then I should be on the jewelsgold page
+-&gt; skipped because of previous errors
+Then I should create any new jewelsgold galleries
+-&gt; skipped because of previous errors</StdOut>
+        <ErrorInfo>
+          <Message>Test method PornCantina.UIAutomation.Scenarios.JewelsGoldFeature.PopulateJewelsGoldGalleries threw exception: 
+System.NullReferenceException: Object reference not set to an instance of an object.</Message>
+          <StackTrace>    at PornCantina.UIAutomation.StepDefinitions.StepDefinitions.GivenIOpenTheSpecifiedPage(String specifiedPage) in C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\StepDefinitions\StepDefinition.cs:line 44
+   at lambda_method(Closure , IContextManager , String )
+   at TechTalk.SpecFlow.Bindings.MethodBinding.InvokeAction(IContextManager contextManager, Object[] arguments, ITestTracer testTracer, TimeSpan&amp; duration)
+   at TechTalk.SpecFlow.Bindings.StepDefinitionBinding.Invoke(IContextManager contextManager, ITestTracer testTracer, Object[] arguments, TimeSpan&amp; duration)
+   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.ExecuteStepMatch(BindingMatch match, Object[] arguments)
+   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.ExecuteStep(StepArgs stepArgs)
+   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.OnAfterLastStep()
+   at TechTalk.SpecFlow.TestRunner.CollectScenarioErrors()
+   at PornCantina.UIAutomation.Scenarios.JewelsGoldFeature.ScenarioCleanup() in C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\Scenarios\JewelsGold.feature.cs:line 0
+   at PornCantina.UIAutomation.Scenarios.JewelsGoldFeature.PopulateJewelsGoldGalleries() in c:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\Scenarios\JewelsGold.feature:line 8
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="becd0a36-b251-4e8f-b1e7-1bb970359ecc" testId="ebbecc38-d662-fe20-bb0b-7b866076d219" testName="PopulateSoloRevenueGalleries_NatashaBelle" computerName="FIREFLY" duration="00:00:30.8291869" startTime="2012-09-14T08:42:29.1789530-04:00" endTime="2012-09-14T08:43:00.0139530-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="becd0a36-b251-4e8f-b1e7-1bb970359ecc">
+      <Output>
+        <StdOut>Given I open the solorevenue page
+-&gt; done: StepDefinitions.GivenIOpenTheSpecifiedPage("solorevenue") (5.1s)
+Then I should be on the solorevenue page
+-&gt; done: StepDefinitions.IShouldBeOnTheSpecifiedPage("solorevenue") (0.0s)
+When I select the Natasha Belle solorevenue paysite
+-&gt; done: SoloRevenueStepDefinitions.WhenISelectTheModelNameSolorevenuePaysite("Natasha Belle") (4.6s)
+Then I should see the Natasha Belle solorevenue hosted galleries
+-&gt; done: SoloRevenueStepDefinitions.ThenIShouldSeeTheModelNameSolorevenueHostedGalleries("Natasha Belle") (1.1s)
+And I should create any new Natasha Belle solorevenue galleries
+-&gt; error: Unable to locate element: {"method":"xpath","selector":"//table[92]/tbody/tr[2]/td[2]/table/tbody/tr/td"}</StdOut>
+        <ErrorInfo>
+          <Message>Test method PornCantina.UIAutomation.Scenarios.SoloRevenueFeature.PopulateSoloRevenueGalleries_NatashaBelle threw exception: 
+OpenQA.Selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//table[92]/tbody/tr[2]/td[2]/table/tbody/tr/td"}</Message>
+          <StackTrace>    at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElementByXPath(String xpath)
+   at OpenQA.Selenium.By.&lt;&gt;c__DisplayClasse.&lt;XPath&gt;b__c(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(By by)
+   at AutomationFramework.BrowserHelper.GetElementByXPath(IWebDriver driver, String locator, String additionalLocatorPath) in C:\Users\TMacBlane\documents\visual studio 2010\Projects\PornCantina\AutomationFramework\Classes\BrowserHelper.cs:line 106
+   at AutomationFramework.BrowserHelper.GetElement(IWebDriver driver, String locator, String additionalLocatorPath) in C:\Users\TMacBlane\documents\visual studio 2010\Projects\PornCantina\AutomationFramework\Classes\BrowserHelper.cs:line 25
+   at AutomationFramework.WebBrowser.GetText(String locator, String additionalLocatorPath) in C:\Users\TMacBlane\documents\visual studio 2010\Projects\PornCantina\AutomationFramework\Classes\WebBrowser.cs:line 154
+   at AutomationFramework.PageElementExtensions.GetText(IPageElement element, String additionalLocator) in C:\Users\TMacBlane\documents\visual studio 2010\Projects\PornCantina\AutomationFramework\Classes\PageElementExtensions.cs:line 76
+   at PornCantina.UIAutomation.StepDefinitions.SoloRevenueStepDefinitions.ThenIShouldCreateAnyNewModelNameSolorevenueGalleries(String modelName) in C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\StepDefinitions\SoloRevenueStepDefinitions.cs:line 75
+   at lambda_method(Closure , IContextManager , String )
+   at TechTalk.SpecFlow.Bindings.MethodBinding.InvokeAction(IContextManager contextManager, Object[] arguments, ITestTracer testTracer, TimeSpan&amp; duration)
+   at TechTalk.SpecFlow.Bindings.StepDefinitionBinding.Invoke(IContextManager contextManager, ITestTracer testTracer, Object[] arguments, TimeSpan&amp; duration)
+   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.ExecuteStepMatch(BindingMatch match, Object[] arguments)
+   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.ExecuteStep(StepArgs stepArgs)
+   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.OnAfterLastStep()
+   at TechTalk.SpecFlow.TestRunner.CollectScenarioErrors()
+   at PornCantina.UIAutomation.Scenarios.SoloRevenueFeature.ScenarioCleanup() in C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\Scenarios\SoloRevenue.feature.cs:line 0
+   at PornCantina.UIAutomation.Scenarios.SoloRevenueFeature.PopulateSoloRevenueGalleries(String modelName, String[] exampleTags) in c:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\Scenarios\SoloRevenue.feature:line 10
+   at PornCantina.UIAutomation.Scenarios.SoloRevenueFeature.PopulateSoloRevenueGalleries_NatashaBelle() in C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\Scenarios\SoloRevenue.feature.cs:line 0
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="e006e743-b7b9-4d61-bfdd-daaf1e772233" testId="4cbca76b-5162-199c-dd79-ce8dc44ed77b" testName="PopulatePinkVelvetVaultGalleries_Nikkisplaymates_Com" computerName="FIREFLY" duration="00:00:09.2728935" startTime="2012-09-14T08:43:00.0149530-04:00" endTime="2012-09-14T08:43:09.2919530-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e006e743-b7b9-4d61-bfdd-daaf1e772233">
+      <Output>
+        <StdOut>Given I open the pinkvelvet page
+-&gt; done: StepDefinitions.GivenIOpenTheSpecifiedPage("pinkvelvet") (4.5s)
+Then I should be on the pinkvelvet page
+-&gt; done: StepDefinitions.IShouldBeOnTheSpecifiedPage("pinkvelvet") (0.3s)
+When I enter the PinkVelvetVault ccbill id
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenIEnterTheSpecifiedCcbillId("PinkVelvetVault") (0.1s)
+And I select Nikkisplaymates.com from the site dropdown list
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenISelectTheModelNameFromTheSiteDropdownList("Nikkisplaymates.com") (0.5s)
+And I select the Past Week date range
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenISelectTheDateRangeDateRange("Past Week") (0.1s)
+And I select the type of Pics
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenISelectTheSpecifiedType("Pics") (0.1s)
+And I select the thumbnail size 130x174
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenISelectTheSpecifiedThumbnailSize("130x174") (1.1s)
+And I select to display All galleries per page
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenISelectToDisplaySpecifiedNumberOfGalleriesPerPage("All") (0.1s)
+And I click the generate button
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenIClickTheGenerateButton() (1.1s)
+Then I should see the populated list of galleries
+-&gt; done: HostedGalleriesManagerStepDefinitions.ThenIShouldSeeThePopulatedListOfGalleries() (0.0s)
+And I should create any new Nikkis Sims pinkvelvetvault galleries
+-&gt; done: PinkVelvetVaultStepDefinitions.ThenIShouldCreateAnyNewModelNamePinkvelvetvaultGalleries("Nikkis Sims") (0.1s)</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="00562032-e54a-4025-8e18-7bbcd076e6da" testId="efe8e8c2-3563-b091-1ee4-879573922381" testName="PopulateZellysCashGalleries_Zellys_Com" computerName="FIREFLY" duration="00:01:56.9612443" startTime="2012-09-14T08:43:09.2929530-04:00" endTime="2012-09-14T08:45:06.2539530-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="00562032-e54a-4025-8e18-7bbcd076e6da">
+      <Output>
+        <StdOut>Given I open the zellyscash page
+-&gt; done: StepDefinitions.GivenIOpenTheSpecifiedPage("zellyscash") (6.3s)
+Then I should be on the zellyscash page
+-&gt; done: StepDefinitions.IShouldBeOnTheSpecifiedPage("zellyscash") (0.1s)
+When I select the Zellys.com zellyscash paysite
+-&gt; done: ZellysCashStepDefinitions.WhenISelectTheSpecifiedZellysPaysite("Zellys.com") (12.8s)
+Then I should see the Zellys.com zellyscash hosted galleries
+-&gt; done: ZellysCashStepDefinitions.ThenIShouldSeeTheSpecifiedZellysHostedGalleries("Zellys.com") (0.1s)
+And I should create any new Zellys.com zellyscash galleries
+-&gt; done: ZellysCashStepDefinitions.ThenIShouldCreateAnyNewModelNameZellysGalleries("Zellys.com") (96.6s)</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="da07598c-06d8-4f91-862c-b4aa0a3298dd" testId="330e0218-b1c3-0599-b86f-bb99241a385f" testName="PopulatePinkVelvetVaultGalleries_BellaXOXO_Com" computerName="FIREFLY" duration="00:00:10.3002180" startTime="2012-09-14T08:45:06.2569530-04:00" endTime="2012-09-14T08:45:16.5669530-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="da07598c-06d8-4f91-862c-b4aa0a3298dd">
+      <Output>
+        <StdOut>Given I open the pinkvelvet page
+-&gt; done: StepDefinitions.GivenIOpenTheSpecifiedPage("pinkvelvet") (5.9s)
+Then I should be on the pinkvelvet page
+-&gt; done: StepDefinitions.IShouldBeOnTheSpecifiedPage("pinkvelvet") (1.4s)
+When I enter the PinkVelvetVault ccbill id
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenIEnterTheSpecifiedCcbillId("PinkVelvetVault") (0.1s)
+And I select BellaXOXO.com from the site dropdown list
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenISelectTheModelNameFromTheSiteDropdownList("BellaXOXO.com") (0.3s)
+And I select the Past Week date range
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenISelectTheDateRangeDateRange("Past Week") (0.1s)
+And I select the type of Pics
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenISelectTheSpecifiedType("Pics") (0.1s)
+And I select the thumbnail size 130x174
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenISelectTheSpecifiedThumbnailSize("130x174") (0.1s)
+And I select to display All galleries per page
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenISelectToDisplaySpecifiedNumberOfGalleriesPerPage("All") (0.2s)
+And I click the generate button
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenIClickTheGenerateButton() (1.1s)
+Then I should see the populated list of galleries
+-&gt; done: HostedGalleriesManagerStepDefinitions.ThenIShouldSeeThePopulatedListOfGalleries() (0.0s)
+And I should create any new Bella XOXO pinkvelvetvault galleries
+-&gt; done: PinkVelvetVaultStepDefinitions.ThenIShouldCreateAnyNewModelNamePinkvelvetvaultGalleries("Bella XOXO") (0.0s)</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="c14d677f-3d60-405a-b147-1a2c9d2abb0d" testId="faee341e-3298-bbd5-13d9-4d169a7040ed" testName="PopulatePinkVelvetVaultGalleries_KendraRain_Com" computerName="FIREFLY" duration="00:00:09.9084468" startTime="2012-09-14T08:45:16.5709530-04:00" endTime="2012-09-14T08:45:26.4849530-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c14d677f-3d60-405a-b147-1a2c9d2abb0d">
+      <Output>
+        <StdOut>Given I open the pinkvelvet page
+-&gt; done: StepDefinitions.GivenIOpenTheSpecifiedPage("pinkvelvet") (6.2s)
+Then I should be on the pinkvelvet page
+-&gt; done: StepDefinitions.IShouldBeOnTheSpecifiedPage("pinkvelvet") (0.3s)
+When I enter the PinkVelvetVault ccbill id
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenIEnterTheSpecifiedCcbillId("PinkVelvetVault") (0.1s)
+And I select KendraRain.com from the site dropdown list
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenISelectTheModelNameFromTheSiteDropdownList("KendraRain.com") (0.4s)
+And I select the Past Week date range
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenISelectTheDateRangeDateRange("Past Week") (0.1s)
+And I select the type of Pics
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenISelectTheSpecifiedType("Pics") (0.2s)
+And I select the thumbnail size 130x174
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenISelectTheSpecifiedThumbnailSize("130x174") (0.0s)
+And I select to display All galleries per page
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenISelectToDisplaySpecifiedNumberOfGalleriesPerPage("All") (0.1s)
+And I click the generate button
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenIClickTheGenerateButton() (1.2s)
+Then I should see the populated list of galleries
+-&gt; done: HostedGalleriesManagerStepDefinitions.ThenIShouldSeeThePopulatedListOfGalleries() (0.0s)
+And I should create any new Kendra Rain pinkvelvetvault galleries
+-&gt; done: PinkVelvetVaultStepDefinitions.ThenIShouldCreateAnyNewModelNamePinkvelvetvaultGalleries("Kendra Rain") (0.1s)</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="f5b9a58c-0f4c-4475-9da6-4f35a2abbea9" testId="09f339eb-e1ff-0d96-dca9-6e24e2f7cfbf" testName="PopulatePinkVelvetVaultGalleries_TiffanyAlexis_Com" computerName="FIREFLY" duration="00:00:08.0037052" startTime="2012-09-14T08:45:26.4879530-04:00" endTime="2012-09-14T08:45:34.4949530-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f5b9a58c-0f4c-4475-9da6-4f35a2abbea9">
+      <Output>
+        <StdOut>Given I open the pinkvelvet page
+-&gt; done: StepDefinitions.GivenIOpenTheSpecifiedPage("pinkvelvet") (4.2s)
+Then I should be on the pinkvelvet page
+-&gt; done: StepDefinitions.IShouldBeOnTheSpecifiedPage("pinkvelvet") (0.3s)
+When I enter the PinkVelvetVault ccbill id
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenIEnterTheSpecifiedCcbillId("PinkVelvetVault") (0.1s)
+And I select TiffanyAlexis.com from the site dropdown list
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenISelectTheModelNameFromTheSiteDropdownList("TiffanyAlexis.com") (0.8s)
+And I select the Past Week date range
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenISelectTheDateRangeDateRange("Past Week") (0.1s)
+And I select the type of Pics
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenISelectTheSpecifiedType("Pics") (0.1s)
+And I select the thumbnail size 130x174
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenISelectTheSpecifiedThumbnailSize("130x174") (0.1s)
+And I select to display All galleries per page
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenISelectToDisplaySpecifiedNumberOfGalleriesPerPage("All") (0.1s)
+And I click the generate button
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenIClickTheGenerateButton() (1.1s)
+Then I should see the populated list of galleries
+-&gt; done: HostedGalleriesManagerStepDefinitions.ThenIShouldSeeThePopulatedListOfGalleries() (0.0s)
+And I should create any new Tiffany Alexis pinkvelvetvault galleries
+-&gt; done: PinkVelvetVaultStepDefinitions.ThenIShouldCreateAnyNewModelNamePinkvelvetvaultGalleries("Tiffany Alexis") (0.0s)</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="ae610c5e-ebf8-4f83-b361-3e3e0ae8e9e5" testId="9b8a8829-6f71-8101-2626-855991eddcfc" testName="PopulatePinkVelvetVaultGalleries_MeetMadden_Com" computerName="FIREFLY" duration="00:00:10.7984898" startTime="2012-09-14T08:45:34.4969530-04:00" endTime="2012-09-14T08:45:45.3029530-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ae610c5e-ebf8-4f83-b361-3e3e0ae8e9e5">
+      <Output>
+        <StdOut>Given I open the pinkvelvet page
+-&gt; done: StepDefinitions.GivenIOpenTheSpecifiedPage("pinkvelvet") (6.0s)
+Then I should be on the pinkvelvet page
+-&gt; done: StepDefinitions.IShouldBeOnTheSpecifiedPage("pinkvelvet") (0.3s)
+When I enter the PinkVelvetVault ccbill id
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenIEnterTheSpecifiedCcbillId("PinkVelvetVault") (0.1s)
+And I select MeetMadden.com from the site dropdown list
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenISelectTheModelNameFromTheSiteDropdownList("MeetMadden.com") (0.5s)
+And I select the Past Week date range
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenISelectTheDateRangeDateRange("Past Week") (0.1s)
+And I select the type of Pics
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenISelectTheSpecifiedType("Pics") (0.2s)
+And I select the thumbnail size 130x174
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenISelectTheSpecifiedThumbnailSize("130x174") (0.1s)
+And I select to display All galleries per page
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenISelectToDisplaySpecifiedNumberOfGalleriesPerPage("All") (0.1s)
+And I click the generate button
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenIClickTheGenerateButton() (2.3s)
+Then I should see the populated list of galleries
+-&gt; done: HostedGalleriesManagerStepDefinitions.ThenIShouldSeeThePopulatedListOfGalleries() (0.0s)
+And I should create any new Meet Madden pinkvelvetvault galleries
+-&gt; done: PinkVelvetVaultStepDefinitions.ThenIShouldCreateAnyNewModelNamePinkvelvetvaultGalleries("Meet Madden") (0.1s)</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="5dc08d81-7f3c-44ae-b326-709205e30da4" testId="6af92fa9-0ccf-8383-ab91-02e618ce084c" testName="PopulateBellaCashGalleries_MonroeLee" computerName="FIREFLY" duration="00:00:27.5859104" startTime="2012-09-14T08:45:45.3039530-04:00" endTime="2012-09-14T08:46:12.8999530-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="5dc08d81-7f3c-44ae-b326-709205e30da4">
+      <Output>
+        <StdOut>Given I open the bellacash page
+-&gt; done: StepDefinitions.GivenIOpenTheSpecifiedPage("bellacash") (4.5s)
+Then I should be on the bellacash page
+-&gt; done: StepDefinitions.IShouldBeOnTheSpecifiedPage("bellacash") (0.3s)
+When I select the Monroe Lee bellapass paysite
+-&gt; done: BellaCashStepDefinitions.WhenISelectTheSpecifiedPaysite("Monroe Lee") (0.1s)
+Then I should see the Monroe Lee bellapass hosted galleries
+-&gt; done: BellaCashStepDefinitions.ThenIShouldSeeTheSpecifiedHostedGalleries("Monroe Lee") (12.7s)
+And I should create any new Monroe Lee bellapass galleries
+-&gt; done: BellaCashStepDefinitions.ThenIShouldCreateAnyNewModelNameBellapassGalleries("Monroe Lee") (8.9s)</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="348d83b7-f668-44e7-947e-db0aec1c8eef" testId="70329624-f7cc-6664-b631-4cc70d51a00f" testName="PopulatePinkVelvetVaultGalleries_LynnPops_Com" computerName="FIREFLY" duration="00:00:07.7181652" startTime="2012-09-14T08:46:12.9009530-04:00" endTime="2012-09-14T08:46:20.6259530-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="348d83b7-f668-44e7-947e-db0aec1c8eef">
+      <Output>
+        <StdOut>Given I open the pinkvelvet page
+-&gt; done: StepDefinitions.GivenIOpenTheSpecifiedPage("pinkvelvet") (3.9s)
+Then I should be on the pinkvelvet page
+-&gt; done: StepDefinitions.IShouldBeOnTheSpecifiedPage("pinkvelvet") (0.4s)
+When I enter the PinkVelvetVault ccbill id
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenIEnterTheSpecifiedCcbillId("PinkVelvetVault") (0.1s)
+And I select LynnPops.com from the site dropdown list
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenISelectTheModelNameFromTheSiteDropdownList("LynnPops.com") (0.4s)
+And I select the Past Week date range
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenISelectTheDateRangeDateRange("Past Week") (0.1s)
+And I select the type of Pics
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenISelectTheSpecifiedType("Pics") (0.1s)
+And I select the thumbnail size 130x174
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenISelectTheSpecifiedThumbnailSize("130x174") (0.1s)
+And I select to display All galleries per page
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenISelectToDisplaySpecifiedNumberOfGalleriesPerPage("All") (0.1s)
+And I click the generate button
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenIClickTheGenerateButton() (1.3s)
+Then I should see the populated list of galleries
+-&gt; done: HostedGalleriesManagerStepDefinitions.ThenIShouldSeeThePopulatedListOfGalleries() (0.0s)
+And I should create any new Lynn Pops pinkvelvetvault galleries
+-&gt; done: PinkVelvetVaultStepDefinitions.ThenIShouldCreateAnyNewModelNamePinkvelvetvaultGalleries("Lynn Pops") (0.0s)</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="f706496e-205d-4fcf-8f1f-a63ef715c682" testId="6723ee26-ffeb-9536-ffc6-148f6bd91bb4" testName="PopulatePinkVelvetVaultGalleries_CherryZips_Com" computerName="FIREFLY" duration="00:00:07.3573105" startTime="2012-09-14T08:46:20.6299530-04:00" endTime="2012-09-14T08:46:27.9909530-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f706496e-205d-4fcf-8f1f-a63ef715c682">
+      <Output>
+        <StdOut>Given I open the pinkvelvet page
+-&gt; done: StepDefinitions.GivenIOpenTheSpecifiedPage("pinkvelvet") (4.2s)
+Then I should be on the pinkvelvet page
+-&gt; done: StepDefinitions.IShouldBeOnTheSpecifiedPage("pinkvelvet") (0.3s)
+When I enter the PinkVelvetVault ccbill id
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenIEnterTheSpecifiedCcbillId("PinkVelvetVault") (0.1s)
+And I select CherryZips.com from the site dropdown list
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenISelectTheModelNameFromTheSiteDropdownList("CherryZips.com") (0.4s)
+And I select the Past Week date range
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenISelectTheDateRangeDateRange("Past Week") (0.1s)
+And I select the type of Pics
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenISelectTheSpecifiedType("Pics") (0.1s)
+And I select the thumbnail size 130x174
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenISelectTheSpecifiedThumbnailSize("130x174") (0.0s)
+And I select to display All galleries per page
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenISelectToDisplaySpecifiedNumberOfGalleriesPerPage("All") (0.2s)
+And I click the generate button
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenIClickTheGenerateButton() (0.9s)
+Then I should see the populated list of galleries
+-&gt; done: HostedGalleriesManagerStepDefinitions.ThenIShouldSeeThePopulatedListOfGalleries() (0.0s)
+And I should create any new Cherry Zips pinkvelvetvault galleries
+-&gt; done: PinkVelvetVaultStepDefinitions.ThenIShouldCreateAnyNewModelNamePinkvelvetvaultGalleries("Cherry Zips") (0.0s)</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="53e9ccf3-4570-41a9-b07e-053240c65e60" testId="5b4f7a04-e91d-3766-70df-2affdcfda282" testName="PopulateSoloRevenueGalleries_AutumnRiley" computerName="FIREFLY" duration="00:00:45.2614962" startTime="2012-09-14T08:46:27.9939530-04:00" endTime="2012-09-14T08:47:13.2569530-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="53e9ccf3-4570-41a9-b07e-053240c65e60">
+      <Output>
+        <StdOut>Given I open the solorevenue page
+-&gt; done: StepDefinitions.GivenIOpenTheSpecifiedPage("solorevenue") (4.9s)
+Then I should be on the solorevenue page
+-&gt; done: StepDefinitions.IShouldBeOnTheSpecifiedPage("solorevenue") (0.0s)
+When I select the Autumn Riley solorevenue paysite
+-&gt; done: SoloRevenueStepDefinitions.WhenISelectTheModelNameSolorevenuePaysite("Autumn Riley") (6.2s)
+Then I should see the Autumn Riley solorevenue hosted galleries
+-&gt; done: SoloRevenueStepDefinitions.ThenIShouldSeeTheModelNameSolorevenueHostedGalleries("Autumn Riley") (1.1s)
+And I should create any new Autumn Riley solorevenue galleries
+-&gt; error: Unable to locate element: {"method":"xpath","selector":"//table[135]/tbody/tr[2]/td[2]/table/tbody/tr/td"}</StdOut>
+        <ErrorInfo>
+          <Message>Test method PornCantina.UIAutomation.Scenarios.SoloRevenueFeature.PopulateSoloRevenueGalleries_AutumnRiley threw exception: 
+OpenQA.Selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//table[135]/tbody/tr[2]/td[2]/table/tbody/tr/td"}</Message>
+          <StackTrace>    at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElementByXPath(String xpath)
+   at OpenQA.Selenium.By.&lt;&gt;c__DisplayClasse.&lt;XPath&gt;b__c(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(By by)
+   at AutomationFramework.BrowserHelper.GetElementByXPath(IWebDriver driver, String locator, String additionalLocatorPath) in C:\Users\TMacBlane\documents\visual studio 2010\Projects\PornCantina\AutomationFramework\Classes\BrowserHelper.cs:line 106
+   at AutomationFramework.BrowserHelper.GetElement(IWebDriver driver, String locator, String additionalLocatorPath) in C:\Users\TMacBlane\documents\visual studio 2010\Projects\PornCantina\AutomationFramework\Classes\BrowserHelper.cs:line 25
+   at AutomationFramework.WebBrowser.GetText(String locator, String additionalLocatorPath) in C:\Users\TMacBlane\documents\visual studio 2010\Projects\PornCantina\AutomationFramework\Classes\WebBrowser.cs:line 154
+   at AutomationFramework.PageElementExtensions.GetText(IPageElement element, String additionalLocator) in C:\Users\TMacBlane\documents\visual studio 2010\Projects\PornCantina\AutomationFramework\Classes\PageElementExtensions.cs:line 76
+   at PornCantina.UIAutomation.StepDefinitions.SoloRevenueStepDefinitions.ThenIShouldCreateAnyNewModelNameSolorevenueGalleries(String modelName) in C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\StepDefinitions\SoloRevenueStepDefinitions.cs:line 75
+   at lambda_method(Closure , IContextManager , String )
+   at TechTalk.SpecFlow.Bindings.MethodBinding.InvokeAction(IContextManager contextManager, Object[] arguments, ITestTracer testTracer, TimeSpan&amp; duration)
+   at TechTalk.SpecFlow.Bindings.StepDefinitionBinding.Invoke(IContextManager contextManager, ITestTracer testTracer, Object[] arguments, TimeSpan&amp; duration)
+   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.ExecuteStepMatch(BindingMatch match, Object[] arguments)
+   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.ExecuteStep(StepArgs stepArgs)
+   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.OnAfterLastStep()
+   at TechTalk.SpecFlow.TestRunner.CollectScenarioErrors()
+   at PornCantina.UIAutomation.Scenarios.SoloRevenueFeature.ScenarioCleanup() in C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\Scenarios\SoloRevenue.feature.cs:line 0
+   at PornCantina.UIAutomation.Scenarios.SoloRevenueFeature.PopulateSoloRevenueGalleries(String modelName, String[] exampleTags) in c:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\Scenarios\SoloRevenue.feature:line 10
+   at PornCantina.UIAutomation.Scenarios.SoloRevenueFeature.PopulateSoloRevenueGalleries_AutumnRiley() in C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\Scenarios\SoloRevenue.feature.cs:line 0
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="a87f1fe4-404e-4059-a45a-ddd47d178d43" testId="2910964a-1343-9aba-d7b0-6918c25f5329" testName="PopulatePinkVelvetVaultGalleries_Brittany_Avalon_Com" computerName="FIREFLY" duration="00:00:08.0065421" startTime="2012-09-14T08:47:13.2639530-04:00" endTime="2012-09-14T08:47:21.2749530-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a87f1fe4-404e-4059-a45a-ddd47d178d43">
+      <Output>
+        <StdOut>Given I open the pinkvelvet page
+-&gt; done: StepDefinitions.GivenIOpenTheSpecifiedPage("pinkvelvet") (4.5s)
+Then I should be on the pinkvelvet page
+-&gt; done: StepDefinitions.IShouldBeOnTheSpecifiedPage("pinkvelvet") (0.4s)
+When I enter the PinkVelvetVault ccbill id
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenIEnterTheSpecifiedCcbillId("PinkVelvetVault") (0.1s)
+And I select Brittany-Avalon.com from the site dropdown list
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenISelectTheModelNameFromTheSiteDropdownList("Brittany-Avalon.com") (0.4s)
+And I select the Past Week date range
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenISelectTheDateRangeDateRange("Past Week") (0.1s)
+And I select the type of Pics
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenISelectTheSpecifiedType("Pics") (0.2s)
+And I select the thumbnail size 130x174
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenISelectTheSpecifiedThumbnailSize("130x174") (0.1s)
+And I select to display All galleries per page
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenISelectToDisplaySpecifiedNumberOfGalleriesPerPage("All") (0.1s)
+And I click the generate button
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenIClickTheGenerateButton() (1.1s)
+Then I should see the populated list of galleries
+-&gt; done: HostedGalleriesManagerStepDefinitions.ThenIShouldSeeThePopulatedListOfGalleries() (0.0s)
+And I should create any new Brittany Avalon pinkvelvetvault galleries
+-&gt; done: PinkVelvetVaultStepDefinitions.ThenIShouldCreateAnyNewModelNamePinkvelvetvaultGalleries("Brittany Avalon") (0.0s)</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="f97d93ed-5d46-44fa-b3a6-40de4f66332d" testId="b4f0a9e8-5d81-3545-39ca-78302cfc2e4c" testName="PopulatePinkVelvetVaultGalleries_Sockblocked_Com" computerName="FIREFLY" duration="00:00:11.6336050" startTime="2012-09-14T08:47:21.2859530-04:00" endTime="2012-09-14T08:47:32.9479530-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f97d93ed-5d46-44fa-b3a6-40de4f66332d">
+      <Output>
+        <StdOut>Given I open the pinkvelvet page
+-&gt; done: StepDefinitions.GivenIOpenTheSpecifiedPage("pinkvelvet") (7.9s)
+Then I should be on the pinkvelvet page
+-&gt; done: StepDefinitions.IShouldBeOnTheSpecifiedPage("pinkvelvet") (0.4s)
+When I enter the PinkVelvetVault ccbill id
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenIEnterTheSpecifiedCcbillId("PinkVelvetVault") (0.1s)
+And I select Sockblocked.com from the site dropdown list
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenISelectTheModelNameFromTheSiteDropdownList("Sockblocked.com") (0.6s)
+And I select the Past Week date range
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenISelectTheDateRangeDateRange("Past Week") (0.1s)
+And I select the type of Pics
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenISelectTheSpecifiedType("Pics") (0.1s)
+And I select the thumbnail size 130x174
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenISelectTheSpecifiedThumbnailSize("130x174") (0.0s)
+And I select to display All galleries per page
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenISelectToDisplaySpecifiedNumberOfGalleriesPerPage("All") (0.1s)
+And I click the generate button
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenIClickTheGenerateButton() (1.1s)
+Then I should see the populated list of galleries
+-&gt; done: HostedGalleriesManagerStepDefinitions.ThenIShouldSeeThePopulatedListOfGalleries() (0.0s)
+And I should create any new Sock Blocked pinkvelvetvault galleries
+-&gt; done: PinkVelvetVaultStepDefinitions.ThenIShouldCreateAnyNewModelNamePinkvelvetvaultGalleries("Sock Blocked") (0.0s)</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="17a62ee2-6a24-4924-a414-bd34510a56fb" testId="2272289c-032b-1243-7330-eb5092e584fc" testName="PopulateBellaCashGalleries_AvaDawn" computerName="FIREFLY" duration="00:00:13.7205751" startTime="2012-09-14T08:47:32.9559530-04:00" endTime="2012-09-14T08:47:46.6829530-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="17a62ee2-6a24-4924-a414-bd34510a56fb">
+      <Output>
+        <StdOut>Given I open the bellacash page
+-&gt; done: StepDefinitions.GivenIOpenTheSpecifiedPage("bellacash") (4.6s)
+Then I should be on the bellacash page
+-&gt; done: StepDefinitions.IShouldBeOnTheSpecifiedPage("bellacash") (0.2s)
+When I select the Ava Dawn bellapass paysite
+-&gt; done: BellaCashStepDefinitions.WhenISelectTheSpecifiedPaysite("Ava Dawn") (0.1s)
+Then I should see the Ava Dawn bellapass hosted galleries
+-&gt; done: BellaCashStepDefinitions.ThenIShouldSeeTheSpecifiedHostedGalleries("Ava Dawn") (4.1s)
+And I should create any new Ava Dawn bellapass galleries
+-&gt; done: BellaCashStepDefinitions.ThenIShouldCreateAnyNewModelNameBellapassGalleries("Ava Dawn") (3.6s)</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="c69b5e06-cf89-4f18-a7cd-910cbf5d75b2" testId="66f4f75a-e39b-800c-c209-257f1c101b17" testName="PopulateBellaCashGalleries_Bryci" computerName="FIREFLY" duration="00:00:34.6431488" startTime="2012-09-14T08:47:46.6949530-04:00" endTime="2012-09-14T08:48:21.3489530-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c69b5e06-cf89-4f18-a7cd-910cbf5d75b2">
+      <Output>
+        <StdOut>Given I open the bellacash page
+-&gt; done: StepDefinitions.GivenIOpenTheSpecifiedPage("bellacash") (7.6s)
+Then I should be on the bellacash page
+-&gt; done: StepDefinitions.IShouldBeOnTheSpecifiedPage("bellacash") (0.4s)
+When I select the Bryci bellapass paysite
+-&gt; done: BellaCashStepDefinitions.WhenISelectTheSpecifiedPaysite("Bryci") (0.1s)
+Then I should see the Bryci bellapass hosted galleries
+-&gt; done: BellaCashStepDefinitions.ThenIShouldSeeTheSpecifiedHostedGalleries("Bryci") (15.5s)
+And I should create any new Bryci bellapass galleries
+-&gt; done: BellaCashStepDefinitions.ThenIShouldCreateAnyNewModelNameBellapassGalleries("Bryci") (9.9s)</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="9af0f74f-e066-40d8-94a6-8097def0b57a" testId="3244bd33-62ad-5b0c-a0f8-17623bcb7156" testName="PopulateZellysCashGalleries_MelissaXoXo" computerName="FIREFLY" duration="00:00:58.8773291" startTime="2012-09-14T08:48:21.3509530-04:00" endTime="2012-09-14T08:49:20.2299530-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="9af0f74f-e066-40d8-94a6-8097def0b57a">
+      <Output>
+        <StdOut>Given I open the zellyscash page
+-&gt; done: StepDefinitions.GivenIOpenTheSpecifiedPage("zellyscash") (5.4s)
+Then I should be on the zellyscash page
+-&gt; done: StepDefinitions.IShouldBeOnTheSpecifiedPage("zellyscash") (0.1s)
+When I select the Melissa XoXo zellyscash paysite
+-&gt; done: ZellysCashStepDefinitions.WhenISelectTheSpecifiedZellysPaysite("Melissa XoXo") (15.8s)
+Then I should see the Melissa XoXo zellyscash hosted galleries
+-&gt; done: ZellysCashStepDefinitions.ThenIShouldSeeTheSpecifiedZellysHostedGalleries("Melissa XoXo") (0.1s)
+And I should create any new Melissa XoXo zellyscash galleries
+-&gt; error: Unable to locate element: {"method":"xpath","selector":"//form[2]/table/tbody/tr[2]/td/table/tbody/tr[118]/td[3]"}</StdOut>
+        <ErrorInfo>
+          <Message>Test method PornCantina.UIAutomation.Scenarios.ZellysCashFeature.PopulateZellysCashGalleries_MelissaXoXo threw exception: 
+OpenQA.Selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//form[2]/table/tbody/tr[2]/td/table/tbody/tr[118]/td[3]"}</Message>
+          <StackTrace>    at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElementByXPath(String xpath)
+   at OpenQA.Selenium.By.&lt;&gt;c__DisplayClasse.&lt;XPath&gt;b__c(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(By by)
+   at AutomationFramework.BrowserHelper.GetElementByXPath(IWebDriver driver, String locator, String additionalLocatorPath) in C:\Users\TMacBlane\documents\visual studio 2010\Projects\PornCantina\AutomationFramework\Classes\BrowserHelper.cs:line 106
+   at AutomationFramework.BrowserHelper.GetElement(IWebDriver driver, String locator, String additionalLocatorPath) in C:\Users\TMacBlane\documents\visual studio 2010\Projects\PornCantina\AutomationFramework\Classes\BrowserHelper.cs:line 25
+   at AutomationFramework.WebBrowser.GetText(String locator, String additionalLocatorPath) in C:\Users\TMacBlane\documents\visual studio 2010\Projects\PornCantina\AutomationFramework\Classes\WebBrowser.cs:line 154
+   at AutomationFramework.PageElementExtensions.GetText(IPageElement element, String additionalLocator) in C:\Users\TMacBlane\documents\visual studio 2010\Projects\PornCantina\AutomationFramework\Classes\PageElementExtensions.cs:line 76
+   at PornCantina.UIAutomation.StepDefinitions.ZellysCashStepDefinitions.ThenIShouldCreateAnyNewModelNameZellysGalleries(String modelName) in C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\StepDefinitions\ZellysCashStepDefinitions.cs:line 110
+   at lambda_method(Closure , IContextManager , String )
+   at TechTalk.SpecFlow.Bindings.MethodBinding.InvokeAction(IContextManager contextManager, Object[] arguments, ITestTracer testTracer, TimeSpan&amp; duration)
+   at TechTalk.SpecFlow.Bindings.StepDefinitionBinding.Invoke(IContextManager contextManager, ITestTracer testTracer, Object[] arguments, TimeSpan&amp; duration)
+   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.ExecuteStepMatch(BindingMatch match, Object[] arguments)
+   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.ExecuteStep(StepArgs stepArgs)
+   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.OnAfterLastStep()
+   at TechTalk.SpecFlow.TestRunner.CollectScenarioErrors()
+   at PornCantina.UIAutomation.Scenarios.ZellysCashFeature.ScenarioCleanup() in C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\Scenarios\ZellysCash.feature.cs:line 0
+   at PornCantina.UIAutomation.Scenarios.ZellysCashFeature.PopulateZellysCashGalleries(String modelName, String[] exampleTags) in c:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\Scenarios\ZellysCash.feature:line 10
+   at PornCantina.UIAutomation.Scenarios.ZellysCashFeature.PopulateZellysCashGalleries_MelissaXoXo() in C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\Scenarios\ZellysCash.feature.cs:line 0
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

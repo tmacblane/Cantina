@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="f690d40d-47d5-4584-b3d4-82fd160e8486" name="TMacBlane@FIREFLY 2012-09-14 11:41:45" runUser="Firefly\TMacBlane" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Default Test Settings" id="2037a5e3-9757-4e40-ab76-d62fc229837f">
+    <Deployment userDeploymentRoot="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\TestResults" useDefaultDeploymentRoot="false" runDeploymentRoot="TMacBlane_FIREFLY 2012-09-14 11_41_45">
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\AutomationFramework\bin\Debug\AutomationFramework.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\packages\Microsoft.AspNet.WebPages.2.0.20710.0\lib\net40\System.Web.WebPages.Deployment.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\packages\Microsoft.AspNet.Mvc.4.0.20505.0\lib\net40\System.Web.Mvc.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\bin\Debug\WebDriver.Support.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\PornCantina\bin\PornCantina.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\packages\Microsoft.AspNet.WebPages.2.0.20710.0\lib\net40\System.Web.Helpers.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\bin\Debug\WebDriver.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\packages\Microsoft.AspNet.WebPages.2.0.20710.0\lib\net40\System.Web.WebPages.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\packages\Microsoft.Web.Infrastructure.1.0.0.0\lib\net40\Microsoft.Web.Infrastructure.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\packages\Microsoft.AspNet.WebPages.2.0.20710.0\lib\net40\System.Web.WebPages.Razor.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\bin\Debug\Ionic.Zip.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\packages\Microsoft.AspNet.Razor.2.0.20710.0\lib\net40\System.Web.Razor.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\bin\Debug\TechTalk.SpecFlow.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\bin\Debug\Castle.Core.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\bin\Debug\Newtonsoft.Json.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2012-09-14T11:41:45.7379530-04:00" queuing="2012-09-14T11:41:47.2989530-04:00" start="2012-09-14T11:41:47.5319530-04:00" finish="2012-09-14T11:42:12.4879530-04:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="PopulateEpicPandaCashGalleries_BaileyKnox" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" id="eb9b8e2b-e634-3f71-8b78-2aca84a14cf3">
+      <Description>Populate EpicPandaCash Galleries</Description>
+      <Execution id="17543a62-147d-4f2e-a6f7-42a216ebd625" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>EpicPandaCash</Value>
+        </Property>
+        <Property>
+          <Key>VariantName</Key>
+          <Value>Bailey Knox</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:site</Key>
+          <Value>Bailey Knox</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:modelName</Key>
+          <Value>Bailey Knox</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Users/TMacBlane/Documents/DevelopmentProjects/PornCantina.UIAutomation/bin/Debug/PornCantina.UIAutomation.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PornCantina.UIAutomation.Scenarios.EpicPandaCashFeature, PornCantina.UIAutomation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PopulateEpicPandaCashGalleries_BaileyKnox" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="eb9b8e2b-e634-3f71-8b78-2aca84a14cf3" executionId="17543a62-147d-4f2e-a6f7-42a216ebd625" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="17543a62-147d-4f2e-a6f7-42a216ebd625" testId="eb9b8e2b-e634-3f71-8b78-2aca84a14cf3" testName="PopulateEpicPandaCashGalleries_BaileyKnox" computerName="FIREFLY" duration="00:00:21.6091800" startTime="2012-09-14T11:41:47.7419530-04:00" endTime="2012-09-14T11:42:10.7289530-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="17543a62-147d-4f2e-a6f7-42a216ebd625">
+      <Output>
+        <StdOut>Given I open the epicpandacash page
+-&gt; done: StepDefinitions.GivenIOpenTheSpecifiedPage("epicpandacash") (6.1s)
+Then I should be on the epicpandacash page
+-&gt; done: StepDefinitions.IShouldBeOnTheSpecifiedPage("epicpandacash") (0.0s)
+When I select Bailey Knox from the site dropdown list
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenISelectTheModelNameFromTheSiteDropdownList("Bailey Knox") (0.3s)
+And I select the All date range
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenISelectTheDateRangeDateRange("All") (0.1s)
+And I select the type of Pics
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenISelectTheSpecifiedType("Pics") (0.2s)
+And I select to display All galleries per page
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenISelectToDisplaySpecifiedNumberOfGalleriesPerPage("All") (0.1s)
+And I click the generate button
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenIClickTheGenerateButton() (1.0s)
+Then I should see the populated list of galleries
+-&gt; done: HostedGalleriesManagerStepDefinitions.ThenIShouldSeeThePopulatedListOfGalleries() (0.0s)
+And I should create any new Bailey Knox epicpandacash galleries
+-&gt; done: EpicPandaCashStepDefinitions.ThenIShouldCreateAnyNewModelNameEpicpandacashGalleries("Bailey Knox") (12.6s)</StdOut>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

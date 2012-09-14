@@ -1,0 +1,253 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="f56e1443-b419-4905-9c0c-38b3acda32c1" name="TMacBlane@FIREFLY 2012-09-14 13:10:55" runUser="Firefly\TMacBlane" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Default Test Settings" id="6995e927-033b-4909-9e93-07b33268770d">
+    <Deployment userDeploymentRoot="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\TestResults" useDefaultDeploymentRoot="false" runDeploymentRoot="TMacBlane_FIREFLY 2012-09-14 13_10_55">
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\AutomationFramework\bin\Debug\AutomationFramework.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\packages\Microsoft.AspNet.WebPages.2.0.20710.0\lib\net40\System.Web.WebPages.Deployment.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\packages\Microsoft.AspNet.Mvc.4.0.20505.0\lib\net40\System.Web.Mvc.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\bin\Debug\WebDriver.Support.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\PornCantina\bin\PornCantina.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\packages\Microsoft.AspNet.WebPages.2.0.20710.0\lib\net40\System.Web.Helpers.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\bin\Debug\WebDriver.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\packages\Microsoft.AspNet.WebPages.2.0.20710.0\lib\net40\System.Web.WebPages.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\packages\Microsoft.Web.Infrastructure.1.0.0.0\lib\net40\Microsoft.Web.Infrastructure.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\packages\Microsoft.AspNet.WebPages.2.0.20710.0\lib\net40\System.Web.WebPages.Razor.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\bin\Debug\Ionic.Zip.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\packages\Microsoft.AspNet.Razor.2.0.20710.0\lib\net40\System.Web.Razor.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\bin\Debug\TechTalk.SpecFlow.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\bin\Debug\Castle.Core.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\bin\Debug\Newtonsoft.Json.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2012-09-14T13:10:55.2899530-04:00" queuing="2012-09-14T13:10:55.8629530-04:00" start="2012-09-14T13:10:55.9029530-04:00" finish="2012-09-14T13:11:16.1149530-04:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="PopulateEpicPandaCashGalleries_BrookeMarks" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" id="36a18326-5378-2751-6673-68fb2102b50e">
+      <Description>Populate EpicPandaCash Galleries</Description>
+      <Execution id="d74c0d32-8a7e-4ea5-99bf-28c68dd921c9" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>EpicPandaCash</Value>
+        </Property>
+        <Property>
+          <Key>VariantName</Key>
+          <Value>Brooke Marks</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:site</Key>
+          <Value>Brooke Marks</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:modelName</Key>
+          <Value>Brooke Marks</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Users/TMacBlane/Documents/DevelopmentProjects/PornCantina.UIAutomation/bin/Debug/PornCantina.UIAutomation.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PornCantina.UIAutomation.Scenarios.EpicPandaCashFeature, PornCantina.UIAutomation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PopulateEpicPandaCashGalleries_BrookeMarks" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="36a18326-5378-2751-6673-68fb2102b50e" executionId="d74c0d32-8a7e-4ea5-99bf-28c68dd921c9" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="d74c0d32-8a7e-4ea5-99bf-28c68dd921c9" testId="36a18326-5378-2751-6673-68fb2102b50e" testName="PopulateEpicPandaCashGalleries_BrookeMarks" computerName="FIREFLY" duration="00:00:19.3339552" startTime="2012-09-14T13:10:55.9579530-04:00" endTime="2012-09-14T13:11:15.9959530-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d74c0d32-8a7e-4ea5-99bf-28c68dd921c9">
+      <Output>
+        <StdOut>Given I open the epicpandacash page
+-&gt; done: StepDefinitions.GivenIOpenTheSpecifiedPage("epicpandacash") (6.6s)
+Then I should be on the epicpandacash page
+-&gt; done: StepDefinitions.IShouldBeOnTheSpecifiedPage("epicpandacash") (0.0s)
+When I select Brooke Marks from the site dropdown list
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenISelectTheModelNameFromTheSiteDropdownList("Brooke Marks") (0.4s)
+And I select the All date range
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenISelectTheDateRangeDateRange("All") (0.1s)
+And I select the type of Pics
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenISelectTheSpecifiedType("Pics") (0.4s)
+And I select to display All galleries per page
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenISelectToDisplaySpecifiedNumberOfGalleriesPerPage("All") (0.2s)
+And I click the generate button
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenIClickTheGenerateButton() (1.2s)
+Then I should see the populated list of galleries
+-&gt; done: HostedGalleriesManagerStepDefinitions.ThenIShouldSeeThePopulatedListOfGalleries() (0.1s)
+And I should create any new Brooke Marks epicpandacash galleries
+58
+4
+9f9cf8ec-6dda-486c-8d74-b08780e31956
+Brooke-Marks-Naked-On-The-Stairs
+5
+9f9cf8ec-6dda-486c-8d74-b08780e31956
+Brooke-Marks-Bare-Bubbles-Zipset
+6
+9f9cf8ec-6dda-486c-8d74-b08780e31956
+Private-Wet-T-Contest-Spring-Break-Misty-Rachel-Brooke-Avery
+7
+9f9cf8ec-6dda-486c-8d74-b08780e31956
+Brooke-Marks-68-You-Owe-Me-One
+8
+9f9cf8ec-6dda-486c-8d74-b08780e31956
+Brooke-Marks-Private-School-Girl
+9
+9f9cf8ec-6dda-486c-8d74-b08780e31956
+Brooke-Marks-Star-Wars-Babe
+10
+9f9cf8ec-6dda-486c-8d74-b08780e31956
+Brooke-Marks-Beer-Me
+11
+9f9cf8ec-6dda-486c-8d74-b08780e31956
+Brooke-Marks-Worlds-Smallest-Bikini-Zipset
+12
+9f9cf8ec-6dda-486c-8d74-b08780e31956
+Brooke-Marks-Naughtiest-School-Girl
+13
+9f9cf8ec-6dda-486c-8d74-b08780e31956
+Brooke-Marks-Midori-West-Bailey-Knox-Three-Angels
+14
+9f9cf8ec-6dda-486c-8d74-b08780e31956
+Brooke-Marks-Shaves-The-Kitty-Zipset
+15
+9f9cf8ec-6dda-486c-8d74-b08780e31956
+Brooke-Marks-Closet-Devil
+16
+9f9cf8ec-6dda-486c-8d74-b08780e31956
+Brooke-Marks-Is-A-Heartbreaker
+17
+9f9cf8ec-6dda-486c-8d74-b08780e31956
+Four-Girl-Strip-Beer-Pong-Misty-Rachel-Brooke-Avery
+18
+9f9cf8ec-6dda-486c-8d74-b08780e31956
+Brooke-Marks-Tear-Drop-Mini-Bikini
+19
+9f9cf8ec-6dda-486c-8d74-b08780e31956
+Brooke-Marks-Shredded-Daisies
+20
+9f9cf8ec-6dda-486c-8d74-b08780e31956
+Brooke-Marks-Wet-Wild-Zipset
+21
+9f9cf8ec-6dda-486c-8d74-b08780e31956
+Brooke-Marks-Secretary-On-Lunch-Break
+22
+9f9cf8ec-6dda-486c-8d74-b08780e31956
+Brooke-Cat-Suit
+23
+9f9cf8ec-6dda-486c-8d74-b08780e31956
+Stockings-And-Heels-Brooke-Marks
+24
+9f9cf8ec-6dda-486c-8d74-b08780e31956
+Brooke-Marks-Game-Room
+25
+9f9cf8ec-6dda-486c-8d74-b08780e31956
+Brooke-Marks-See-Through-Party-Top
+26
+9f9cf8ec-6dda-486c-8d74-b08780e31956
+Brooke-Marks-Sheer-Top-Zipset
+27
+9f9cf8ec-6dda-486c-8d74-b08780e31956
+Brooke-Marks-Misty-Plastic-Wrap-Bikinis
+28
+9f9cf8ec-6dda-486c-8d74-b08780e31956
+Brooke-Marks-Cheerleader-Candids
+29
+9f9cf8ec-6dda-486c-8d74-b08780e31956
+Brooke-Marks-America-Fuck-Yeah
+30
+9f9cf8ec-6dda-486c-8d74-b08780e31956
+Brooke-Marks-Naked-Bath
+31
+9f9cf8ec-6dda-486c-8d74-b08780e31956
+Brooke-Marks-Titty-Pasties
+32
+9f9cf8ec-6dda-486c-8d74-b08780e31956
+Brooke-Marks-Revealing-Cut-Off-Tank-Top
+33
+9f9cf8ec-6dda-486c-8d74-b08780e31956
+1
+34
+9f9cf8ec-6dda-486c-8d74-b08780e31956
+4
+35
+9f9cf8ec-6dda-486c-8d74-b08780e31956
+5
+36
+9f9cf8ec-6dda-486c-8d74-b08780e31956
+2
+37
+9f9cf8ec-6dda-486c-8d74-b08780e31956
+4
+38
+9f9cf8ec-6dda-486c-8d74-b08780e31956
+3
+39
+9f9cf8ec-6dda-486c-8d74-b08780e31956
+5
+40
+9f9cf8ec-6dda-486c-8d74-b08780e31956
+1
+41
+9f9cf8ec-6dda-486c-8d74-b08780e31956
+2
+42
+9f9cf8ec-6dda-486c-8d74-b08780e31956
+3
+43
+9f9cf8ec-6dda-486c-8d74-b08780e31956
+4
+44
+9f9cf8ec-6dda-486c-8d74-b08780e31956
+5
+45
+9f9cf8ec-6dda-486c-8d74-b08780e31956
+1
+46
+9f9cf8ec-6dda-486c-8d74-b08780e31956
+2
+47
+9f9cf8ec-6dda-486c-8d74-b08780e31956
+3
+48
+9f9cf8ec-6dda-486c-8d74-b08780e31956
+4
+49
+9f9cf8ec-6dda-486c-8d74-b08780e31956
+5
+50
+9f9cf8ec-6dda-486c-8d74-b08780e31956
+1
+51
+9f9cf8ec-6dda-486c-8d74-b08780e31956
+2
+52
+9f9cf8ec-6dda-486c-8d74-b08780e31956
+3
+53
+9f9cf8ec-6dda-486c-8d74-b08780e31956
+4
+54
+9f9cf8ec-6dda-486c-8d74-b08780e31956
+5
+55
+9f9cf8ec-6dda-486c-8d74-b08780e31956
+2
+56
+9f9cf8ec-6dda-486c-8d74-b08780e31956
+3
+57
+9f9cf8ec-6dda-486c-8d74-b08780e31956
+2
+58
+9f9cf8ec-6dda-486c-8d74-b08780e31956
+3
+-&gt; done: EpicPandaCashStepDefinitions.ThenIShouldCreateAnyNewModelNameEpicpandacashGalleries("Brooke Marks") (8.9s)</StdOut>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>
