@@ -300,6 +300,16 @@ namespace PornCantina.Controllers
 			//    }
 			//}
 
+			foreach(var file in dInfo.GetFiles())
+			{
+				var fileName = file.Name.Replace(file.Extension, "");
+				if(fileName.Length == 1)
+				{
+					file.CopyTo(string.Format(@"{0}/0{1}", dInfo, file.Name.ToLower()), true);
+					file.Delete();
+				}
+			}
+
 			var files = dInfo.GetFiles().OrderByDescending(f => f.Name).Reverse();
 
 			// iterate through each file and rename and create thumbnails
