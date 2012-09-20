@@ -6,23 +6,43 @@ using System.Web;
 
 namespace PornCantina.Models
 {
-    public class WebSite
-    {
-        private PornCantinaContext db = new PornCantinaContext();
+	public class WebSite
+	{
+		#region Fields
 
-        #region Type specific properties
+		private PornCantinaContext db = new PornCantinaContext();
 
-        [Key]
-        public Guid Id { get; set; }
-        public string Name { get; set; }
-        public string ReferralLink { get; set; }
-        public string RSSFeed { get; set; }
+		#endregion
 
-        #endregion
+		#region Type specific properties
 
-        #region Type specific methods
+		[Key]
+		public Guid Id
+		{
+			get;
+			set;
+		}
 
+		public string Name
+		{
+			get;
+			set;
+		}
 
-        #endregion
-    }
+		[Display(Name = "Referral Link")]
+		public string ReferralLink
+		{
+			get;
+			set;
+		}
+
+		[Display(Name="WebMaster Content Page")]
+		public string WebmasterContentPage
+		{
+			get;
+			set;
+		}
+
+		#endregion
+	}
 }

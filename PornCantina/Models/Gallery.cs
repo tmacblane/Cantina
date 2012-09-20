@@ -5,14 +5,28 @@ using System.Linq;
 using System.Web;
 using System.ComponentModel.DataAnnotations;
 using System.Web.Mvc;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace PornCantina.Models
 {
 	public class Gallery
 	{
+		#region Fields
+
 		private PornCantinaContext db = new PornCantinaContext();
 		Model model = new Model();
 		private List<SelectListItem> _models = new List<SelectListItem>();
+
+		#endregion
+
+		#region Constructors
+
+		public Gallery()
+		{
+			this.Images = new List<Image>();
+		}
+
+		#endregion
 
 		#region Type specific properties
 
@@ -60,6 +74,13 @@ namespace PornCantina.Models
 		}
 
 		public virtual ICollection<Image> Images
+		{
+			get;
+			set;
+		}
+
+		[ForeignKey("ModelId")]
+		public virtual Model Model
 		{
 			get;
 			set;

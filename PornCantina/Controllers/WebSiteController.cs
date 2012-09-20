@@ -28,7 +28,7 @@ namespace PornCantina.Controllers
 		// GET: /Model/
 		public ViewResult Manage()
 		{
-			return View(db.WebSites.ToList());
+			return View(db.WebSites.ToList().OrderByDescending(w => w.Name).Reverse());
 		}
 
 		//
@@ -93,51 +93,6 @@ namespace PornCantina.Controllers
 		{
 			db.Dispose();
 			base.Dispose(disposing);
-		}
-
-		public void GetRSSInformation()
-		{
-			XNamespace media = XNamespace.Get("http://search.yahoo.com/mrss/");
-
-			foreach(var website in db.WebSites)
-			{
-				if(website.RSSFeed != null)
-				{
-					XmlReader reader = XmlReader.Create(website.RSSFeed);
-					XDocument document = XDocument.Load(reader);
-
-					XElement rootNode = document.Element("rss").Element("channel");
-
-					foreach(var item in rootNode.Elements("item"))
-					{
-						// get last gallery publish time for current model
-						Guid modelId = this.GetModelIdByWebSiteId(website.Id);
-						var lastGalleryUpdateTime = this.GetLastGalleryPublishedDateForSpecifiedModel(modelId);
-
-						//replace timezone with UTC offset
-						string utcOffestPubDate = pornCantinaHelper.GetModifiedDateTime(item.Element("pubDate").Value);
-
-						var currentGalleryPublishTimeStamp = DateTime.Parse(utcOffestPubDate);
-						string[] galleryLink = item.Element(media + "thumbnail").Attribute("url").Value.Split('/');
-
-						// if the current gallery as added after the last gallery update time, add the gallery
-						if(currentGalleryPublishTimeStamp >= lastGalleryUpdateTime)
-						{
-							db.Galleries.Add(new Gallery
-							{
-								Id = Guid.NewGuid(),
-								ModelId = modelId,
-								Title = this.GetGalleryTitle(item.Element("description").Value),
-								Folder = galleryLink[galleryLink.Length - 2],
-								DatePublished = currentGalleryPublishTimeStamp,
-								IsActive = false
-							});
-						}
-					}
-
-					db.SaveChanges();
-				}
-			}
 		}
 
 		#region Type specific methods

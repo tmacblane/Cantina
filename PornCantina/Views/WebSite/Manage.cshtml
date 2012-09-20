@@ -8,8 +8,6 @@
 
 <p>
     @Html.ActionLink("Create New", "Create")
-    @Html.ActionLink("GetHtmlInformation", "GetHtmlInformation")
-    @Html.ActionLink("Get RSS Information", "GetRSSInformation")
 </p>
 <table>
     <thead>
@@ -19,9 +17,6 @@
             </th>
             <th>
                 Referral Link
-            </th>
-            <th>
-                RSS Feed
             </th>
             <th></th>
         </tr>
@@ -36,13 +31,7 @@
                 <a href="@item.ReferralLink">@Html.DisplayFor(modelItem => item.ReferralLink)</a>
             </td>
             <td>
-                @if (item.RSSFeed == null)
-                {
-                }
-                else
-                {
-                    <a href="@Html.DisplayFor(modelItem => item.RSSFeed)">RSS Feed</a>
-                }
+                <a href="@item.WebmasterContentPage">@Html.DisplayFor(modelItem => item.WebmasterContentPage)</a>
             </td>
             <td>
                 @Html.ActionLink("Edit", "Edit", new { id = item.Id }) |

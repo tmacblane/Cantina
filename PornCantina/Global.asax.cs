@@ -11,11 +11,10 @@ using PornCantina.Models;
 
 namespace PornCantina
 {
-	// Note: For instructions on enabling IIS6 or IIS7 classic mode, 
-	// visit http://go.microsoft.com/?LinkId=9394801
-
 	public class MvcApplication : System.Web.HttpApplication
 	{
+		#region Type specific methods
+
 		public static void RegisterRoutes(RouteCollection routes)
 		{
 			routes.IgnoreRoute("{resource}.axd/{*pathInfo}");
@@ -36,11 +35,20 @@ namespace PornCantina
 		protected void Application_Start()
 		{
 			AreaRegistration.RegisterAllAreas();
-			Database.SetInitializer<PornCantinaContext>(null);
 
+			//Database.SetInitializer(new PornCantinaContextInitializer());
+
+			//using(var context = new CIAutomationContext())
+			//{
+			//    context.Database.Initialize(force: true);
+			//}
+
+			// WebApiConfig.Register(GlobalConfiguration.Configuration);
 			FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);
 			RouteConfig.RegisterRoutes(RouteTable.Routes);
 			BundleConfig.RegisterBundles(BundleTable.Bundles);
 		}
+
+		#endregion
 	}
 }

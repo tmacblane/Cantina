@@ -16,14 +16,15 @@
                 Name
             </th>
             <th>
-                WebSite
-            </th>
-            <th>
                 Active Galleries
             </th>
             <th>
                 Inactive Galleries
             </th>
+			<th>
+				Webmaster Content Link
+			</th>
+			<th></th>
         </tr>
     </thead>
     
@@ -34,13 +35,13 @@
                 @Html.DisplayFor(modelItem => item.Name)
             </td>
             <td>
-                <a href="@item.GetWebSiteReferralLink(item)">@item.GetWebSiteByModel(item)</a>
-            </td>
-            <td>
                 @item.GetActiveGalleryCountByModel(item.Id)
             </td>
             <td>
                 @item.GetInactiveGalleryCountByModel(item.Id)
+            </td>
+            <td>
+                <a href="@item.WebSite.WebmasterContentPage">@Html.DisplayFor(modelItem => item.WebSite.WebmasterContentPage)</a>
             </td>
             <td>
                 @Html.ActionLink("Edit", "Edit", new { id=item.Id }) |

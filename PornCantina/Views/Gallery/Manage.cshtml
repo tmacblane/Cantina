@@ -33,7 +33,7 @@
                 @item.GetModelName(@item.ModelId)
             </td>
             <td>
-                <a href="@Url.Action("Model", new { name = @item.GetModelName(item.ModelId), galleryId = item.Id })" title="@item.Title">
+                <a href="@Url.Action("Model", new { name = @item.Model.Name, galleryId = item.Id })" title="@item.Title">
 					@item.Title
                 </a>
             </td>
@@ -51,13 +51,13 @@
                 @Html.ActionLink("Details", "Details", new { id = item.Id })
             </td>
             <td>
-                @item.GetGalleryFolderImagesCount(@item.GetModelName(@item.ModelId), @item.Folder)
+                @item.GetGalleryFolderImagesCount(@item.Model.Name, @item.Folder)
             </td>
             <td>
-                @Html.ActionLink("Populate Gallery Images", "PopulateGalleryImages", new { modelName = item.GetModelName(item.ModelId), folderName = item.Folder })
+                @Html.ActionLink("Populate Gallery Images", "PopulateGalleryImages", new { modelName = item.Model.Name, folderName = item.Folder })
             </td>
             <td>
-                @Html.ActionLink("Rename and Create Thumbnails", "RenameAndCreateThumbnails", new { modelName = item.GetModelName(item.ModelId), folderName = item.Folder })
+                @Html.ActionLink("Rename and Create Thumbnails", "RenameAndCreateThumbnails", new { modelName = item.Model.Name, folderName = item.Folder })
             </td>
             <td>
 				@if(@item.Images.Count() > 0)

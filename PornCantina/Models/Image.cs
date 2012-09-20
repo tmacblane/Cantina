@@ -4,12 +4,17 @@ using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Web;
 using System.IO;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace PornCantina.Models
 {
 	public class Image
 	{
+		#region Fields
+
 		private PornCantinaContext db = new PornCantinaContext();
+
+		#endregion
 
 		#region Type specific properties
 
@@ -44,8 +49,16 @@ namespace PornCantina.Models
 			set;
 		}
 
+		[ForeignKey("GalleryId")]
+		public virtual Gallery Gallery
+		{
+			get;
+			set;
+		}
+
 		#endregion
 
+		#region Type specific methods
 
 		public string GetThumbnailImage(Guid imageId)
 		{
@@ -113,5 +126,7 @@ namespace PornCantina.Models
 		// insert image into db
 		// if image begins with "tn" or something to denote it's a thumbnail, set isThumbnail == true
 		// if no thumbnails exists, create thumbnails out of each image, rename to tn_xxx and set isThumbnail == true
+
+		#endregion
 	}
 }

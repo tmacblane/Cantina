@@ -8,8 +8,6 @@
 
 <p>
     @Html.ActionLink("Create New", "Create")
-    @Html.ActionLink("GetHtmlInformation", "GetHtmlInformation")
-    @Html.ActionLink("Get RSS Information", "GetRSSInformation")
 </p>
 <table>
     <tr>
@@ -25,10 +23,10 @@
 @foreach (var item in Model) {
     <tr>
         <td>
-            <a href = @item.ReferralLink>@item.Name</a>
+            <a href="@item.ReferralLink">@item.Name</a>
         </td>
         <td>
-            <a href = @Html.DisplayFor(modelItem => item.RSSFeed)>@Html.DisplayFor(modelItem => item.RSSFeed)</a>
+            <a href="@Html.DisplayFor(modelItem => item.WebmasterContentPage)">@Html.DisplayFor(modelItem => item.WebmasterContentPage)</a>
         </td>
         <td>
             @Html.ActionLink("Edit", "Edit", new { id=item.Id }) |
