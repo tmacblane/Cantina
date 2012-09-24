@@ -3,3 +3,4 @@ C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\PornCantina.FFMpegF
 C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\PornCantina.FFMpegFrameCapture\bin\Debug\PornCantina.FFMpegFrameCapture.pdb
 C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\PornCantina.FFMpegFrameCapture\obj\Debug\PornCantina.FFMpegFrameCapture.dll
 C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\PornCantina.FFMpegFrameCapture\obj\Debug\PornCantina.FFMpegFrameCapture.pdb
+C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\PornCantina.FFMpegFrameCapture\bin\Debug\PornCantina.FFMpegFrameCapture.dll.config

@@ -36,9 +36,9 @@ namespace PornCantina.Controllers
 			return View(galleries);
 		}
 
-		public ViewResult Manage(int? page)
+		public ViewResult Manage()
 		{
-			return View(db.Galleries.Where(g => g.IsActive == false).OrderBy(g => g.Folder).OrderBy(g => g.ModelId).ToList());
+			return View(db.Galleries.Where(g => g.IsActive == false).OrderBy(g => g.Model.Name).ThenByDescending(g => g.DatePublished).ToList());
 		}
 
 		//
@@ -326,7 +326,7 @@ namespace PornCantina.Controllers
 					filename = string.Format("{0}", i);
 				}
 
-				if(file.Name != string.Format("{0}{1}", filename, file.Extension.ToLower()))
+				if(file.Name != string.Format("{0}{1}", filename, file.Extension))
 				{
 					file.CopyTo(string.Format(@"{0}/{1}{2}", dInfo, filename, file.Extension.ToLower()), true);
 				}

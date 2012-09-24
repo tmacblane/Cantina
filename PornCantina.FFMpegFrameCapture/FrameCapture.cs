@@ -1,15 +1,16 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Configuration;
-using System.Diagnostics;
-using System.IO;
 using System.Linq;
+using System.Text;
+using System.Configuration;
+using System.IO;
 using System.Text.RegularExpressions;
-using System.Web;
+using System.Diagnostics;
+using System.Threading;
 
-namespace ffMpeg
+namespace PornCantina.FFMpegFrameCapture
 {
-	public class Converter
+	public class FrameCapture
 	{
 		#region Fields
 		
@@ -20,12 +21,12 @@ namespace ffMpeg
 
 		#region Constructors
 
-		public Converter()
+		public FrameCapture()
 		{
 			Initialize();
 		}
 
-		public Converter(string ffmpegExePath)
+		public FrameCapture(string ffmpegExePath)
 		{
 			_ffExe = ffmpegExePath;
 			Initialize();
@@ -129,51 +130,12 @@ namespace ffMpeg
 
 		#endregion
 
-		#region Get the File without creating a file lock
-
-		public static System.Drawing.Image LoadImageFromFile(string fileName)
-		{
-			System.Drawing.Image theImage = null;
-			using(FileStream fileStream = new FileStream(fileName, FileMode.Open,
-			FileAccess.Read))
-			{
-				byte[] img;
-				img = new byte[fileStream.Length];
-				fileStream.Read(img, 0, img.Length);
-				fileStream.Close();
-				theImage = System.Drawing.Image.FromStream(new MemoryStream(img));
-				img = null;
-			}
-
-			GC.Collect();
-			return theImage;
-		}
-
-		public static MemoryStream LoadMemoryStreamFromFile(string fileName)
-		{
-			MemoryStream ms = null;
-			using(FileStream fileStream = new FileStream(fileName, FileMode.Open,
-			FileAccess.Read))
-			{
-				byte[] fil;
-				fil = new byte[fileStream.Length];
-				fileStream.Read(fil, 0, fil.Length);
-				fileStream.Close();
-				ms = new MemoryStream(fil);
-			}
-
-			GC.Collect();
-			return ms;
-		}
-
-		#endregion
-
 		#region Run the process
 
-		private string RunProcess(string Parameters)
+		private string RunProcess(string parameters)
 		{
 			//create a process info
-			ProcessStartInfo oInfo = new ProcessStartInfo(this._ffExe, Parameters);
+			ProcessStartInfo oInfo = new ProcessStartInfo(this._ffExe, parameters);
 			oInfo.UseShellExecute = false;
 			oInfo.CreateNoWindow = true;
 			oInfo.RedirectStandardOutput = true;
@@ -189,7 +151,7 @@ namespace ffMpeg
 				//run the process
 				Process proc = System.Diagnostics.Process.Start(oInfo);
 
-				proc.WaitForExit();
+				proc.WaitForExit(10000);
 
 				//get the output
 				srOutput = proc.StandardError;
@@ -214,6 +176,19 @@ namespace ffMpeg
 			}
 
 			return output;
+		}
+
+		private void RunProcessNoOutput(string parameters)
+		{
+			//create a process info
+			ProcessStartInfo oInfo = new ProcessStartInfo(this._ffExe, parameters);
+			oInfo.UseShellExecute = false;
+			oInfo.CreateNoWindow = true;
+			oInfo.RedirectStandardOutput = true;
+			oInfo.RedirectStandardError = true;
+
+			//try the process
+			Process proc = System.Diagnostics.Process.Start(oInfo);
 		}
 
 		#endregion
@@ -333,9 +308,9 @@ namespace ffMpeg
 
 		#endregion
 
-		#region Convert to FLV
+		#region CreateVideoThumbnails
 
-		public OutputPackage ConvertToFLV(MemoryStream inputFile, string Filename)
+		public void CreateVideoThumbnails(MemoryStream inputFile, string Filename)
 		{
 			string tempfile = Path.Combine(this.WorkingPath, System.Guid.NewGuid().ToString() + Path.GetExtension(Filename));
 			FileStream fs = File.Create(tempfile);
@@ -354,21 +329,10 @@ namespace ffMpeg
 				throw ex;
 			}
 
-			OutputPackage oo = ConvertToFLV(vf);
-
-			try
-			{
-				File.Delete(tempfile);
-			}
-			catch(Exception)
-			{
-
-			}
-
-			return oo;
+			this.CreateVideoThumbnails(vf);
 		}
 
-		public OutputPackage ConvertToFLV(string inputPath)
+		public void CreateVideoThumbnails(string inputPath)
 		{
 			VideoFile vf = null;
 			try
@@ -380,11 +344,10 @@ namespace ffMpeg
 				throw ex;
 			}
 
-			OutputPackage oo = ConvertToFLV(vf);
-			return oo;
+			this.CreateVideoThumbnails(vf);
 		}
 
-		public OutputPackage ConvertToFLV(VideoFile input)
+		public void CreateVideoThumbnails(VideoFile input)
 		{
 			if(!input.infoGathered)
 			{
@@ -393,202 +356,22 @@ namespace ffMpeg
 			OutputPackage ou = new OutputPackage();
 
 			//set up the parameters for getting a previewimage
-			string filename = System.Guid.NewGuid().ToString() + ".jpg";
+			string filename;
+			string finalpath;
+			string Params;
 			int secs;
+			double[] previewPercentages = new double[] { .08, .20, .32, .44, .56, .68, .80, .92 }; // 
 
-			//divide the duration in 3 to get a preview image in the middle of the clip
-			//instead of a black image from the beginning.
-			secs = (int)Math.Round(TimeSpan.FromTicks(input.Duration.Ticks / 3).TotalSeconds, 0);
-
-			string finalpath = Path.Combine(this.WorkingPath, filename);
-			string Params = string.Format("-i {0} {1} -vcodec mjpeg -ss {2} -vframes 1 -an -f rawvideo", input.Path, finalpath, secs);
-			string output = RunProcess(Params);
-
-			ou.RawOutput = output;
-
-			if(File.Exists(finalpath))
+			foreach(double previewPercentage in previewPercentages)
 			{
-				ou.PreviewImage = LoadImageFromFile(finalpath);
-				try
-				{
-					File.Delete(finalpath);
-				}
-				catch(Exception)
-				{
-				}
+				secs = (int)Math.Round(TimeSpan.FromTicks((long)(input.Duration.Ticks * previewPercentage)).TotalSeconds, 0);
+
+				filename = string.Format("{0}.jpg", secs.ToString());
+				finalpath = Path.Combine(this.WorkingPath, filename);
+				Params = string.Format("-i {0} -ss {1} -vcodec mjpeg -vframes 1 -an {2} -f rawvideo", input.Path, secs, finalpath);
+
+				this.RunProcess(Params);
 			}
-			else
-			{ //try running again at frame 1 to get something
-				Params = string.Format("-i {0} {1} -vcodec mjpeg -ss {2} -vframes 1 -an -f rawvideo", input.Path, finalpath, 1);
-				output = RunProcess(Params);
-
-				ou.RawOutput = output;
-
-				if(File.Exists(finalpath))
-				{
-					ou.PreviewImage = LoadImageFromFile(finalpath);
-					try
-					{
-						File.Delete(finalpath);
-					}
-					catch(Exception)
-					{
-					}
-				}
-			}
-
-			finalpath = Path.Combine(this.WorkingPath, filename);
-			filename = System.Guid.NewGuid().ToString() + ".flv";
-			Params = string.Format("-i {0} -y -ar 22050 -ab 64 -f flv {1}", input.Path, finalpath);
-			output = RunProcess(Params);
-
-			if(File.Exists(finalpath))
-			{
-				ou.VideoStream = LoadMemoryStreamFromFile(finalpath);
-				try
-				{
-					File.Delete(finalpath);
-				}
-				catch(Exception)
-				{
-				}
-			}
-
-			return ou;
-		}
-
-		#endregion
-	}
-
-	public class VideoFile
-	{
-		#region Fields
-
-		private string _Path;
-
-		#endregion
-
-		#region Constructors
-
-		public VideoFile(string path)
-		{
-			_Path = path;
-			Initialize();
-		}
-
-		#endregion
-
-		#region Type specific properties
-
-		public string Path
-		{
-			get
-			{
-				return _Path;
-			}
-			set
-			{
-				_Path = value;
-			}
-		}
-
-		public TimeSpan Duration
-		{
-			get;
-			set;
-		}
-
-		public double BitRate
-		{
-			get;
-			set;
-		}
-
-		public string AudioFormat
-		{
-			get;
-			set;
-		}
-
-		public string VideoFormat
-		{
-			get;
-			set;
-		}
-
-		public int Height
-		{
-			get;
-			set;
-		}
-
-		public int Width
-		{
-			get;
-			set;
-		}
-
-		public string RawInfo
-		{
-			get;
-			set;
-		}
-
-		public bool infoGathered
-		{
-			get;
-			set;
-		}
-
-		#endregion
-
-		#region Initialization
-
-		private void Initialize()
-		{
-			this.infoGathered = false;
-			//first make sure we have a value for the video file setting
-			if(string.IsNullOrEmpty(_Path))
-			{
-				throw new Exception("Could not find the location of the video file");
-			}
-
-			//Now see if the video file exists
-			if(!File.Exists(_Path))
-			{
-				throw new Exception("The video file " + _Path + " does not exist.");
-			}
-		}
-
-		#endregion
-	}
-
-	public class OutputPackage
-	{
-		#region Type specific properties
-
-		public MemoryStream VideoStream
-		{
-			get;
-			set;
-		}
-
-		public System.Drawing.Image PreviewImage
-		{
-			get;
-			set;
-		}
-
-		public string RawOutput
-		{
-			get;
-			set;
-		}
-
-		public bool Success
-		{
-			get;
-			set;
 		}
 
 		#endregion

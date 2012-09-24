@@ -34,3 +34,5 @@ C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\PornCantina\bin\Sys
 C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\PornCantina\bin\System.Web.WebPages.Razor.xml
 C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\PornCantina\obj\Debug\PornCantina.dll
 C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\PornCantina\obj\Debug\PornCantina.pdb
+C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\PornCantina\bin\PornCantina.FFMpegFrameCapture.dll
+C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\PornCantina\bin\PornCantina.FFMpegFrameCapture.pdb

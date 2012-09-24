@@ -154,6 +154,7 @@
     <Content Include="Content\CSS\lightbox.css" />
     <Content Include="Content\CSS\screen.css" />
     <Content Include="Content\CSS\Site.css" />
+    <Content Include="Content\FFMpegFile\ffmpeg.exe" />
     <Content Include="Content\themes\base\images\ui-bg_flat_0_aaaaaa_40x100.png" />
     <Content Include="Content\themes\base\images\ui-bg_flat_75_ffffff_40x100.png" />
     <Content Include="Content\themes\base\images\ui-bg_glass_55_fbf9ee_1x400.png" />
@@ -283,6 +284,12 @@
     <Content Include="Views\WebSite\Edit.cshtml" />
     <Content Include="Views\WebSite\Index.cshtml" />
     <Content Include="Views\WebSite\Manage.cshtml" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\PornCantina.FFMpegFrameCapture\PornCantina.FFMpegFrameCapture.csproj">
+      <Project>{4A9C201B-01D9-49C9-B3F6-E754159CC24F}</Project>
+      <Name>PornCantina.FFMpegFrameCapture</Name>
+    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
