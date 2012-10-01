@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="628624af-661c-4df4-a178-6e66d30b3795" name="TMacBlane@FIREFLY 2012-09-30 21:30:35" runUser="Firefly\TMacBlane" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Default Test Settings" id="60efb8c1-fa76-47b2-98a6-f5d89443576c">
+    <Deployment runDeploymentRoot="TMacBlane_FIREFLY 2012-09-30 21_30_35">
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\AutomationFramework\bin\Debug\AutomationFramework.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\packages\Microsoft.AspNet.WebPages.2.0.20710.0\lib\net40\System.Web.WebPages.Deployment.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\PornCantina\bin\PornCantina.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\packages\Microsoft.AspNet.Mvc.4.0.20505.0\lib\net40\System.Web.Mvc.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\bin\Debug\WebDriver.Support.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\packages\Microsoft.AspNet.WebPages.2.0.20710.0\lib\net40\System.Web.Helpers.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\bin\Debug\WebDriver.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\packages\Microsoft.AspNet.WebPages.2.0.20710.0\lib\net40\System.Web.WebPages.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\packages\Microsoft.Web.Infrastructure.1.0.0.0\lib\net40\Microsoft.Web.Infrastructure.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\packages\Microsoft.AspNet.WebPages.2.0.20710.0\lib\net40\System.Web.WebPages.Razor.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\bin\Debug\Ionic.Zip.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\packages\Microsoft.AspNet.Razor.2.0.20710.0\lib\net40\System.Web.Razor.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\bin\Debug\TechTalk.SpecFlow.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\bin\Debug\Castle.Core.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\bin\Debug\Newtonsoft.Json.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2012-09-30T21:30:35.0442000-04:00" queuing="2012-09-30T21:30:35.4672000-04:00" start="2012-09-30T21:30:35.5132000-04:00" finish="2012-09-30T21:30:54.0182000-04:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="2" executed="2" passed="2" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="PopulateBellaCashGalleries_RennaRyann" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" id="dfed4799-d8fd-25dc-42b0-c8ea9ee23c63">
+      <Description>Populate BellaCash Galleries</Description>
+      <Execution id="061a9b72-6d71-4869-a9ed-b494715158ad" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>BellaCash</Value>
+        </Property>
+        <Property>
+          <Key>VariantName</Key>
+          <Value>Renna Ryann</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:modelName</Key>
+          <Value>Renna Ryann</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Users/TMacBlane/Documents/DevelopmentProjects/PornCantina.UIAutomation/bin/Debug/PornCantina.UIAutomation.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PornCantina.UIAutomation.Scenarios.BellaCashFeature, PornCantina.UIAutomation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PopulateBellaCashGalleries_RennaRyann" />
+    </UnitTest>
+    <UnitTest name="PopulateBellaCashGalleries_LexiMason" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" id="cb48dcef-796c-d2b0-fdbf-4d69a8dc994d">
+      <Description>Populate BellaCash Galleries</Description>
+      <Execution id="458528a2-9a09-4c94-b4ae-11f9706742c3" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>BellaCash</Value>
+        </Property>
+        <Property>
+          <Key>VariantName</Key>
+          <Value>Lexi Mason</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:modelName</Key>
+          <Value>Lexi Mason</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Users/TMacBlane/Documents/DevelopmentProjects/PornCantina.UIAutomation/bin/Debug/PornCantina.UIAutomation.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PornCantina.UIAutomation.Scenarios.BellaCashFeature, PornCantina.UIAutomation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PopulateBellaCashGalleries_LexiMason" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="cb48dcef-796c-d2b0-fdbf-4d69a8dc994d" executionId="458528a2-9a09-4c94-b4ae-11f9706742c3" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="dfed4799-d8fd-25dc-42b0-c8ea9ee23c63" executionId="061a9b72-6d71-4869-a9ed-b494715158ad" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="458528a2-9a09-4c94-b4ae-11f9706742c3" testId="cb48dcef-796c-d2b0-fdbf-4d69a8dc994d" testName="PopulateBellaCashGalleries_LexiMason" computerName="FIREFLY" duration="00:00:10.9069554" startTime="2012-09-30T21:30:35.5242000-04:00" endTime="2012-09-30T21:30:46.8432000-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="458528a2-9a09-4c94-b4ae-11f9706742c3">
+      <Output>
+        <StdOut>Given I open the bellacash page
+-&gt; done: StepDefinitions.GivenIOpenTheSpecifiedPage("bellacash") (6.0s)
+Then I should be on the bellacash page
+-&gt; done: StepDefinitions.IShouldBeOnTheSpecifiedPage("bellacash") (0.2s)
+When I select the Lexi Mason bellapass paysite
+-&gt; done: BellaCashStepDefinitions.WhenISelectTheSpecifiedPaysite("Lexi Mason") (0.1s)
+Then I should see the Lexi Mason bellapass hosted galleries
+-&gt; done: BellaCashStepDefinitions.ThenIShouldSeeTheSpecifiedHostedGalleries("Lexi Mason") (1.3s)
+And I should create any new Lexi Mason bellapass galleries
+-&gt; done: BellaCashStepDefinitions.ThenIShouldCreateAnyNewModelNameBellapassGalleries("Lexi Mason") (2.1s)</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="061a9b72-6d71-4869-a9ed-b494715158ad" testId="dfed4799-d8fd-25dc-42b0-c8ea9ee23c63" testName="PopulateBellaCashGalleries_RennaRyann" computerName="FIREFLY" duration="00:00:07.1015910" startTime="2012-09-30T21:30:46.8462000-04:00" endTime="2012-09-30T21:30:53.9522000-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="061a9b72-6d71-4869-a9ed-b494715158ad">
+      <Output>
+        <StdOut>Given I open the bellacash page
+-&gt; done: StepDefinitions.GivenIOpenTheSpecifiedPage("bellacash") (4.2s)
+Then I should be on the bellacash page
+-&gt; done: StepDefinitions.IShouldBeOnTheSpecifiedPage("bellacash") (0.2s)
+When I select the Renna Ryann bellapass paysite
+-&gt; done: BellaCashStepDefinitions.WhenISelectTheSpecifiedPaysite("Renna Ryann") (0.1s)
+Then I should see the Renna Ryann bellapass hosted galleries
+-&gt; done: BellaCashStepDefinitions.ThenIShouldSeeTheSpecifiedHostedGalleries("Renna Ryann") (1.0s)
+And I should create any new Renna Ryann bellapass galleries
+-&gt; done: BellaCashStepDefinitions.ThenIShouldCreateAnyNewModelNameBellapassGalleries("Renna Ryann") (0.5s)</StdOut>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>
