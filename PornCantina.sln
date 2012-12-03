@@ -16,7 +16,15 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{5DD208
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PornCantina.FFMpegFrameCapture", "PornCantina.FFMpegFrameCapture\PornCantina.FFMpegFrameCapture.csproj", "{4A9C201B-01D9-49C9-B3F6-E754159CC24F}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1ACE53F3-0716-4278-A2AD-975A90B5D341}"
+	ProjectSection(SolutionItems) = preProject
+		PornCantina.vsmdi = PornCantina.vsmdi
+	EndProjectSection
+EndProject
 Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = PornCantina.vsmdi
+	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Debug|Mixed Platforms = Debug|Mixed Platforms

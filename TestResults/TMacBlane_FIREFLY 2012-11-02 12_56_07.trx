@@ -1,0 +1,202 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="c04c5567-324e-4201-9ee0-8ee17f46d783" name="TMacBlane@FIREFLY 2012-11-02 12:56:07" runUser="Firefly\TMacBlane" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Default Test Settings" id="26e41429-8881-40aa-8ba1-5bd6ce17a0e4">
+    <Deployment userDeploymentRoot="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\TestResults" useDefaultDeploymentRoot="false" runDeploymentRoot="TMacBlane_FIREFLY 2012-11-02 12_56_07">
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\AutomationFramework\bin\Debug\AutomationFramework.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\packages\Microsoft.AspNet.WebPages.2.0.20710.0\lib\net40\System.Web.WebPages.Deployment.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\packages\Microsoft.AspNet.Mvc.4.0.20505.0\lib\net40\System.Web.Mvc.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\bin\Debug\WebDriver.Support.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\PornCantina\bin\PornCantina.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\packages\Microsoft.AspNet.WebPages.2.0.20710.0\lib\net40\System.Web.Helpers.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\packages\SpecFlow.1.9.0\lib\net35\TechTalk.SpecFlow.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\bin\Debug\WebDriver.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\packages\Microsoft.AspNet.WebPages.2.0.20710.0\lib\net40\System.Web.WebPages.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\packages\Microsoft.Web.Infrastructure.1.0.0.0\lib\net40\Microsoft.Web.Infrastructure.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\packages\Microsoft.AspNet.WebPages.2.0.20710.0\lib\net40\System.Web.WebPages.Razor.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\bin\Debug\Ionic.Zip.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\packages\Microsoft.AspNet.Razor.2.0.20710.0\lib\net40\System.Web.Razor.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\bin\Debug\Castle.Core.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\bin\Debug\Newtonsoft.Json.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2012-11-02T12:56:07.1648343-04:00" queuing="2012-11-02T12:56:07.7618343-04:00" start="2012-11-02T12:56:07.7778343-04:00" finish="2012-11-02T12:56:08.7378343-04:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="1" executed="1" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="PopulateBellaCashGalleries_AvaDawn" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" id="2272289c-032b-1243-7330-eb5092e584fc">
+      <Description>Populate BellaCash Galleries</Description>
+      <Execution id="4686bfcc-f49c-477c-91d9-8b7028ead64b" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>BellaCash</Value>
+        </Property>
+        <Property>
+          <Key>VariantName</Key>
+          <Value>Ava Dawn</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:modelName</Key>
+          <Value>Ava Dawn</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Users/TMacBlane/Documents/DevelopmentProjects/PornCantina.UIAutomation/bin/Debug/PornCantina.UIAutomation.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PornCantina.UIAutomation.Scenarios.BellaCashFeature, PornCantina.UIAutomation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PopulateBellaCashGalleries_AvaDawn" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+    <TestList name="Lists of Results" id="8c43106b-9dc1-4907-a29f-aa66a61bf5b6" />
+    <TestList name="Sites" id="8ba83221-1a26-45ff-8a75-ce587dd12d36" parentListId="8c43106b-9dc1-4907-a29f-aa66a61bf5b6">
+      <TestLinks>
+        <TestLink id="0e293ab0-9375-e2a4-2482-49fbaa7ebeb7" name="PopulatePacinoCashGalleries_MadisonLain" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+        <TestLink id="ec2c6f0a-2450-dc25-0d39-ade2ab07c845" name="PopulateBellaCashGalleries_HunterLeigh" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+        <TestLink id="70329624-f7cc-6664-b631-4cc70d51a00f" name="PopulatePinkVelvetVaultGalleries_LynnPops_Com" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+        <TestLink id="330e0218-b1c3-0599-b86f-bb99241a385f" name="PopulatePinkVelvetVaultGalleries_BellaXOXO_Com" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+        <TestLink id="ef5d542a-b37f-13af-ab00-4285784f3377" name="PopulateLatinTeenCashGalleries_SpiceTwins" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+        <TestLink id="13e1a459-1c49-3ad3-1408-a2fc2bd5bb3a" name="PopulateLatinTeenCashGalleries_PamelaSpice" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+        <TestLink id="6ab30983-7e28-5632-d87f-2957844134d4" name="PopulatePinkVelvetVaultGalleries_RadiantDesire_Com" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+        <TestLink id="732e0271-3646-904e-0de5-cd01a1e05c83" name="PopulateLatinTeenCashGalleries_KarlaSpice" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+        <TestLink id="77113a8f-62ef-a696-16b0-d2a18a7d4895" name="PopulatePacinoCashGalleries_TaylorLain" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+        <TestLink id="6af92fa9-0ccf-8383-ab91-02e618ce084c" name="PopulateBellaCashGalleries_MonroeLee" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+        <TestLink id="9f33c672-2a2b-7ca7-eae4-406262c592bc" name="PopulateLatinTeenCashGalleries_SelenaSpice" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+        <TestLink id="0833e762-dd78-d87c-6052-d9944bd1c4a8" name="PopulateEpicPandaCashGalleries_SpencerNicks" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+        <TestLink id="5264e98b-d59f-ee56-149b-fc83642626d4" name="PopulateLatinTeenCashGalleries_PacinosAdventures" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+        <TestLink id="efe8e8c2-3563-b091-1ee4-879573922381" name="PopulateZellysCashGalleries_Zellys_Com" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+        <TestLink id="3244bd33-62ad-5b0c-a0f8-17623bcb7156" name="PopulateZellysCashGalleries_MelissaXoXo" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+        <TestLink id="faee341e-3298-bbd5-13d9-4d169a7040ed" name="PopulatePinkVelvetVaultGalleries_KendraRain_Com" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+        <TestLink id="eb9b8e2b-e634-3f71-8b78-2aca84a14cf3" name="PopulateEpicPandaCashGalleries_BaileyKnox" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+        <TestLink id="f796dec0-3ebb-a230-ecb5-c2c98ad99720" name="PopulateLatinTeenCashGalleries_LaZonaModelos" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+        <TestLink id="b4f0a9e8-5d81-3545-39ca-78302cfc2e4c" name="PopulatePinkVelvetVaultGalleries_Sockblocked_Com" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+        <TestLink id="dfed4799-d8fd-25dc-42b0-c8ea9ee23c63" name="PopulateBellaCashGalleries_RennaRyann" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+        <TestLink id="9b8a8829-6f71-8101-2626-855991eddcfc" name="PopulatePinkVelvetVaultGalleries_MeetMadden_Com" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+        <TestLink id="d0390afa-4a21-297c-771f-2a8050db7de4" name="PopulateEpicPandaCashGalleries_PartyAll_Star" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+        <TestLink id="2272289c-032b-1243-7330-eb5092e584fc" name="PopulateBellaCashGalleries_AvaDawn" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+        <TestLink id="2910964a-1343-9aba-d7b0-6918c25f5329" name="PopulatePinkVelvetVaultGalleries_Brittany_Avalon_Com" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+        <TestLink id="6f823177-fac0-1695-39d6-789688bb1a48" name="PopulateEpicPandaCashGalleries_RachelSexton" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+        <TestLink id="398d7b5e-bf85-40e6-19ea-4a768f60f793" name="PopulateLatinTeenCashGalleries_MariahSpice" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+        <TestLink id="36a18326-5378-2751-6673-68fb2102b50e" name="PopulateEpicPandaCashGalleries_BrookeMarks" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+        <TestLink id="64a7a8aa-d2a3-43db-0a19-db0baa07537e" name="PopulateJewelsGoldGalleries" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+        <TestLink id="4cbca76b-5162-199c-dd79-ce8dc44ed77b" name="PopulatePinkVelvetVaultGalleries_Nikkisplaymates_Com" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+        <TestLink id="7a45e85a-1f59-0abe-b4e5-74cee7eb6bca" name="PopulateLatinTeenCashGalleries_TaniaSpice" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+        <TestLink id="90275ed3-6b7f-be6c-3123-37a1d67aeee3" name="PopulatePinkVelvetVaultGalleries_TaylorTrue" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+        <TestLink id="66f4f75a-e39b-800c-c209-257f1c101b17" name="PopulateBellaCashGalleries_Bryci" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+        <TestLink id="8c136c51-948d-db20-6929-2e8f37a20b36" name="PopulateBellaCashGalleries_KatieBanks" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+        <TestLink id="746ca17d-0c95-55f7-2444-fcda2e970d75" name="PopulateEpicPandaCashGalleries_MidoriWest" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+        <TestLink id="09f339eb-e1ff-0d96-dca9-6e24e2f7cfbf" name="PopulatePinkVelvetVaultGalleries_TiffanyAlexis_Com" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+        <TestLink id="7fae0b54-1d2c-0d9d-1805-b2ab2adfc550" name="PopulateEpicPandaCashGalleries_MistyGates" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+        <TestLink id="7c9891c3-de5a-d9fc-615e-6f7414163765" name="PopulateBellaCashGalleries_NatalieTyler" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+        <TestLink id="96545bb1-b2a0-ad54-b954-e408025e44ce" name="PopulatePacinoCashGalleries_IvySnow" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+        <TestLink id="a54bbd81-de28-c5a1-9d12-ca028d3f093b" name="PopulateLatinTeenCashGalleries_GigiSpice" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+        <TestLink id="2d0fc9e1-ddb6-e1a3-2e4b-63cd236f3727" name="PopulateLatinTeenCashGalleries_NataliaSpice" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+        <TestLink id="d4651545-402e-63fd-5727-2f619b78f07c" name="PopulateZellysCashGalleries_BluEyedCass" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+        <TestLink id="e1e0aada-64a3-6d63-9035-77bad23b408c" name="PopulateEpicPandaCashGalleries_CarlottaChampagne" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+        <TestLink id="8328e058-f44f-1617-9580-129c03893814" name="PopulateLatinTeenCashGalleries_CierraSpice" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+        <TestLink id="43e133cb-4a9a-524b-9d8e-6cf328e98e4c" name="PopulatePacinoCashGalleries_LucyOHara" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+        <TestLink id="b561c79c-303d-25b6-3666-9b140d099ec6" name="PopulatePinkVelvetVaultGalleries_BrianaLeeOnline" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+        <TestLink id="cb48dcef-796c-d2b0-fdbf-4d69a8dc994d" name="PopulateBellaCashGalleries_LexiMason" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+        <TestLink id="b2fe822b-5976-20eb-494c-a2e70b73f8a8" name="PopulateBellaCashGalleries_TaliaShepard" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+        <TestLink id="6723ee26-ffeb-9536-ffc6-148f6bd91bb4" name="PopulatePinkVelvetVaultGalleries_CherryZips_Com" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+        <TestLink id="56f54296-15ab-8819-79de-9cb8a298433f" name="PopulateMinxManiaGalleries" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+        <TestLink id="1fc74d3e-f8b6-d564-aca5-16763c6dfeac" name="PopulateLatinTeenCashGalleries_PacinosWorld" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+        <TestLink id="a9992471-646c-2976-753b-1557db3f93ef" name="PopulateLatinTeenCashGalleries_BellaSpice" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+        <TestLink id="076a81dd-d8a3-782a-c412-1ea2d0276610" name="PopulatePinkVelvetVaultGalleries_BrianaLeeExtreme_Com" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+      </TestLinks>
+    </TestList>
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="2272289c-032b-1243-7330-eb5092e584fc" executionId="4686bfcc-f49c-477c-91d9-8b7028ead64b" testListId="8ba83221-1a26-45ff-8a75-ce587dd12d36" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="4686bfcc-f49c-477c-91d9-8b7028ead64b" testId="2272289c-032b-1243-7330-eb5092e584fc" testName="PopulateBellaCashGalleries_AvaDawn" computerName="FIREFLY" duration="00:00:00.3590660" startTime="2012-11-02T12:56:07.8048343-04:00" endTime="2012-11-02T12:56:08.6698343-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8ba83221-1a26-45ff-8a75-ce587dd12d36" relativeResultsDirectory="4686bfcc-f49c-477c-91d9-8b7028ead64b">
+      <Output>
+        <StdOut>Given I open the bellacash page
+-&gt; error: Exception has been thrown by the target of an invocation.
+Then I should be on the bellacash page
+-&gt; skipped because of previous errors
+When I select the Ava Dawn bellapass paysite
+-&gt; skipped because of previous errors
+Then I should see the Ava Dawn bellapass hosted galleries
+-&gt; skipped because of previous errors
+And I should create any new Ava Dawn bellapass galleries
+-&gt; skipped because of previous errors</StdOut>
+        <ErrorInfo>
+          <Message>Test method PornCantina.UIAutomation.Scenarios.BellaCashFeature.PopulateBellaCashGalleries_AvaDawn threw exception: 
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---&gt; OpenQA.Selenium.WebDriverException: An error occurred while connecting to Firefox ---&gt; System.IO.IOException: The process cannot access the file 'C:\Users\TMacBlane\AppData\Roaming\Mozilla\Firefox\Profiles\j82rpwlw.WebDriver\parent.lock' because it is being used by another process.
+TestCleanup method PornCantina.UIAutomation.Scenarios.BellaCashFeature.ScenarioTearDown threw exception. System.Reflection.TargetInvocationException: System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---&gt; OpenQA.Selenium.WebDriverException: An error occurred while connecting to Firefox ---&gt; System.IO.IOException: The process cannot access the file 'C:\Users\TMacBlane\AppData\Roaming\Mozilla\Firefox\Profiles\j82rpwlw.WebDriver\parent.lock' because it is being used by another process..</Message>
+          <StackTrace>    at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite)
+   at System.IO.FileInfo.CopyTo(String destFileName)
+   at OpenQA.Selenium.Internal.FileUtilities.CopyDirectory(String sourceDirectory, String destinationDirectory)
+   at OpenQA.Selenium.Firefox.FirefoxProfile.WriteToDisk()
+   at OpenQA.Selenium.Firefox.Internal.ExtensionConnection.Start()
+   at OpenQA.Selenium.Firefox.FirefoxDriver.StartClient()
+ --- End of inner exception stack trace ---
+    at OpenQA.Selenium.Firefox.FirefoxDriver.StartClient()
+   at OpenQA.Selenium.Remote.RemoteWebDriver..ctor(ICommandExecutor commandExecutor, ICapabilities desiredCapabilities)
+   at OpenQA.Selenium.Firefox.FirefoxDriver..ctor(FirefoxProfile profile)
+   at AutomationFramework.WebBrowser.GetWebDriver() in C:\Users\TMacBlane\Documents\DevelopmentProjects\AutomationFramework\Classes\WebBrowser.cs:line 369
+   at AutomationFramework.WebBrowser..ctor() in C:\Users\TMacBlane\Documents\DevelopmentProjects\AutomationFramework\Classes\WebBrowser.cs:line 33
+   at PornCantina.UIAutomation.StepDefinitions.BaseStepDefinition..ctor() in C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\StepDefinitions\BaseStepDefinition.cs:line 38
+   at PornCantina.UIAutomation.StepDefinitions.StepDefinitions..ctor()
+ --- End of inner exception stack trace ---
+    at System.RuntimeMethodHandle._InvokeConstructor(IRuntimeMethodInfo method, Object[] args, SignatureStruct&amp; signature, RuntimeType declaringType)
+   at System.RuntimeMethodHandle.InvokeConstructor(IRuntimeMethodInfo method, Object[] args, SignatureStruct signature, RuntimeType declaringType)
+   at System.Reflection.RuntimeConstructorInfo.Invoke(BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at BoDi.ObjectContainer.CreateObject(Type type, IEnumerable`1 resolutionPath, RegistrationKey keyToResolve)
+   at BoDi.ObjectContainer.TypeRegistration.Resolve(ObjectContainer container, RegistrationKey keyToResolve, IEnumerable`1 resolutionPath)
+   at BoDi.ObjectContainer.CreateObjectFor(RegistrationKey keyToResolve, IEnumerable`1 resolutionPath)
+   at BoDi.ObjectContainer.Resolve(Type typeToResolve, IEnumerable`1 resolutionPath, String name)
+   at BoDi.ObjectContainer.Resolve(Type typeToResolve, String name)
+   at lambda_method(Closure , IContextManager , String )
+   at TechTalk.SpecFlow.Bindings.BindingInvoker.InvokeBinding(IBinding binding, IContextManager contextManager, Object[] arguments, ITestTracer testTracer, TimeSpan&amp; duration)
+   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.ExecuteStepMatch(BindingMatch match, Object[] arguments)
+   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.ExecuteStep(StepInstance stepInstance)
+   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.OnAfterLastStep()
+   at TechTalk.SpecFlow.TestRunner.CollectScenarioErrors()
+   at PornCantina.UIAutomation.Scenarios.BellaCashFeature.ScenarioCleanup() in C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\Scenarios\BellaCash.feature.cs:line 0
+   at PornCantina.UIAutomation.Scenarios.BellaCashFeature.PopulateBellaCashGalleries(String modelName, String[] exampleTags) in c:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\Scenarios\BellaCash.feature:line 10
+   at PornCantina.UIAutomation.Scenarios.BellaCashFeature.PopulateBellaCashGalleries_AvaDawn() in C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\Scenarios\BellaCash.feature.cs:line 0
+
+TestCleanup Stack Trace
+    at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite)
+   at System.IO.FileInfo.CopyTo(String destFileName)
+   at OpenQA.Selenium.Internal.FileUtilities.CopyDirectory(String sourceDirectory, String destinationDirectory)
+   at OpenQA.Selenium.Firefox.FirefoxProfile.WriteToDisk()
+   at OpenQA.Selenium.Firefox.Internal.ExtensionConnection.Start()
+   at OpenQA.Selenium.Firefox.FirefoxDriver.StartClient()
+ --- End of inner exception stack trace ---
+    at OpenQA.Selenium.Firefox.FirefoxDriver.StartClient()
+   at OpenQA.Selenium.Remote.RemoteWebDriver..ctor(ICommandExecutor commandExecutor, ICapabilities desiredCapabilities)
+   at OpenQA.Selenium.Firefox.FirefoxDriver..ctor(FirefoxProfile profile)
+   at AutomationFramework.WebBrowser.GetWebDriver() in C:\Users\TMacBlane\Documents\DevelopmentProjects\AutomationFramework\Classes\WebBrowser.cs:line 369
+   at AutomationFramework.WebBrowser..ctor() in C:\Users\TMacBlane\Documents\DevelopmentProjects\AutomationFramework\Classes\WebBrowser.cs:line 33
+   at PornCantina.UIAutomation.StepDefinitions.BaseStepDefinition..ctor() in C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\StepDefinitions\BaseStepDefinition.cs:line 38
+   at PornCantina.UIAutomation.StepDefinitions.StepDefinitions..ctor()
+ --- End of inner exception stack trace ---
+    at System.RuntimeMethodHandle._InvokeConstructor(IRuntimeMethodInfo method, Object[] args, SignatureStruct&amp; signature, RuntimeType declaringType)
+   at System.RuntimeMethodHandle.InvokeConstructor(IRuntimeMethodInfo method, Object[] args, SignatureStruct signature, RuntimeType declaringType)
+   at System.Reflection.RuntimeConstructorInfo.Invoke(BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at BoDi.ObjectContainer.CreateObject(Type type, IEnumerable`1 resolutionPath, RegistrationKey keyToResolve)
+   at BoDi.ObjectContainer.TypeRegistration.Resolve(ObjectContainer container, RegistrationKey keyToResolve, IEnumerable`1 resolutionPath)
+   at BoDi.ObjectContainer.CreateObjectFor(RegistrationKey keyToResolve, IEnumerable`1 resolutionPath)
+   at BoDi.ObjectContainer.Resolve(Type typeToResolve, IEnumerable`1 resolutionPath, String name)
+   at BoDi.ObjectContainer.Resolve(Type typeToResolve, String name)
+   at lambda_method(Closure , IContextManager )
+   at TechTalk.SpecFlow.Bindings.BindingInvoker.InvokeBinding(IBinding binding, IContextManager contextManager, Object[] arguments, ITestTracer testTracer, TimeSpan&amp; duration)
+   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.FireEvents(HookType bindingEvent)
+   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.OnScenarioEnd()
+   at TechTalk.SpecFlow.TestRunner.OnScenarioEnd()
+   at PornCantina.UIAutomation.Scenarios.BellaCashFeature.ScenarioTearDown() in C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\Scenarios\BellaCash.feature.cs:line 0
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

@@ -57,8 +57,4 @@ namespace PornCantina.Models
 
 		#endregion
 	}
-
-	public class PornCantinaContextInitializer : DropCreateDatabaseIfModelChanges<PornCantinaContext>
-	{
-	}
 }

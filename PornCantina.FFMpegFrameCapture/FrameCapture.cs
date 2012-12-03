@@ -360,7 +360,7 @@ namespace PornCantina.FFMpegFrameCapture
 			string finalpath;
 			string Params;
 			int secs;
-			double[] previewPercentages = new double[] { .08, .20, .32, .44, .56, .68, .80, .92 }; // 
+			double[] previewPercentages = new double[] { .05, .15, .25, .35, .45, .55, .65, .75, .85, .95 };
 
 			foreach(double previewPercentage in previewPercentages)
 			{

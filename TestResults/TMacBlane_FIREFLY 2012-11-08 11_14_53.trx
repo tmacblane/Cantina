@@ -1,0 +1,1447 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="3cdd77a2-a3bd-461e-9f88-9e555df75e1e" name="TMacBlane@FIREFLY 2012-11-08 11:14:53" runUser="Firefly\TMacBlane" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Default Test Settings" id="500cec8d-8e4a-4a42-bd92-e879cd0b14ea">
+    <Deployment userDeploymentRoot="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\TestResults" useDefaultDeploymentRoot="false" runDeploymentRoot="TMacBlane_FIREFLY 2012-11-08 11_14_53">
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\AutomationFramework\bin\Debug\AutomationFramework.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\packages\Microsoft.AspNet.WebPages.2.0.20710.0\lib\net40\System.Web.WebPages.Deployment.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\packages\Microsoft.AspNet.Mvc.4.0.20505.0\lib\net40\System.Web.Mvc.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\packages\Selenium.WebDriver.2.26.0\lib\net40\WebDriver.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\PornCantina\bin\PornCantina.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\packages\Microsoft.AspNet.WebPages.2.0.20710.0\lib\net40\System.Web.Helpers.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\packages\Selenium.Support.2.26.0\lib\net40\WebDriver.Support.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\packages\Microsoft.AspNet.WebPages.2.0.20710.0\lib\net40\System.Web.WebPages.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\packages\Microsoft.Web.Infrastructure.1.0.0.0\lib\net40\Microsoft.Web.Infrastructure.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\packages\Microsoft.AspNet.WebPages.2.0.20710.0\lib\net40\System.Web.WebPages.Razor.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\packages\Microsoft.AspNet.Razor.2.0.20710.0\lib\net40\System.Web.Razor.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\bin\Debug\Castle.Core.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\packages\SpecFlow.1.9.0\lib\net35\TechTalk.SpecFlow.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2012-11-08T11:14:53.3210000-05:00" queuing="2012-11-08T11:14:53.8880000-05:00" start="2012-11-08T11:14:53.9230000-05:00" finish="2012-11-08T11:17:34.6160000-05:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="51" executed="2" error="0" failed="1" timeout="0" aborted="1" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="49" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="PopulatePacinoCashGalleries_MadisonLain" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" id="0e293ab0-9375-e2a4-2482-49fbaa7ebeb7">
+      <Description>Populate PacinoCash Galleries</Description>
+      <Execution id="26f48480-e92a-40b5-89a1-4f7afcca6b69" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>PacinoCash</Value>
+        </Property>
+        <Property>
+          <Key>VariantName</Key>
+          <Value>Madison Lain</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:type</Key>
+          <Value>Nude</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:modelName</Key>
+          <Value>Madison Lain</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Users/TMacBlane/Documents/DevelopmentProjects/PornCantina.UIAutomation/bin/Debug/PornCantina.UIAutomation.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PornCantina.UIAutomation.Scenarios.PacinoCashFeature, PornCantina.UIAutomation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PopulatePacinoCashGalleries_MadisonLain" />
+    </UnitTest>
+    <UnitTest name="PopulateLatinTeenCashGalleries_PamelaSpice" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" id="13e1a459-1c49-3ad3-1408-a2fc2bd5bb3a">
+      <Description>Populate LatinTeenCash Galleries</Description>
+      <Execution id="ca8740ab-9fa0-435e-8012-d1412f9e6a5a" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>LatinTeenCash</Value>
+        </Property>
+        <Property>
+          <Key>VariantName</Key>
+          <Value>Pamela Spice</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:type</Key>
+          <Value>Nude</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:modelName</Key>
+          <Value>Pamela Spice</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Users/TMacBlane/Documents/DevelopmentProjects/PornCantina.UIAutomation/bin/Debug/PornCantina.UIAutomation.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PornCantina.UIAutomation.Scenarios.LatinTeenCashFeature, PornCantina.UIAutomation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PopulateLatinTeenCashGalleries_PamelaSpice" />
+    </UnitTest>
+    <UnitTest name="PopulateLatinTeenCashGalleries_LaZonaModelos" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" id="f796dec0-3ebb-a230-ecb5-c2c98ad99720">
+      <Description>Populate LatinTeenCash Galleries</Description>
+      <Execution id="6fcaa775-7534-4bef-bfd4-5c213c819b8f" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>LatinTeenCash</Value>
+        </Property>
+        <Property>
+          <Key>VariantName</Key>
+          <Value>La Zona Modelos</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:type</Key>
+          <Value>Nude</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:modelName</Key>
+          <Value>La Zona Modelos</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Users/TMacBlane/Documents/DevelopmentProjects/PornCantina.UIAutomation/bin/Debug/PornCantina.UIAutomation.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PornCantina.UIAutomation.Scenarios.LatinTeenCashFeature, PornCantina.UIAutomation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PopulateLatinTeenCashGalleries_LaZonaModelos" />
+    </UnitTest>
+    <UnitTest name="PopulatePinkVelvetVaultGalleries_LynnPops_Com" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" id="70329624-f7cc-6664-b631-4cc70d51a00f">
+      <Description>Populate PinkVelvetVault Galleries</Description>
+      <Execution id="ff64d376-b913-4e91-b5cd-12c6d6ffbc70" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>PinkVelvetVault</Value>
+        </Property>
+        <Property>
+          <Key>VariantName</Key>
+          <Value>LynnPops.com</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:site</Key>
+          <Value>LynnPops.com</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:modelName</Key>
+          <Value>Lynn Pops</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Users/TMacBlane/Documents/DevelopmentProjects/PornCantina.UIAutomation/bin/Debug/PornCantina.UIAutomation.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PornCantina.UIAutomation.Scenarios.PinkVelvetVaultFeature, PornCantina.UIAutomation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PopulatePinkVelvetVaultGalleries_LynnPops_Com" />
+    </UnitTest>
+    <UnitTest name="PopulatePinkVelvetVaultGalleries_BellaXOXO_Com" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" id="330e0218-b1c3-0599-b86f-bb99241a385f">
+      <Description>Populate PinkVelvetVault Galleries</Description>
+      <Execution id="73320078-e5b1-4891-a2e9-61b7f7a8425c" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>PinkVelvetVault</Value>
+        </Property>
+        <Property>
+          <Key>VariantName</Key>
+          <Value>BellaXOXO.com</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:site</Key>
+          <Value>BellaXOXO.com</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:modelName</Key>
+          <Value>Bella XOXO</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Users/TMacBlane/Documents/DevelopmentProjects/PornCantina.UIAutomation/bin/Debug/PornCantina.UIAutomation.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PornCantina.UIAutomation.Scenarios.PinkVelvetVaultFeature, PornCantina.UIAutomation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PopulatePinkVelvetVaultGalleries_BellaXOXO_Com" />
+    </UnitTest>
+    <UnitTest name="PopulateMinxManiaGalleries" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" id="56f54296-15ab-8819-79de-9cb8a298433f">
+      <Description>Populate MinxMania Galleries</Description>
+      <Execution id="f414d122-aaf0-4e6b-9800-21715be5e4ce" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>MinxMafia</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Users/TMacBlane/Documents/DevelopmentProjects/PornCantina.UIAutomation/bin/Debug/PornCantina.UIAutomation.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PornCantina.UIAutomation.Scenarios.MinxMafiaFeature, PornCantina.UIAutomation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PopulateMinxManiaGalleries" />
+    </UnitTest>
+    <UnitTest name="PopulatePinkVelvetVaultGalleries_RadiantDesire_Com" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" id="6ab30983-7e28-5632-d87f-2957844134d4">
+      <Description>Populate PinkVelvetVault Galleries</Description>
+      <Execution id="f7018ad9-45e1-45f5-a431-7793efb95b1b" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>PinkVelvetVault</Value>
+        </Property>
+        <Property>
+          <Key>VariantName</Key>
+          <Value>RadiantDesire.com</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:site</Key>
+          <Value>RadiantDesire.com</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:modelName</Key>
+          <Value>Radiant Desire</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Users/TMacBlane/Documents/DevelopmentProjects/PornCantina.UIAutomation/bin/Debug/PornCantina.UIAutomation.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PornCantina.UIAutomation.Scenarios.PinkVelvetVaultFeature, PornCantina.UIAutomation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PopulatePinkVelvetVaultGalleries_RadiantDesire_Com" />
+    </UnitTest>
+    <UnitTest name="PopulateLatinTeenCashGalleries_KarlaSpice" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" id="732e0271-3646-904e-0de5-cd01a1e05c83">
+      <Description>Populate LatinTeenCash Galleries</Description>
+      <Execution id="e66ce05d-f600-4811-909e-19da26f66596" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>LatinTeenCash</Value>
+        </Property>
+        <Property>
+          <Key>VariantName</Key>
+          <Value>Karla Spice</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:type</Key>
+          <Value>Non-Nude</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:modelName</Key>
+          <Value>Karla Spice</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Users/TMacBlane/Documents/DevelopmentProjects/PornCantina.UIAutomation/bin/Debug/PornCantina.UIAutomation.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PornCantina.UIAutomation.Scenarios.LatinTeenCashFeature, PornCantina.UIAutomation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PopulateLatinTeenCashGalleries_KarlaSpice" />
+    </UnitTest>
+    <UnitTest name="PopulatePacinoCashGalleries_TaylorLain" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" id="77113a8f-62ef-a696-16b0-d2a18a7d4895">
+      <Description>Populate PacinoCash Galleries</Description>
+      <Execution id="c50e62fa-9022-498f-ae8e-c2270fa393aa" />
+      <Properties>
+        <Property>
+          <Key>Parameter:type</Key>
+          <Value>Nude</Value>
+        </Property>
+        <Property>
+          <Key>VariantName</Key>
+          <Value>Taylor Lain</Value>
+        </Property>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>PacinoCash</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:modelName</Key>
+          <Value>Taylor Lain</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Users/TMacBlane/Documents/DevelopmentProjects/PornCantina.UIAutomation/bin/Debug/PornCantina.UIAutomation.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PornCantina.UIAutomation.Scenarios.PacinoCashFeature, PornCantina.UIAutomation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PopulatePacinoCashGalleries_TaylorLain" />
+    </UnitTest>
+    <UnitTest name="PopulateBellaCashGalleries_MonroeLee" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" id="6af92fa9-0ccf-8383-ab91-02e618ce084c">
+      <Description>Populate BellaCash Galleries</Description>
+      <Execution id="bf147c12-1bab-439a-b399-f6f102bb3433" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>BellaCash</Value>
+        </Property>
+        <Property>
+          <Key>VariantName</Key>
+          <Value>Monroe Lee</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:modelName</Key>
+          <Value>Monroe Lee</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Users/TMacBlane/Documents/DevelopmentProjects/PornCantina.UIAutomation/bin/Debug/PornCantina.UIAutomation.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PornCantina.UIAutomation.Scenarios.BellaCashFeature, PornCantina.UIAutomation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PopulateBellaCashGalleries_MonroeLee" />
+    </UnitTest>
+    <UnitTest name="PopulateEpicPandaCashGalleries_SpencerNicks" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" id="0833e762-dd78-d87c-6052-d9944bd1c4a8">
+      <Description>Populate EpicPandaCash Galleries</Description>
+      <Execution id="c909de10-7492-4081-bab2-089f3b914fe9" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>EpicPandaCash</Value>
+        </Property>
+        <Property>
+          <Key>VariantName</Key>
+          <Value>Spencer Nicks</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:site</Key>
+          <Value>Spencer Nicks</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:modelName</Key>
+          <Value>Spencer Nicks</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Users/TMacBlane/Documents/DevelopmentProjects/PornCantina.UIAutomation/bin/Debug/PornCantina.UIAutomation.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PornCantina.UIAutomation.Scenarios.EpicPandaCashFeature, PornCantina.UIAutomation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PopulateEpicPandaCashGalleries_SpencerNicks" />
+    </UnitTest>
+    <UnitTest name="PopulatePinkVelvetVaultGalleries_BrianaLeeExtreme_Com" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" id="076a81dd-d8a3-782a-c412-1ea2d0276610">
+      <Description>Populate PinkVelvetVault Galleries</Description>
+      <Execution id="b43e6239-19a2-4bb4-9db7-16938dca3944" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>PinkVelvetVault</Value>
+        </Property>
+        <Property>
+          <Key>VariantName</Key>
+          <Value>BrianaLeeExtreme.com</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:site</Key>
+          <Value>BrianaLeeExtreme.com</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:modelName</Key>
+          <Value>Briana Lee Extreme</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Users/TMacBlane/Documents/DevelopmentProjects/PornCantina.UIAutomation/bin/Debug/PornCantina.UIAutomation.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PornCantina.UIAutomation.Scenarios.PinkVelvetVaultFeature, PornCantina.UIAutomation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PopulatePinkVelvetVaultGalleries_BrianaLeeExtreme_Com" />
+    </UnitTest>
+    <UnitTest name="PopulateLatinTeenCashGalleries_CierraSpice" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" id="8328e058-f44f-1617-9580-129c03893814">
+      <Description>Populate LatinTeenCash Galleries</Description>
+      <Execution id="9c45568f-c514-4868-b8ce-5cb44498c42d" />
+      <Properties>
+        <Property>
+          <Key>Parameter:type</Key>
+          <Value>Nude</Value>
+        </Property>
+        <Property>
+          <Key>VariantName</Key>
+          <Value>Cierra Spice</Value>
+        </Property>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>LatinTeenCash</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:modelName</Key>
+          <Value>Cierra Spice</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Users/TMacBlane/Documents/DevelopmentProjects/PornCantina.UIAutomation/bin/Debug/PornCantina.UIAutomation.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PornCantina.UIAutomation.Scenarios.LatinTeenCashFeature, PornCantina.UIAutomation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PopulateLatinTeenCashGalleries_CierraSpice" />
+    </UnitTest>
+    <UnitTest name="PopulateZellysCashGalleries_MelissaXoXo" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" id="3244bd33-62ad-5b0c-a0f8-17623bcb7156">
+      <Description>Populate ZellysCash Galleries</Description>
+      <Execution id="4fb8050e-2b47-4b5a-9d82-4fe841ca519e" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>ZellysCash</Value>
+        </Property>
+        <Property>
+          <Key>VariantName</Key>
+          <Value>Melissa XoXo</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:modelName</Key>
+          <Value>Melissa XoXo</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Users/TMacBlane/Documents/DevelopmentProjects/PornCantina.UIAutomation/bin/Debug/PornCantina.UIAutomation.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PornCantina.UIAutomation.Scenarios.ZellysCashFeature, PornCantina.UIAutomation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PopulateZellysCashGalleries_MelissaXoXo" />
+    </UnitTest>
+    <UnitTest name="PopulateEpicPandaCashGalleries_BrookeMarks" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" id="36a18326-5378-2751-6673-68fb2102b50e">
+      <Description>Populate EpicPandaCash Galleries</Description>
+      <Execution id="db016685-60e5-49c7-afda-e3e63daf1702" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>EpicPandaCash</Value>
+        </Property>
+        <Property>
+          <Key>VariantName</Key>
+          <Value>Brooke Marks</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:site</Key>
+          <Value>Brooke Marks</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:modelName</Key>
+          <Value>Brooke Marks</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Users/TMacBlane/Documents/DevelopmentProjects/PornCantina.UIAutomation/bin/Debug/PornCantina.UIAutomation.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PornCantina.UIAutomation.Scenarios.EpicPandaCashFeature, PornCantina.UIAutomation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PopulateEpicPandaCashGalleries_BrookeMarks" />
+    </UnitTest>
+    <UnitTest name="PopulatePacinoCashGalleries_IvySnow" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" id="96545bb1-b2a0-ad54-b954-e408025e44ce">
+      <Description>Populate PacinoCash Galleries</Description>
+      <Execution id="0acb9c39-9b47-4816-b6ac-4163796cb5f6" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>PacinoCash</Value>
+        </Property>
+        <Property>
+          <Key>VariantName</Key>
+          <Value>Ivy Snow</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:type</Key>
+          <Value>Nude</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:modelName</Key>
+          <Value>Ivy Snow</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Users/TMacBlane/Documents/DevelopmentProjects/PornCantina.UIAutomation/bin/Debug/PornCantina.UIAutomation.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PornCantina.UIAutomation.Scenarios.PacinoCashFeature, PornCantina.UIAutomation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PopulatePacinoCashGalleries_IvySnow" />
+    </UnitTest>
+    <UnitTest name="PopulateEpicPandaCashGalleries_PartyAll_Star" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" id="d0390afa-4a21-297c-771f-2a8050db7de4">
+      <Description>Populate EpicPandaCash Galleries</Description>
+      <Execution id="3be79607-78a5-40b8-ae56-88c891983ee4" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>EpicPandaCash</Value>
+        </Property>
+        <Property>
+          <Key>VariantName</Key>
+          <Value>Party All-Star</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:site</Key>
+          <Value>Party All-Star</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:modelName</Key>
+          <Value>Party All-Star</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Users/TMacBlane/Documents/DevelopmentProjects/PornCantina.UIAutomation/bin/Debug/PornCantina.UIAutomation.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PornCantina.UIAutomation.Scenarios.EpicPandaCashFeature, PornCantina.UIAutomation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PopulateEpicPandaCashGalleries_PartyAll_Star" />
+    </UnitTest>
+    <UnitTest name="PopulatePinkVelvetVaultGalleries_Sockblocked_Com" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" id="b4f0a9e8-5d81-3545-39ca-78302cfc2e4c">
+      <Description>Populate PinkVelvetVault Galleries</Description>
+      <Execution id="2a1060dc-dcec-40ec-8cce-9d5dc510ece1" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>PinkVelvetVault</Value>
+        </Property>
+        <Property>
+          <Key>VariantName</Key>
+          <Value>Sockblocked.com</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:site</Key>
+          <Value>Sockblocked.com</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:modelName</Key>
+          <Value>Sock Blocked</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Users/TMacBlane/Documents/DevelopmentProjects/PornCantina.UIAutomation/bin/Debug/PornCantina.UIAutomation.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PornCantina.UIAutomation.Scenarios.PinkVelvetVaultFeature, PornCantina.UIAutomation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PopulatePinkVelvetVaultGalleries_Sockblocked_Com" />
+    </UnitTest>
+    <UnitTest name="PopulateZellysCashGalleries_Zellys_Com" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" id="efe8e8c2-3563-b091-1ee4-879573922381">
+      <Description>Populate ZellysCash Galleries</Description>
+      <Execution id="8a743c32-532b-4d51-b98c-64bb2e48f570" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>ZellysCash</Value>
+        </Property>
+        <Property>
+          <Key>VariantName</Key>
+          <Value>Zellys.com</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:modelName</Key>
+          <Value>Zellys.com</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Users/TMacBlane/Documents/DevelopmentProjects/PornCantina.UIAutomation/bin/Debug/PornCantina.UIAutomation.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PornCantina.UIAutomation.Scenarios.ZellysCashFeature, PornCantina.UIAutomation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PopulateZellysCashGalleries_Zellys_Com" />
+    </UnitTest>
+    <UnitTest name="PopulateBellaCashGalleries_RennaRyann" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" id="dfed4799-d8fd-25dc-42b0-c8ea9ee23c63">
+      <Description>Populate BellaCash Galleries</Description>
+      <Execution id="48b041bc-04bf-4534-91fd-d9274ae2b730" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>BellaCash</Value>
+        </Property>
+        <Property>
+          <Key>VariantName</Key>
+          <Value>Renna Ryann</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:modelName</Key>
+          <Value>Renna Ryann</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Users/TMacBlane/Documents/DevelopmentProjects/PornCantina.UIAutomation/bin/Debug/PornCantina.UIAutomation.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PornCantina.UIAutomation.Scenarios.BellaCashFeature, PornCantina.UIAutomation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PopulateBellaCashGalleries_RennaRyann" />
+    </UnitTest>
+    <UnitTest name="PopulatePinkVelvetVaultGalleries_MeetMadden_Com" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" id="9b8a8829-6f71-8101-2626-855991eddcfc">
+      <Description>Populate PinkVelvetVault Galleries</Description>
+      <Execution id="9105d8d2-7134-4a85-9c63-7aaf6eeec1ef" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>PinkVelvetVault</Value>
+        </Property>
+        <Property>
+          <Key>VariantName</Key>
+          <Value>MeetMadden.com</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:site</Key>
+          <Value>MeetMadden.com</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:modelName</Key>
+          <Value>Meet Madden</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Users/TMacBlane/Documents/DevelopmentProjects/PornCantina.UIAutomation/bin/Debug/PornCantina.UIAutomation.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PornCantina.UIAutomation.Scenarios.PinkVelvetVaultFeature, PornCantina.UIAutomation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PopulatePinkVelvetVaultGalleries_MeetMadden_Com" />
+    </UnitTest>
+    <UnitTest name="PopulatePinkVelvetVaultGalleries_TaylorTrue" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" id="90275ed3-6b7f-be6c-3123-37a1d67aeee3">
+      <Description>Populate PinkVelvetVault Galleries</Description>
+      <Execution id="53426b77-c4fa-4f7f-9a07-3749cf2aba83" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>PinkVelvetVault</Value>
+        </Property>
+        <Property>
+          <Key>VariantName</Key>
+          <Value>TaylorTrue</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:site</Key>
+          <Value>TaylorTrue</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:modelName</Key>
+          <Value>Taylor True</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Users/TMacBlane/Documents/DevelopmentProjects/PornCantina.UIAutomation/bin/Debug/PornCantina.UIAutomation.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PornCantina.UIAutomation.Scenarios.PinkVelvetVaultFeature, PornCantina.UIAutomation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PopulatePinkVelvetVaultGalleries_TaylorTrue" />
+    </UnitTest>
+    <UnitTest name="PopulateLatinTeenCashGalleries_NataliaSpice" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" id="2d0fc9e1-ddb6-e1a3-2e4b-63cd236f3727">
+      <Description>Populate LatinTeenCash Galleries</Description>
+      <Execution id="1fe66453-62dd-4b38-ab96-4e5ad6465f12" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>LatinTeenCash</Value>
+        </Property>
+        <Property>
+          <Key>VariantName</Key>
+          <Value>Natalia Spice</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:type</Key>
+          <Value>Nude</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:modelName</Key>
+          <Value>Natalia Spice</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Users/TMacBlane/Documents/DevelopmentProjects/PornCantina.UIAutomation/bin/Debug/PornCantina.UIAutomation.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PornCantina.UIAutomation.Scenarios.LatinTeenCashFeature, PornCantina.UIAutomation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PopulateLatinTeenCashGalleries_NataliaSpice" />
+    </UnitTest>
+    <UnitTest name="PopulateBellaCashGalleries_AvaDawn" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" id="2272289c-032b-1243-7330-eb5092e584fc">
+      <Description>Populate BellaCash Galleries</Description>
+      <Execution id="6d1f1204-5931-4ada-9bfb-7bbe2155af59" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>BellaCash</Value>
+        </Property>
+        <Property>
+          <Key>VariantName</Key>
+          <Value>Ava Dawn</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:modelName</Key>
+          <Value>Ava Dawn</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Users/TMacBlane/Documents/DevelopmentProjects/PornCantina.UIAutomation/bin/Debug/PornCantina.UIAutomation.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PornCantina.UIAutomation.Scenarios.BellaCashFeature, PornCantina.UIAutomation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PopulateBellaCashGalleries_AvaDawn" />
+    </UnitTest>
+    <UnitTest name="PopulateLatinTeenCashGalleries_TaniaSpice" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" id="7a45e85a-1f59-0abe-b4e5-74cee7eb6bca">
+      <Description>Populate LatinTeenCash Galleries</Description>
+      <Execution id="9d3e3809-8ec6-4ced-9dfe-dcf18468cb87" />
+      <Properties>
+        <Property>
+          <Key>Parameter:type</Key>
+          <Value>Nude</Value>
+        </Property>
+        <Property>
+          <Key>VariantName</Key>
+          <Value>Tania Spice</Value>
+        </Property>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>LatinTeenCash</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:modelName</Key>
+          <Value>Tania Spice</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Users/TMacBlane/Documents/DevelopmentProjects/PornCantina.UIAutomation/bin/Debug/PornCantina.UIAutomation.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PornCantina.UIAutomation.Scenarios.LatinTeenCashFeature, PornCantina.UIAutomation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PopulateLatinTeenCashGalleries_TaniaSpice" />
+    </UnitTest>
+    <UnitTest name="PopulatePinkVelvetVaultGalleries_Brittany_Avalon_Com" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" id="2910964a-1343-9aba-d7b0-6918c25f5329">
+      <Description>Populate PinkVelvetVault Galleries</Description>
+      <Execution id="8800b8d0-ecc2-485a-beb1-055ce4a64d59" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>PinkVelvetVault</Value>
+        </Property>
+        <Property>
+          <Key>VariantName</Key>
+          <Value>Brittany-Avalon.com</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:site</Key>
+          <Value>Brittany-Avalon.com</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:modelName</Key>
+          <Value>Brittany Avalon</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Users/TMacBlane/Documents/DevelopmentProjects/PornCantina.UIAutomation/bin/Debug/PornCantina.UIAutomation.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PornCantina.UIAutomation.Scenarios.PinkVelvetVaultFeature, PornCantina.UIAutomation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PopulatePinkVelvetVaultGalleries_Brittany_Avalon_Com" />
+    </UnitTest>
+    <UnitTest name="PopulateLatinTeenCashGalleries_SpiceTwins" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" id="ef5d542a-b37f-13af-ab00-4285784f3377">
+      <Description>Populate LatinTeenCash Galleries</Description>
+      <Execution id="20475912-3a23-4374-ab42-fb83b8de0f48" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>LatinTeenCash</Value>
+        </Property>
+        <Property>
+          <Key>VariantName</Key>
+          <Value>Spice Twins</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:type</Key>
+          <Value>Non-Nude</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:modelName</Key>
+          <Value>Spice Twins</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Users/TMacBlane/Documents/DevelopmentProjects/PornCantina.UIAutomation/bin/Debug/PornCantina.UIAutomation.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PornCantina.UIAutomation.Scenarios.LatinTeenCashFeature, PornCantina.UIAutomation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PopulateLatinTeenCashGalleries_SpiceTwins" />
+    </UnitTest>
+    <UnitTest name="PopulateEpicPandaCashGalleries_BaileyKnox" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" id="eb9b8e2b-e634-3f71-8b78-2aca84a14cf3">
+      <Description>Populate EpicPandaCash Galleries</Description>
+      <Execution id="b954c03f-0996-42e0-bc14-c53a0d146d2f" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>EpicPandaCash</Value>
+        </Property>
+        <Property>
+          <Key>VariantName</Key>
+          <Value>Bailey Knox</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:site</Key>
+          <Value>Bailey Knox</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:modelName</Key>
+          <Value>Bailey Knox</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Users/TMacBlane/Documents/DevelopmentProjects/PornCantina.UIAutomation/bin/Debug/PornCantina.UIAutomation.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PornCantina.UIAutomation.Scenarios.EpicPandaCashFeature, PornCantina.UIAutomation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PopulateEpicPandaCashGalleries_BaileyKnox" />
+    </UnitTest>
+    <UnitTest name="PopulateLatinTeenCashGalleries_MariahSpice" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" id="398d7b5e-bf85-40e6-19ea-4a768f60f793">
+      <Description>Populate LatinTeenCash Galleries</Description>
+      <Execution id="ab399492-23c2-4fbd-ba27-59eefa52cd2a" />
+      <Properties>
+        <Property>
+          <Key>Parameter:type</Key>
+          <Value>Nude</Value>
+        </Property>
+        <Property>
+          <Key>VariantName</Key>
+          <Value>Mariah Spice</Value>
+        </Property>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>LatinTeenCash</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:modelName</Key>
+          <Value>Mariah Spice</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Users/TMacBlane/Documents/DevelopmentProjects/PornCantina.UIAutomation/bin/Debug/PornCantina.UIAutomation.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PornCantina.UIAutomation.Scenarios.LatinTeenCashFeature, PornCantina.UIAutomation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PopulateLatinTeenCashGalleries_MariahSpice" />
+    </UnitTest>
+    <UnitTest name="PopulateJewelsGoldGalleries" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" id="64a7a8aa-d2a3-43db-0a19-db0baa07537e">
+      <Description>Populate JewelsGold Galleries</Description>
+      <Execution id="6331129a-2fb2-40cc-b2b1-54ae40085be6" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>JewelsGold</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Users/TMacBlane/Documents/DevelopmentProjects/PornCantina.UIAutomation/bin/Debug/PornCantina.UIAutomation.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PornCantina.UIAutomation.Scenarios.JewelsGoldFeature, PornCantina.UIAutomation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PopulateJewelsGoldGalleries" />
+    </UnitTest>
+    <UnitTest name="PopulatePinkVelvetVaultGalleries_Nikkisplaymates_Com" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" id="4cbca76b-5162-199c-dd79-ce8dc44ed77b">
+      <Description>Populate PinkVelvetVault Galleries</Description>
+      <Execution id="f0a9b935-4815-40a8-8243-aacac3e96a54" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>PinkVelvetVault</Value>
+        </Property>
+        <Property>
+          <Key>VariantName</Key>
+          <Value>Nikkisplaymates.com</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:site</Key>
+          <Value>Nikkisplaymates.com</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:modelName</Key>
+          <Value>Nikkis Sims</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Users/TMacBlane/Documents/DevelopmentProjects/PornCantina.UIAutomation/bin/Debug/PornCantina.UIAutomation.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PornCantina.UIAutomation.Scenarios.PinkVelvetVaultFeature, PornCantina.UIAutomation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PopulatePinkVelvetVaultGalleries_Nikkisplaymates_Com" />
+    </UnitTest>
+    <UnitTest name="PopulateBellaCashGalleries_KatieBanks" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" id="8c136c51-948d-db20-6929-2e8f37a20b36">
+      <Description>Populate BellaCash Galleries</Description>
+      <Execution id="aa962b10-68b4-4a50-ad0e-1623cf36cabb" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>BellaCash</Value>
+        </Property>
+        <Property>
+          <Key>VariantName</Key>
+          <Value>Katie Banks</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:modelName</Key>
+          <Value>Katie Banks</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Users/TMacBlane/Documents/DevelopmentProjects/PornCantina.UIAutomation/bin/Debug/PornCantina.UIAutomation.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PornCantina.UIAutomation.Scenarios.BellaCashFeature, PornCantina.UIAutomation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PopulateBellaCashGalleries_KatieBanks" />
+    </UnitTest>
+    <UnitTest name="PopulatePinkVelvetVaultGalleries_KendraRain_Com" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" id="faee341e-3298-bbd5-13d9-4d169a7040ed">
+      <Description>Populate PinkVelvetVault Galleries</Description>
+      <Execution id="e8c29c7d-462f-4ba0-a825-0d679ec5ffdc" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>PinkVelvetVault</Value>
+        </Property>
+        <Property>
+          <Key>VariantName</Key>
+          <Value>KendraRain.com</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:site</Key>
+          <Value>KendraRain.com</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:modelName</Key>
+          <Value>Kendra Rain</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Users/TMacBlane/Documents/DevelopmentProjects/PornCantina.UIAutomation/bin/Debug/PornCantina.UIAutomation.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PornCantina.UIAutomation.Scenarios.PinkVelvetVaultFeature, PornCantina.UIAutomation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PopulatePinkVelvetVaultGalleries_KendraRain_Com" />
+    </UnitTest>
+    <UnitTest name="PopulateBellaCashGalleries_Bryci" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" id="66f4f75a-e39b-800c-c209-257f1c101b17">
+      <Description>Populate BellaCash Galleries</Description>
+      <Execution id="8c9a32a9-8307-4348-9fd7-c7e35aad354f" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>BellaCash</Value>
+        </Property>
+        <Property>
+          <Key>VariantName</Key>
+          <Value>Bryci</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:modelName</Key>
+          <Value>Bryci</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Users/TMacBlane/Documents/DevelopmentProjects/PornCantina.UIAutomation/bin/Debug/PornCantina.UIAutomation.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PornCantina.UIAutomation.Scenarios.BellaCashFeature, PornCantina.UIAutomation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PopulateBellaCashGalleries_Bryci" />
+    </UnitTest>
+    <UnitTest name="PopulateEpicPandaCashGalleries_MidoriWest" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" id="746ca17d-0c95-55f7-2444-fcda2e970d75">
+      <Description>Populate EpicPandaCash Galleries</Description>
+      <Execution id="1ebe03dd-0eb9-44f3-8829-e548e6ace669" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>EpicPandaCash</Value>
+        </Property>
+        <Property>
+          <Key>VariantName</Key>
+          <Value>Midori West</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:site</Key>
+          <Value>Midori West</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:modelName</Key>
+          <Value>Midori West</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Users/TMacBlane/Documents/DevelopmentProjects/PornCantina.UIAutomation/bin/Debug/PornCantina.UIAutomation.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PornCantina.UIAutomation.Scenarios.EpicPandaCashFeature, PornCantina.UIAutomation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PopulateEpicPandaCashGalleries_MidoriWest" />
+    </UnitTest>
+    <UnitTest name="PopulateBellaCashGalleries_TaliaShepard" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" id="b2fe822b-5976-20eb-494c-a2e70b73f8a8">
+      <Description>Populate BellaCash Galleries</Description>
+      <Execution id="7d461634-a5bf-4ce7-a5e7-0dce7243151c" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>BellaCash</Value>
+        </Property>
+        <Property>
+          <Key>VariantName</Key>
+          <Value>Talia Shepard</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:modelName</Key>
+          <Value>Talia Shepard</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Users/TMacBlane/Documents/DevelopmentProjects/PornCantina.UIAutomation/bin/Debug/PornCantina.UIAutomation.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PornCantina.UIAutomation.Scenarios.BellaCashFeature, PornCantina.UIAutomation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PopulateBellaCashGalleries_TaliaShepard" />
+    </UnitTest>
+    <UnitTest name="PopulateEpicPandaCashGalleries_MistyGates" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" id="7fae0b54-1d2c-0d9d-1805-b2ab2adfc550">
+      <Description>Populate EpicPandaCash Galleries</Description>
+      <Execution id="5dbecbb1-916c-4115-941c-adcb8703ea5b" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>EpicPandaCash</Value>
+        </Property>
+        <Property>
+          <Key>VariantName</Key>
+          <Value>Misty Gates</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:site</Key>
+          <Value>Misty Gates</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:modelName</Key>
+          <Value>Misty Gates</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Users/TMacBlane/Documents/DevelopmentProjects/PornCantina.UIAutomation/bin/Debug/PornCantina.UIAutomation.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PornCantina.UIAutomation.Scenarios.EpicPandaCashFeature, PornCantina.UIAutomation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PopulateEpicPandaCashGalleries_MistyGates" />
+    </UnitTest>
+    <UnitTest name="PopulatePinkVelvetVaultGalleries_TiffanyAlexis_Com" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" id="09f339eb-e1ff-0d96-dca9-6e24e2f7cfbf">
+      <Description>Populate PinkVelvetVault Galleries</Description>
+      <Execution id="cf70698c-23d1-4799-b51e-3ba7e6802c27" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>PinkVelvetVault</Value>
+        </Property>
+        <Property>
+          <Key>VariantName</Key>
+          <Value>TiffanyAlexis.com</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:site</Key>
+          <Value>TiffanyAlexis.com</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:modelName</Key>
+          <Value>Tiffany Alexis</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Users/TMacBlane/Documents/DevelopmentProjects/PornCantina.UIAutomation/bin/Debug/PornCantina.UIAutomation.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PornCantina.UIAutomation.Scenarios.PinkVelvetVaultFeature, PornCantina.UIAutomation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PopulatePinkVelvetVaultGalleries_TiffanyAlexis_Com" />
+    </UnitTest>
+    <UnitTest name="PopulateLatinTeenCashGalleries_GigiSpice" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" id="a54bbd81-de28-c5a1-9d12-ca028d3f093b">
+      <Description>Populate LatinTeenCash Galleries</Description>
+      <Execution id="2b177877-1586-4fc6-9cd3-0e89761bc151" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>LatinTeenCash</Value>
+        </Property>
+        <Property>
+          <Key>VariantName</Key>
+          <Value>Gigi Spice</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:type</Key>
+          <Value>Nude</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:modelName</Key>
+          <Value>Gigi Spice</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Users/TMacBlane/Documents/DevelopmentProjects/PornCantina.UIAutomation/bin/Debug/PornCantina.UIAutomation.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PornCantina.UIAutomation.Scenarios.LatinTeenCashFeature, PornCantina.UIAutomation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PopulateLatinTeenCashGalleries_GigiSpice" />
+    </UnitTest>
+    <UnitTest name="PopulateLatinTeenCashGalleries_PacinosWorld" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" id="1fc74d3e-f8b6-d564-aca5-16763c6dfeac">
+      <Description>Populate LatinTeenCash Galleries</Description>
+      <Execution id="33026b13-585a-445d-92fa-c78593ffeb40" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>LatinTeenCash</Value>
+        </Property>
+        <Property>
+          <Key>VariantName</Key>
+          <Value>Pacinos World</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:type</Key>
+          <Value>Nude</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:modelName</Key>
+          <Value>Pacinos World</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Users/TMacBlane/Documents/DevelopmentProjects/PornCantina.UIAutomation/bin/Debug/PornCantina.UIAutomation.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PornCantina.UIAutomation.Scenarios.LatinTeenCashFeature, PornCantina.UIAutomation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PopulateLatinTeenCashGalleries_PacinosWorld" />
+    </UnitTest>
+    <UnitTest name="PopulateZellysCashGalleries_BluEyedCass" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" id="d4651545-402e-63fd-5727-2f619b78f07c">
+      <Description>Populate ZellysCash Galleries</Description>
+      <Execution id="35778de8-ddc6-4cf3-a7fd-b2246bd8e8eb" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>ZellysCash</Value>
+        </Property>
+        <Property>
+          <Key>VariantName</Key>
+          <Value>BluEyedCass</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:modelName</Key>
+          <Value>BluEyedCass</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Users/TMacBlane/Documents/DevelopmentProjects/PornCantina.UIAutomation/bin/Debug/PornCantina.UIAutomation.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PornCantina.UIAutomation.Scenarios.ZellysCashFeature, PornCantina.UIAutomation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PopulateZellysCashGalleries_BluEyedCass" />
+    </UnitTest>
+    <UnitTest name="PopulateEpicPandaCashGalleries_CarlottaChampagne" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" id="e1e0aada-64a3-6d63-9035-77bad23b408c">
+      <Description>Populate EpicPandaCash Galleries</Description>
+      <Execution id="a8864069-aac9-4bd9-8d2f-1731fc9aa262" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>EpicPandaCash</Value>
+        </Property>
+        <Property>
+          <Key>VariantName</Key>
+          <Value>Carlotta Champagne</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:site</Key>
+          <Value>Carlotta Champagne</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:modelName</Key>
+          <Value>Carlotta Champagne</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Users/TMacBlane/Documents/DevelopmentProjects/PornCantina.UIAutomation/bin/Debug/PornCantina.UIAutomation.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PornCantina.UIAutomation.Scenarios.EpicPandaCashFeature, PornCantina.UIAutomation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PopulateEpicPandaCashGalleries_CarlottaChampagne" />
+    </UnitTest>
+    <UnitTest name="PopulateBellaCashGalleries_HunterLeigh" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" id="ec2c6f0a-2450-dc25-0d39-ade2ab07c845">
+      <Description>Populate BellaCash Galleries</Description>
+      <Execution id="dfe25427-39e4-4163-8a28-1a5a1ef7a2d6" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>BellaCash</Value>
+        </Property>
+        <Property>
+          <Key>VariantName</Key>
+          <Value>Hunter Leigh</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:modelName</Key>
+          <Value>Hunter Leigh</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Users/TMacBlane/Documents/DevelopmentProjects/PornCantina.UIAutomation/bin/Debug/PornCantina.UIAutomation.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PornCantina.UIAutomation.Scenarios.BellaCashFeature, PornCantina.UIAutomation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PopulateBellaCashGalleries_HunterLeigh" />
+    </UnitTest>
+    <UnitTest name="PopulatePinkVelvetVaultGalleries_BrianaLeeOnline" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" id="b561c79c-303d-25b6-3666-9b140d099ec6">
+      <Description>Populate PinkVelvetVault Galleries</Description>
+      <Execution id="9f6ad6ed-79d4-4578-8b49-6fdbd13df28f" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>PinkVelvetVault</Value>
+        </Property>
+        <Property>
+          <Key>VariantName</Key>
+          <Value>BrianaLeeOnline</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:site</Key>
+          <Value>BrianaLeeOnline</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:modelName</Key>
+          <Value>Briana Lee Online</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Users/TMacBlane/Documents/DevelopmentProjects/PornCantina.UIAutomation/bin/Debug/PornCantina.UIAutomation.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PornCantina.UIAutomation.Scenarios.PinkVelvetVaultFeature, PornCantina.UIAutomation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PopulatePinkVelvetVaultGalleries_BrianaLeeOnline" />
+    </UnitTest>
+    <UnitTest name="PopulateBellaCashGalleries_LexiMason" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" id="cb48dcef-796c-d2b0-fdbf-4d69a8dc994d">
+      <Description>Populate BellaCash Galleries</Description>
+      <Execution id="f43d7c38-c76c-44bd-81a1-f32bc567cfc1" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>BellaCash</Value>
+        </Property>
+        <Property>
+          <Key>VariantName</Key>
+          <Value>Lexi Mason</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:modelName</Key>
+          <Value>Lexi Mason</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Users/TMacBlane/Documents/DevelopmentProjects/PornCantina.UIAutomation/bin/Debug/PornCantina.UIAutomation.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PornCantina.UIAutomation.Scenarios.BellaCashFeature, PornCantina.UIAutomation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PopulateBellaCashGalleries_LexiMason" />
+    </UnitTest>
+    <UnitTest name="PopulateEpicPandaCashGalleries_RachelSexton" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" id="6f823177-fac0-1695-39d6-789688bb1a48">
+      <Description>Populate EpicPandaCash Galleries</Description>
+      <Execution id="06c7eb15-0540-481f-939a-1bd3841cd378" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>EpicPandaCash</Value>
+        </Property>
+        <Property>
+          <Key>VariantName</Key>
+          <Value>Rachel Sexton</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:site</Key>
+          <Value>Rachel Sexton</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:modelName</Key>
+          <Value>Rachel Sexton</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Users/TMacBlane/Documents/DevelopmentProjects/PornCantina.UIAutomation/bin/Debug/PornCantina.UIAutomation.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PornCantina.UIAutomation.Scenarios.EpicPandaCashFeature, PornCantina.UIAutomation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PopulateEpicPandaCashGalleries_RachelSexton" />
+    </UnitTest>
+    <UnitTest name="PopulatePinkVelvetVaultGalleries_CherryZips_Com" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" id="6723ee26-ffeb-9536-ffc6-148f6bd91bb4">
+      <Description>Populate PinkVelvetVault Galleries</Description>
+      <Execution id="563d1e3c-4a86-402a-af59-614a85270015" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>PinkVelvetVault</Value>
+        </Property>
+        <Property>
+          <Key>VariantName</Key>
+          <Value>CherryZips.com</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:site</Key>
+          <Value>CherryZips.com</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:modelName</Key>
+          <Value>Cherry Zips</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Users/TMacBlane/Documents/DevelopmentProjects/PornCantina.UIAutomation/bin/Debug/PornCantina.UIAutomation.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PornCantina.UIAutomation.Scenarios.PinkVelvetVaultFeature, PornCantina.UIAutomation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PopulatePinkVelvetVaultGalleries_CherryZips_Com" />
+    </UnitTest>
+    <UnitTest name="PopulateLatinTeenCashGalleries_SelenaSpice" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" id="9f33c672-2a2b-7ca7-eae4-406262c592bc">
+      <Description>Populate LatinTeenCash Galleries</Description>
+      <Execution id="07ba5142-7ee1-452c-b27a-9f5dc5aa79c7" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>LatinTeenCash</Value>
+        </Property>
+        <Property>
+          <Key>VariantName</Key>
+          <Value>Selena Spice</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:type</Key>
+          <Value>Non-Nude</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:modelName</Key>
+          <Value>Selena Spice</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Users/TMacBlane/Documents/DevelopmentProjects/PornCantina.UIAutomation/bin/Debug/PornCantina.UIAutomation.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PornCantina.UIAutomation.Scenarios.LatinTeenCashFeature, PornCantina.UIAutomation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PopulateLatinTeenCashGalleries_SelenaSpice" />
+    </UnitTest>
+    <UnitTest name="PopulatePacinoCashGalleries_LucyOHara" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" id="43e133cb-4a9a-524b-9d8e-6cf328e98e4c">
+      <Description>Populate PacinoCash Galleries</Description>
+      <Execution id="bcc097a5-af39-4f5c-b918-6b5e5e4fcab6" />
+      <Properties>
+        <Property>
+          <Key>Parameter:type</Key>
+          <Value>Nude</Value>
+        </Property>
+        <Property>
+          <Key>VariantName</Key>
+          <Value>Lucy OHara</Value>
+        </Property>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>PacinoCash</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:modelName</Key>
+          <Value>Lucy OHara</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Users/TMacBlane/Documents/DevelopmentProjects/PornCantina.UIAutomation/bin/Debug/PornCantina.UIAutomation.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PornCantina.UIAutomation.Scenarios.PacinoCashFeature, PornCantina.UIAutomation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PopulatePacinoCashGalleries_LucyOHara" />
+    </UnitTest>
+    <UnitTest name="PopulateLatinTeenCashGalleries_BellaSpice" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" id="a9992471-646c-2976-753b-1557db3f93ef">
+      <Description>Populate LatinTeenCash Galleries</Description>
+      <Execution id="cd11f4b6-7fcb-43be-b5c9-5e9b0cf1168b" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>LatinTeenCash</Value>
+        </Property>
+        <Property>
+          <Key>VariantName</Key>
+          <Value>Bella Spice</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:type</Key>
+          <Value>Nude</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:modelName</Key>
+          <Value>Bella Spice</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Users/TMacBlane/Documents/DevelopmentProjects/PornCantina.UIAutomation/bin/Debug/PornCantina.UIAutomation.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PornCantina.UIAutomation.Scenarios.LatinTeenCashFeature, PornCantina.UIAutomation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PopulateLatinTeenCashGalleries_BellaSpice" />
+    </UnitTest>
+    <UnitTest name="PopulateLatinTeenCashGalleries_PacinosAdventures" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" id="5264e98b-d59f-ee56-149b-fc83642626d4">
+      <Description>Populate LatinTeenCash Galleries</Description>
+      <Execution id="c8dee55a-245e-4afb-aed0-1c1e805970c0" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>LatinTeenCash</Value>
+        </Property>
+        <Property>
+          <Key>VariantName</Key>
+          <Value>Pacinos Adventures</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:type</Key>
+          <Value>Nude</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:modelName</Key>
+          <Value>Pacinos Adventures</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Users/TMacBlane/Documents/DevelopmentProjects/PornCantina.UIAutomation/bin/Debug/PornCantina.UIAutomation.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PornCantina.UIAutomation.Scenarios.LatinTeenCashFeature, PornCantina.UIAutomation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PopulateLatinTeenCashGalleries_PacinosAdventures" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+    <TestList name="Lists of Results" id="8c43106b-9dc1-4907-a29f-aa66a61bf5b6" />
+    <TestList name="Sites" id="8ba83221-1a26-45ff-8a75-ce587dd12d36" parentListId="8c43106b-9dc1-4907-a29f-aa66a61bf5b6">
+      <TestLinks>
+        <TestLink id="2d0fc9e1-ddb6-e1a3-2e4b-63cd236f3727" name="PopulateLatinTeenCashGalleries_NataliaSpice" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+        <TestLink id="8c136c51-948d-db20-6929-2e8f37a20b36" name="PopulateBellaCashGalleries_KatieBanks" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+        <TestLink id="96545bb1-b2a0-ad54-b954-e408025e44ce" name="PopulatePacinoCashGalleries_IvySnow" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+        <TestLink id="f796dec0-3ebb-a230-ecb5-c2c98ad99720" name="PopulateLatinTeenCashGalleries_LaZonaModelos" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+        <TestLink id="dfed4799-d8fd-25dc-42b0-c8ea9ee23c63" name="PopulateBellaCashGalleries_RennaRyann" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+        <TestLink id="d4651545-402e-63fd-5727-2f619b78f07c" name="PopulateZellysCashGalleries_BluEyedCass" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+        <TestLink id="09f339eb-e1ff-0d96-dca9-6e24e2f7cfbf" name="PopulatePinkVelvetVaultGalleries_TiffanyAlexis_Com" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+        <TestLink id="a54bbd81-de28-c5a1-9d12-ca028d3f093b" name="PopulateLatinTeenCashGalleries_GigiSpice" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+        <TestLink id="eb9b8e2b-e634-3f71-8b78-2aca84a14cf3" name="PopulateEpicPandaCashGalleries_BaileyKnox" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+        <TestLink id="3244bd33-62ad-5b0c-a0f8-17623bcb7156" name="PopulateZellysCashGalleries_MelissaXoXo" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+        <TestLink id="d0390afa-4a21-297c-771f-2a8050db7de4" name="PopulateEpicPandaCashGalleries_PartyAll_Star" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+        <TestLink id="076a81dd-d8a3-782a-c412-1ea2d0276610" name="PopulatePinkVelvetVaultGalleries_BrianaLeeExtreme_Com" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+        <TestLink id="398d7b5e-bf85-40e6-19ea-4a768f60f793" name="PopulateLatinTeenCashGalleries_MariahSpice" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+        <TestLink id="64a7a8aa-d2a3-43db-0a19-db0baa07537e" name="PopulateJewelsGoldGalleries" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+        <TestLink id="9f33c672-2a2b-7ca7-eae4-406262c592bc" name="PopulateLatinTeenCashGalleries_SelenaSpice" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+        <TestLink id="0833e762-dd78-d87c-6052-d9944bd1c4a8" name="PopulateEpicPandaCashGalleries_SpencerNicks" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+        <TestLink id="6f823177-fac0-1695-39d6-789688bb1a48" name="PopulateEpicPandaCashGalleries_RachelSexton" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+        <TestLink id="ec2c6f0a-2450-dc25-0d39-ade2ab07c845" name="PopulateBellaCashGalleries_HunterLeigh" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+        <TestLink id="2910964a-1343-9aba-d7b0-6918c25f5329" name="PopulatePinkVelvetVaultGalleries_Brittany_Avalon_Com" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+        <TestLink id="0e293ab0-9375-e2a4-2482-49fbaa7ebeb7" name="PopulatePacinoCashGalleries_MadisonLain" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+        <TestLink id="1fc74d3e-f8b6-d564-aca5-16763c6dfeac" name="PopulateLatinTeenCashGalleries_PacinosWorld" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+        <TestLink id="330e0218-b1c3-0599-b86f-bb99241a385f" name="PopulatePinkVelvetVaultGalleries_BellaXOXO_Com" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+        <TestLink id="6af92fa9-0ccf-8383-ab91-02e618ce084c" name="PopulateBellaCashGalleries_MonroeLee" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+        <TestLink id="cb48dcef-796c-d2b0-fdbf-4d69a8dc994d" name="PopulateBellaCashGalleries_LexiMason" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+        <TestLink id="2272289c-032b-1243-7330-eb5092e584fc" name="PopulateBellaCashGalleries_AvaDawn" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+        <TestLink id="66f4f75a-e39b-800c-c209-257f1c101b17" name="PopulateBellaCashGalleries_Bryci" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+        <TestLink id="70329624-f7cc-6664-b631-4cc70d51a00f" name="PopulatePinkVelvetVaultGalleries_LynnPops_Com" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+        <TestLink id="5264e98b-d59f-ee56-149b-fc83642626d4" name="PopulateLatinTeenCashGalleries_PacinosAdventures" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+        <TestLink id="a9992471-646c-2976-753b-1557db3f93ef" name="PopulateLatinTeenCashGalleries_BellaSpice" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+        <TestLink id="56f54296-15ab-8819-79de-9cb8a298433f" name="PopulateMinxManiaGalleries" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+        <TestLink id="b561c79c-303d-25b6-3666-9b140d099ec6" name="PopulatePinkVelvetVaultGalleries_BrianaLeeOnline" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+        <TestLink id="9b8a8829-6f71-8101-2626-855991eddcfc" name="PopulatePinkVelvetVaultGalleries_MeetMadden_Com" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+        <TestLink id="6ab30983-7e28-5632-d87f-2957844134d4" name="PopulatePinkVelvetVaultGalleries_RadiantDesire_Com" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+        <TestLink id="43e133cb-4a9a-524b-9d8e-6cf328e98e4c" name="PopulatePacinoCashGalleries_LucyOHara" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+        <TestLink id="b4f0a9e8-5d81-3545-39ca-78302cfc2e4c" name="PopulatePinkVelvetVaultGalleries_Sockblocked_Com" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+        <TestLink id="90275ed3-6b7f-be6c-3123-37a1d67aeee3" name="PopulatePinkVelvetVaultGalleries_TaylorTrue" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+        <TestLink id="4cbca76b-5162-199c-dd79-ce8dc44ed77b" name="PopulatePinkVelvetVaultGalleries_Nikkisplaymates_Com" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+        <TestLink id="faee341e-3298-bbd5-13d9-4d169a7040ed" name="PopulatePinkVelvetVaultGalleries_KendraRain_Com" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+        <TestLink id="36a18326-5378-2751-6673-68fb2102b50e" name="PopulateEpicPandaCashGalleries_BrookeMarks" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+        <TestLink id="77113a8f-62ef-a696-16b0-d2a18a7d4895" name="PopulatePacinoCashGalleries_TaylorLain" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+        <TestLink id="746ca17d-0c95-55f7-2444-fcda2e970d75" name="PopulateEpicPandaCashGalleries_MidoriWest" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+        <TestLink id="6723ee26-ffeb-9536-ffc6-148f6bd91bb4" name="PopulatePinkVelvetVaultGalleries_CherryZips_Com" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+        <TestLink id="8328e058-f44f-1617-9580-129c03893814" name="PopulateLatinTeenCashGalleries_CierraSpice" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+        <TestLink id="7fae0b54-1d2c-0d9d-1805-b2ab2adfc550" name="PopulateEpicPandaCashGalleries_MistyGates" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+        <TestLink id="efe8e8c2-3563-b091-1ee4-879573922381" name="PopulateZellysCashGalleries_Zellys_Com" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+        <TestLink id="e1e0aada-64a3-6d63-9035-77bad23b408c" name="PopulateEpicPandaCashGalleries_CarlottaChampagne" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+        <TestLink id="7a45e85a-1f59-0abe-b4e5-74cee7eb6bca" name="PopulateLatinTeenCashGalleries_TaniaSpice" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+        <TestLink id="b2fe822b-5976-20eb-494c-a2e70b73f8a8" name="PopulateBellaCashGalleries_TaliaShepard" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+        <TestLink id="13e1a459-1c49-3ad3-1408-a2fc2bd5bb3a" name="PopulateLatinTeenCashGalleries_PamelaSpice" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+        <TestLink id="ef5d542a-b37f-13af-ab00-4285784f3377" name="PopulateLatinTeenCashGalleries_SpiceTwins" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+        <TestLink id="732e0271-3646-904e-0de5-cd01a1e05c83" name="PopulateLatinTeenCashGalleries_KarlaSpice" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+      </TestLinks>
+    </TestList>
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="a9992471-646c-2976-753b-1557db3f93ef" executionId="cd11f4b6-7fcb-43be-b5c9-5e9b0cf1168b" testListId="8ba83221-1a26-45ff-8a75-ce587dd12d36" />
+    <TestEntry testId="77113a8f-62ef-a696-16b0-d2a18a7d4895" executionId="c50e62fa-9022-498f-ae8e-c2270fa393aa" testListId="8ba83221-1a26-45ff-8a75-ce587dd12d36" />
+    <TestEntry testId="36a18326-5378-2751-6673-68fb2102b50e" executionId="db016685-60e5-49c7-afda-e3e63daf1702" testListId="8ba83221-1a26-45ff-8a75-ce587dd12d36" />
+    <TestEntry testId="e1e0aada-64a3-6d63-9035-77bad23b408c" executionId="a8864069-aac9-4bd9-8d2f-1731fc9aa262" testListId="8ba83221-1a26-45ff-8a75-ce587dd12d36" />
+    <TestEntry testId="6723ee26-ffeb-9536-ffc6-148f6bd91bb4" executionId="563d1e3c-4a86-402a-af59-614a85270015" testListId="8ba83221-1a26-45ff-8a75-ce587dd12d36" />
+    <TestEntry testId="eb9b8e2b-e634-3f71-8b78-2aca84a14cf3" executionId="b954c03f-0996-42e0-bc14-c53a0d146d2f" testListId="8ba83221-1a26-45ff-8a75-ce587dd12d36" />
+    <TestEntry testId="efe8e8c2-3563-b091-1ee4-879573922381" executionId="8a743c32-532b-4d51-b98c-64bb2e48f570" testListId="8ba83221-1a26-45ff-8a75-ce587dd12d36" />
+    <TestEntry testId="ef5d542a-b37f-13af-ab00-4285784f3377" executionId="20475912-3a23-4374-ab42-fb83b8de0f48" testListId="8ba83221-1a26-45ff-8a75-ce587dd12d36" />
+    <TestEntry testId="43e133cb-4a9a-524b-9d8e-6cf328e98e4c" executionId="bcc097a5-af39-4f5c-b918-6b5e5e4fcab6" testListId="8ba83221-1a26-45ff-8a75-ce587dd12d36" />
+    <TestEntry testId="cb48dcef-796c-d2b0-fdbf-4d69a8dc994d" executionId="f43d7c38-c76c-44bd-81a1-f32bc567cfc1" testListId="8ba83221-1a26-45ff-8a75-ce587dd12d36" />
+    <TestEntry testId="96545bb1-b2a0-ad54-b954-e408025e44ce" executionId="0acb9c39-9b47-4816-b6ac-4163796cb5f6" testListId="8ba83221-1a26-45ff-8a75-ce587dd12d36" />
+    <TestEntry testId="4cbca76b-5162-199c-dd79-ce8dc44ed77b" executionId="f0a9b935-4815-40a8-8243-aacac3e96a54" testListId="8ba83221-1a26-45ff-8a75-ce587dd12d36" />
+    <TestEntry testId="2272289c-032b-1243-7330-eb5092e584fc" executionId="6d1f1204-5931-4ada-9bfb-7bbe2155af59" testListId="8ba83221-1a26-45ff-8a75-ce587dd12d36" />
+    <TestEntry testId="7a45e85a-1f59-0abe-b4e5-74cee7eb6bca" executionId="9d3e3809-8ec6-4ced-9dfe-dcf18468cb87" testListId="8ba83221-1a26-45ff-8a75-ce587dd12d36" />
+    <TestEntry testId="13e1a459-1c49-3ad3-1408-a2fc2bd5bb3a" executionId="ca8740ab-9fa0-435e-8012-d1412f9e6a5a" testListId="8ba83221-1a26-45ff-8a75-ce587dd12d36" />
+    <TestEntry testId="7fae0b54-1d2c-0d9d-1805-b2ab2adfc550" executionId="5dbecbb1-916c-4115-941c-adcb8703ea5b" testListId="8ba83221-1a26-45ff-8a75-ce587dd12d36" />
+    <TestEntry testId="8c136c51-948d-db20-6929-2e8f37a20b36" executionId="aa962b10-68b4-4a50-ad0e-1623cf36cabb" testListId="8ba83221-1a26-45ff-8a75-ce587dd12d36" />
+    <TestEntry testId="faee341e-3298-bbd5-13d9-4d169a7040ed" executionId="e8c29c7d-462f-4ba0-a825-0d679ec5ffdc" testListId="8ba83221-1a26-45ff-8a75-ce587dd12d36" />
+    <TestEntry testId="2910964a-1343-9aba-d7b0-6918c25f5329" executionId="8800b8d0-ecc2-485a-beb1-055ce4a64d59" testListId="8ba83221-1a26-45ff-8a75-ce587dd12d36" />
+    <TestEntry testId="56f54296-15ab-8819-79de-9cb8a298433f" executionId="f414d122-aaf0-4e6b-9800-21715be5e4ce" testListId="8ba83221-1a26-45ff-8a75-ce587dd12d36" />
+    <TestEntry testId="ec2c6f0a-2450-dc25-0d39-ade2ab07c845" executionId="dfe25427-39e4-4163-8a28-1a5a1ef7a2d6" testListId="8ba83221-1a26-45ff-8a75-ce587dd12d36" />
+    <TestEntry testId="330e0218-b1c3-0599-b86f-bb99241a385f" executionId="73320078-e5b1-4891-a2e9-61b7f7a8425c" testListId="8ba83221-1a26-45ff-8a75-ce587dd12d36" />
+    <TestEntry testId="9b8a8829-6f71-8101-2626-855991eddcfc" executionId="9105d8d2-7134-4a85-9c63-7aaf6eeec1ef" testListId="8ba83221-1a26-45ff-8a75-ce587dd12d36" />
+    <TestEntry testId="732e0271-3646-904e-0de5-cd01a1e05c83" executionId="e66ce05d-f600-4811-909e-19da26f66596" testListId="8ba83221-1a26-45ff-8a75-ce587dd12d36" />
+    <TestEntry testId="9f33c672-2a2b-7ca7-eae4-406262c592bc" executionId="07ba5142-7ee1-452c-b27a-9f5dc5aa79c7" testListId="8ba83221-1a26-45ff-8a75-ce587dd12d36" />
+    <TestEntry testId="6ab30983-7e28-5632-d87f-2957844134d4" executionId="f7018ad9-45e1-45f5-a431-7793efb95b1b" testListId="8ba83221-1a26-45ff-8a75-ce587dd12d36" />
+    <TestEntry testId="746ca17d-0c95-55f7-2444-fcda2e970d75" executionId="1ebe03dd-0eb9-44f3-8829-e548e6ace669" testListId="8ba83221-1a26-45ff-8a75-ce587dd12d36" />
+    <TestEntry testId="b2fe822b-5976-20eb-494c-a2e70b73f8a8" executionId="7d461634-a5bf-4ce7-a5e7-0dce7243151c" testListId="8ba83221-1a26-45ff-8a75-ce587dd12d36" />
+    <TestEntry testId="b4f0a9e8-5d81-3545-39ca-78302cfc2e4c" executionId="2a1060dc-dcec-40ec-8cce-9d5dc510ece1" testListId="8ba83221-1a26-45ff-8a75-ce587dd12d36" />
+    <TestEntry testId="66f4f75a-e39b-800c-c209-257f1c101b17" executionId="8c9a32a9-8307-4348-9fd7-c7e35aad354f" testListId="8ba83221-1a26-45ff-8a75-ce587dd12d36" />
+    <TestEntry testId="3244bd33-62ad-5b0c-a0f8-17623bcb7156" executionId="4fb8050e-2b47-4b5a-9d82-4fe841ca519e" testListId="8ba83221-1a26-45ff-8a75-ce587dd12d36" />
+    <TestEntry testId="2d0fc9e1-ddb6-e1a3-2e4b-63cd236f3727" executionId="1fe66453-62dd-4b38-ab96-4e5ad6465f12" testListId="8ba83221-1a26-45ff-8a75-ce587dd12d36" />
+    <TestEntry testId="5264e98b-d59f-ee56-149b-fc83642626d4" executionId="c8dee55a-245e-4afb-aed0-1c1e805970c0" testListId="8ba83221-1a26-45ff-8a75-ce587dd12d36" />
+    <TestEntry testId="398d7b5e-bf85-40e6-19ea-4a768f60f793" executionId="ab399492-23c2-4fbd-ba27-59eefa52cd2a" testListId="8ba83221-1a26-45ff-8a75-ce587dd12d36" />
+    <TestEntry testId="0e293ab0-9375-e2a4-2482-49fbaa7ebeb7" executionId="26f48480-e92a-40b5-89a1-4f7afcca6b69" testListId="8ba83221-1a26-45ff-8a75-ce587dd12d36" />
+    <TestEntry testId="1fc74d3e-f8b6-d564-aca5-16763c6dfeac" executionId="33026b13-585a-445d-92fa-c78593ffeb40" testListId="8ba83221-1a26-45ff-8a75-ce587dd12d36" />
+    <TestEntry testId="dfed4799-d8fd-25dc-42b0-c8ea9ee23c63" executionId="48b041bc-04bf-4534-91fd-d9274ae2b730" testListId="8ba83221-1a26-45ff-8a75-ce587dd12d36" />
+    <TestEntry testId="64a7a8aa-d2a3-43db-0a19-db0baa07537e" executionId="6331129a-2fb2-40cc-b2b1-54ae40085be6" testListId="8ba83221-1a26-45ff-8a75-ce587dd12d36" />
+    <TestEntry testId="d0390afa-4a21-297c-771f-2a8050db7de4" executionId="3be79607-78a5-40b8-ae56-88c891983ee4" testListId="8ba83221-1a26-45ff-8a75-ce587dd12d36" />
+    <TestEntry testId="d4651545-402e-63fd-5727-2f619b78f07c" executionId="35778de8-ddc6-4cf3-a7fd-b2246bd8e8eb" testListId="8ba83221-1a26-45ff-8a75-ce587dd12d36" />
+    <TestEntry testId="8328e058-f44f-1617-9580-129c03893814" executionId="9c45568f-c514-4868-b8ce-5cb44498c42d" testListId="8ba83221-1a26-45ff-8a75-ce587dd12d36" />
+    <TestEntry testId="0833e762-dd78-d87c-6052-d9944bd1c4a8" executionId="c909de10-7492-4081-bab2-089f3b914fe9" testListId="8ba83221-1a26-45ff-8a75-ce587dd12d36" />
+    <TestEntry testId="076a81dd-d8a3-782a-c412-1ea2d0276610" executionId="b43e6239-19a2-4bb4-9db7-16938dca3944" testListId="8ba83221-1a26-45ff-8a75-ce587dd12d36" />
+    <TestEntry testId="f796dec0-3ebb-a230-ecb5-c2c98ad99720" executionId="6fcaa775-7534-4bef-bfd4-5c213c819b8f" testListId="8ba83221-1a26-45ff-8a75-ce587dd12d36" />
+    <TestEntry testId="6af92fa9-0ccf-8383-ab91-02e618ce084c" executionId="bf147c12-1bab-439a-b399-f6f102bb3433" testListId="8ba83221-1a26-45ff-8a75-ce587dd12d36" />
+    <TestEntry testId="90275ed3-6b7f-be6c-3123-37a1d67aeee3" executionId="53426b77-c4fa-4f7f-9a07-3749cf2aba83" testListId="8ba83221-1a26-45ff-8a75-ce587dd12d36" />
+    <TestEntry testId="70329624-f7cc-6664-b631-4cc70d51a00f" executionId="ff64d376-b913-4e91-b5cd-12c6d6ffbc70" testListId="8ba83221-1a26-45ff-8a75-ce587dd12d36" />
+    <TestEntry testId="a54bbd81-de28-c5a1-9d12-ca028d3f093b" executionId="2b177877-1586-4fc6-9cd3-0e89761bc151" testListId="8ba83221-1a26-45ff-8a75-ce587dd12d36" />
+    <TestEntry testId="6f823177-fac0-1695-39d6-789688bb1a48" executionId="06c7eb15-0540-481f-939a-1bd3841cd378" testListId="8ba83221-1a26-45ff-8a75-ce587dd12d36" />
+    <TestEntry testId="09f339eb-e1ff-0d96-dca9-6e24e2f7cfbf" executionId="cf70698c-23d1-4799-b51e-3ba7e6802c27" testListId="8ba83221-1a26-45ff-8a75-ce587dd12d36" />
+    <TestEntry testId="b561c79c-303d-25b6-3666-9b140d099ec6" executionId="9f6ad6ed-79d4-4578-8b49-6fdbd13df28f" testListId="8ba83221-1a26-45ff-8a75-ce587dd12d36" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="cd11f4b6-7fcb-43be-b5c9-5e9b0cf1168b" testId="a9992471-646c-2976-753b-1557db3f93ef" testName="PopulateLatinTeenCashGalleries_BellaSpice" computerName="FIREFLY" duration="00:01:30.4505030" startTime="2012-11-08T11:14:53.9610000-05:00" endTime="2012-11-08T11:16:24.9190000-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8ba83221-1a26-45ff-8a75-ce587dd12d36" relativeResultsDirectory="cd11f4b6-7fcb-43be-b5c9-5e9b0cf1168b">
+      <Output>
+        <StdOut>Given I open the latinteencash page
+-&gt; error: Exception has been thrown by the target of an invocation.
+Then I should be on the latinteencash page
+-&gt; skipped because of previous errors
+When I enter the LatinTeenCash ccbill id
+-&gt; skipped because of previous errors
+Then I should be on the latinteencash page
+-&gt; skipped because of previous errors
+When I select the Bella Spice latinteencash Nude site
+-&gt; skipped because of previous errors
+Then I should see the Bella Spice - Nude latinteencash hosted galleries
+-&gt; skipped because of previous errors
+And I should create any new Bella Spice latinteencash galleries
+-&gt; skipped because of previous errors</StdOut>
+        <ErrorInfo>
+          <Message>Test method PornCantina.UIAutomation.Scenarios.LatinTeenCashFeature.PopulateLatinTeenCashGalleries_BellaSpice threw exception: 
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---&gt; OpenQA.Selenium.WebDriverException: Unable to bind to locking port 7054 within 45000 ms
+TestCleanup method PornCantina.UIAutomation.Scenarios.LatinTeenCashFeature.ScenarioTearDown threw exception. System.Reflection.TargetInvocationException: System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---&gt; OpenQA.Selenium.WebDriverException: Unable to bind to locking port 7054 within 45000 ms.</Message>
+          <StackTrace>    at OpenQA.Selenium.Firefox.Internal.SocketLock.LockObject(Int64 timeoutInMilliseconds)
+   at OpenQA.Selenium.Firefox.Internal.ExtensionConnection.Start()
+   at OpenQA.Selenium.Firefox.FirefoxDriver.StartClient()
+   at OpenQA.Selenium.Remote.RemoteWebDriver..ctor(ICommandExecutor commandExecutor, ICapabilities desiredCapabilities)
+   at OpenQA.Selenium.Firefox.FirefoxDriver..ctor(FirefoxProfile profile)
+   at AutomationFramework.WebBrowser.GetWebDriver() in C:\Users\TMacBlane\Documents\DevelopmentProjects\AutomationFramework\Classes\WebBrowser.cs:line 369
+   at AutomationFramework.WebBrowser..ctor() in C:\Users\TMacBlane\Documents\DevelopmentProjects\AutomationFramework\Classes\WebBrowser.cs:line 33
+   at PornCantina.UIAutomation.StepDefinitions.BaseStepDefinition..ctor() in C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\StepDefinitions\BaseStepDefinition.cs:line 38
+   at PornCantina.UIAutomation.StepDefinitions.StepDefinitions..ctor()
+ --- End of inner exception stack trace ---
+    at System.RuntimeMethodHandle._InvokeConstructor(IRuntimeMethodInfo method, Object[] args, SignatureStruct&amp; signature, RuntimeType declaringType)
+   at System.RuntimeMethodHandle.InvokeConstructor(IRuntimeMethodInfo method, Object[] args, SignatureStruct signature, RuntimeType declaringType)
+   at System.Reflection.RuntimeConstructorInfo.Invoke(BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at BoDi.ObjectContainer.CreateObject(Type type, IEnumerable`1 resolutionPath, RegistrationKey keyToResolve)
+   at BoDi.ObjectContainer.TypeRegistration.Resolve(ObjectContainer container, RegistrationKey keyToResolve, IEnumerable`1 resolutionPath)
+   at BoDi.ObjectContainer.CreateObjectFor(RegistrationKey keyToResolve, IEnumerable`1 resolutionPath)
+   at BoDi.ObjectContainer.Resolve(Type typeToResolve, IEnumerable`1 resolutionPath, String name)
+   at BoDi.ObjectContainer.Resolve(Type typeToResolve, String name)
+   at lambda_method(Closure , IContextManager , String )
+   at TechTalk.SpecFlow.Bindings.BindingInvoker.InvokeBinding(IBinding binding, IContextManager contextManager, Object[] arguments, ITestTracer testTracer, TimeSpan&amp; duration)
+   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.ExecuteStepMatch(BindingMatch match, Object[] arguments)
+   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.ExecuteStep(StepInstance stepInstance)
+   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.OnAfterLastStep()
+   at TechTalk.SpecFlow.TestRunner.CollectScenarioErrors()
+   at PornCantina.UIAutomation.Scenarios.LatinTeenCashFeature.ScenarioCleanup() in C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\Scenarios\LatinTeenCash.feature.cs:line 0
+   at PornCantina.UIAutomation.Scenarios.LatinTeenCashFeature.PopulateLatinTeenCashGalleries(String modelName, String type, String[] exampleTags) in c:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\Scenarios\LatinTeenCash.feature:line 12
+   at PornCantina.UIAutomation.Scenarios.LatinTeenCashFeature.PopulateLatinTeenCashGalleries_BellaSpice() in C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\Scenarios\LatinTeenCash.feature.cs:line 0
+
+TestCleanup Stack Trace
+    at OpenQA.Selenium.Firefox.Internal.SocketLock.LockObject(Int64 timeoutInMilliseconds)
+   at OpenQA.Selenium.Firefox.Internal.ExtensionConnection.Start()
+   at OpenQA.Selenium.Firefox.FirefoxDriver.StartClient()
+   at OpenQA.Selenium.Remote.RemoteWebDriver..ctor(ICommandExecutor commandExecutor, ICapabilities desiredCapabilities)
+   at OpenQA.Selenium.Firefox.FirefoxDriver..ctor(FirefoxProfile profile)
+   at AutomationFramework.WebBrowser.GetWebDriver() in C:\Users\TMacBlane\Documents\DevelopmentProjects\AutomationFramework\Classes\WebBrowser.cs:line 369
+   at AutomationFramework.WebBrowser..ctor() in C:\Users\TMacBlane\Documents\DevelopmentProjects\AutomationFramework\Classes\WebBrowser.cs:line 33
+   at PornCantina.UIAutomation.StepDefinitions.BaseStepDefinition..ctor() in C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\StepDefinitions\BaseStepDefinition.cs:line 38
+   at PornCantina.UIAutomation.StepDefinitions.StepDefinitions..ctor()
+ --- End of inner exception stack trace ---
+    at System.RuntimeMethodHandle._InvokeConstructor(IRuntimeMethodInfo method, Object[] args, SignatureStruct&amp; signature, RuntimeType declaringType)
+   at System.RuntimeMethodHandle.InvokeConstructor(IRuntimeMethodInfo method, Object[] args, SignatureStruct signature, RuntimeType declaringType)
+   at System.Reflection.RuntimeConstructorInfo.Invoke(BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at BoDi.ObjectContainer.CreateObject(Type type, IEnumerable`1 resolutionPath, RegistrationKey keyToResolve)
+   at BoDi.ObjectContainer.TypeRegistration.Resolve(ObjectContainer container, RegistrationKey keyToResolve, IEnumerable`1 resolutionPath)
+   at BoDi.ObjectContainer.CreateObjectFor(RegistrationKey keyToResolve, IEnumerable`1 resolutionPath)
+   at BoDi.ObjectContainer.Resolve(Type typeToResolve, IEnumerable`1 resolutionPath, String name)
+   at BoDi.ObjectContainer.Resolve(Type typeToResolve, String name)
+   at lambda_method(Closure , IContextManager )
+   at TechTalk.SpecFlow.Bindings.BindingInvoker.InvokeBinding(IBinding binding, IContextManager contextManager, Object[] arguments, ITestTracer testTracer, TimeSpan&amp; duration)
+   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.FireEvents(HookType bindingEvent)
+   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.OnScenarioEnd()
+   at TechTalk.SpecFlow.TestRunner.OnScenarioEnd()
+   at PornCantina.UIAutomation.Scenarios.LatinTeenCashFeature.ScenarioTearDown() in C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\Scenarios\LatinTeenCash.feature.cs:line 0
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="c50e62fa-9022-498f-ae8e-c2270fa393aa" testId="77113a8f-62ef-a696-16b0-d2a18a7d4895" testName="PopulatePacinoCashGalleries_TaylorLain" computerName="FIREFLY" duration="00:00:53.4660000" startTime="2012-11-08T11:16:24.9390000-05:00" endTime="2012-11-08T11:17:18.4050000-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Aborted" testListId="8ba83221-1a26-45ff-8a75-ce587dd12d36" relativeResultsDirectory="c50e62fa-9022-498f-ae8e-c2270fa393aa">
+      <Output>
+        <StdOut>-&gt; warning: The previous ScenarioContext was not disposed.
+Given I open the pacinocash page
+-&gt; error: Exception has been thrown by the target of an invocation.
+Then I should be on the pacinocash page
+-&gt; skipped because of previous errors
+When I enter the PacinoCash ccbill id
+-&gt; skipped because of previous errors
+Then I should be on the pacinocash page
+-&gt; skipped because of previous errors
+When I select the Taylor Lain pacinocash Nude site
+-&gt; skipped because of previous errors
+Then I should see the Taylor Lain - Nude pacinocash hosted galleries
+-&gt; skipped because of previous errors
+And I should create any new Taylor Lain pacinocash galleries
+-&gt; skipped because of previous errors</StdOut>
+        <ErrorInfo>
+          <Message>User aborted test run.</Message>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="db016685-60e5-49c7-afda-e3e63daf1702" testId="36a18326-5378-2751-6673-68fb2102b50e" testName="PopulateEpicPandaCashGalleries_BrookeMarks" computerName="FIREFLY" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8ba83221-1a26-45ff-8a75-ce587dd12d36" relativeResultsDirectory="db016685-60e5-49c7-afda-e3e63daf1702">
+    </UnitTestResult>
+    <UnitTestResult executionId="a8864069-aac9-4bd9-8d2f-1731fc9aa262" testId="e1e0aada-64a3-6d63-9035-77bad23b408c" testName="PopulateEpicPandaCashGalleries_CarlottaChampagne" computerName="FIREFLY" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8ba83221-1a26-45ff-8a75-ce587dd12d36" relativeResultsDirectory="a8864069-aac9-4bd9-8d2f-1731fc9aa262">
+    </UnitTestResult>
+    <UnitTestResult executionId="563d1e3c-4a86-402a-af59-614a85270015" testId="6723ee26-ffeb-9536-ffc6-148f6bd91bb4" testName="PopulatePinkVelvetVaultGalleries_CherryZips_Com" computerName="FIREFLY" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8ba83221-1a26-45ff-8a75-ce587dd12d36" relativeResultsDirectory="563d1e3c-4a86-402a-af59-614a85270015">
+    </UnitTestResult>
+    <UnitTestResult executionId="b954c03f-0996-42e0-bc14-c53a0d146d2f" testId="eb9b8e2b-e634-3f71-8b78-2aca84a14cf3" testName="PopulateEpicPandaCashGalleries_BaileyKnox" computerName="FIREFLY" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8ba83221-1a26-45ff-8a75-ce587dd12d36" relativeResultsDirectory="b954c03f-0996-42e0-bc14-c53a0d146d2f">
+    </UnitTestResult>
+    <UnitTestResult executionId="8a743c32-532b-4d51-b98c-64bb2e48f570" testId="efe8e8c2-3563-b091-1ee4-879573922381" testName="PopulateZellysCashGalleries_Zellys_Com" computerName="FIREFLY" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8ba83221-1a26-45ff-8a75-ce587dd12d36" relativeResultsDirectory="8a743c32-532b-4d51-b98c-64bb2e48f570">
+    </UnitTestResult>
+    <UnitTestResult executionId="20475912-3a23-4374-ab42-fb83b8de0f48" testId="ef5d542a-b37f-13af-ab00-4285784f3377" testName="PopulateLatinTeenCashGalleries_SpiceTwins" computerName="FIREFLY" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8ba83221-1a26-45ff-8a75-ce587dd12d36" relativeResultsDirectory="20475912-3a23-4374-ab42-fb83b8de0f48">
+    </UnitTestResult>
+    <UnitTestResult executionId="bcc097a5-af39-4f5c-b918-6b5e5e4fcab6" testId="43e133cb-4a9a-524b-9d8e-6cf328e98e4c" testName="PopulatePacinoCashGalleries_LucyOHara" computerName="FIREFLY" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8ba83221-1a26-45ff-8a75-ce587dd12d36" relativeResultsDirectory="bcc097a5-af39-4f5c-b918-6b5e5e4fcab6">
+    </UnitTestResult>
+    <UnitTestResult executionId="f43d7c38-c76c-44bd-81a1-f32bc567cfc1" testId="cb48dcef-796c-d2b0-fdbf-4d69a8dc994d" testName="PopulateBellaCashGalleries_LexiMason" computerName="FIREFLY" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8ba83221-1a26-45ff-8a75-ce587dd12d36" relativeResultsDirectory="f43d7c38-c76c-44bd-81a1-f32bc567cfc1">
+    </UnitTestResult>
+    <UnitTestResult executionId="0acb9c39-9b47-4816-b6ac-4163796cb5f6" testId="96545bb1-b2a0-ad54-b954-e408025e44ce" testName="PopulatePacinoCashGalleries_IvySnow" computerName="FIREFLY" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8ba83221-1a26-45ff-8a75-ce587dd12d36" relativeResultsDirectory="0acb9c39-9b47-4816-b6ac-4163796cb5f6">
+    </UnitTestResult>
+    <UnitTestResult executionId="f0a9b935-4815-40a8-8243-aacac3e96a54" testId="4cbca76b-5162-199c-dd79-ce8dc44ed77b" testName="PopulatePinkVelvetVaultGalleries_Nikkisplaymates_Com" computerName="FIREFLY" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8ba83221-1a26-45ff-8a75-ce587dd12d36" relativeResultsDirectory="f0a9b935-4815-40a8-8243-aacac3e96a54">
+    </UnitTestResult>
+    <UnitTestResult executionId="6d1f1204-5931-4ada-9bfb-7bbe2155af59" testId="2272289c-032b-1243-7330-eb5092e584fc" testName="PopulateBellaCashGalleries_AvaDawn" computerName="FIREFLY" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8ba83221-1a26-45ff-8a75-ce587dd12d36" relativeResultsDirectory="6d1f1204-5931-4ada-9bfb-7bbe2155af59">
+    </UnitTestResult>
+    <UnitTestResult executionId="9d3e3809-8ec6-4ced-9dfe-dcf18468cb87" testId="7a45e85a-1f59-0abe-b4e5-74cee7eb6bca" testName="PopulateLatinTeenCashGalleries_TaniaSpice" computerName="FIREFLY" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8ba83221-1a26-45ff-8a75-ce587dd12d36" relativeResultsDirectory="9d3e3809-8ec6-4ced-9dfe-dcf18468cb87">
+    </UnitTestResult>
+    <UnitTestResult executionId="ca8740ab-9fa0-435e-8012-d1412f9e6a5a" testId="13e1a459-1c49-3ad3-1408-a2fc2bd5bb3a" testName="PopulateLatinTeenCashGalleries_PamelaSpice" computerName="FIREFLY" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8ba83221-1a26-45ff-8a75-ce587dd12d36" relativeResultsDirectory="ca8740ab-9fa0-435e-8012-d1412f9e6a5a">
+    </UnitTestResult>
+    <UnitTestResult executionId="5dbecbb1-916c-4115-941c-adcb8703ea5b" testId="7fae0b54-1d2c-0d9d-1805-b2ab2adfc550" testName="PopulateEpicPandaCashGalleries_MistyGates" computerName="FIREFLY" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8ba83221-1a26-45ff-8a75-ce587dd12d36" relativeResultsDirectory="5dbecbb1-916c-4115-941c-adcb8703ea5b">
+    </UnitTestResult>
+    <UnitTestResult executionId="aa962b10-68b4-4a50-ad0e-1623cf36cabb" testId="8c136c51-948d-db20-6929-2e8f37a20b36" testName="PopulateBellaCashGalleries_KatieBanks" computerName="FIREFLY" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8ba83221-1a26-45ff-8a75-ce587dd12d36" relativeResultsDirectory="aa962b10-68b4-4a50-ad0e-1623cf36cabb">
+    </UnitTestResult>
+    <UnitTestResult executionId="e8c29c7d-462f-4ba0-a825-0d679ec5ffdc" testId="faee341e-3298-bbd5-13d9-4d169a7040ed" testName="PopulatePinkVelvetVaultGalleries_KendraRain_Com" computerName="FIREFLY" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8ba83221-1a26-45ff-8a75-ce587dd12d36" relativeResultsDirectory="e8c29c7d-462f-4ba0-a825-0d679ec5ffdc">
+    </UnitTestResult>
+    <UnitTestResult executionId="8800b8d0-ecc2-485a-beb1-055ce4a64d59" testId="2910964a-1343-9aba-d7b0-6918c25f5329" testName="PopulatePinkVelvetVaultGalleries_Brittany_Avalon_Com" computerName="FIREFLY" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8ba83221-1a26-45ff-8a75-ce587dd12d36" relativeResultsDirectory="8800b8d0-ecc2-485a-beb1-055ce4a64d59">
+    </UnitTestResult>
+    <UnitTestResult executionId="f414d122-aaf0-4e6b-9800-21715be5e4ce" testId="56f54296-15ab-8819-79de-9cb8a298433f" testName="PopulateMinxManiaGalleries" computerName="FIREFLY" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8ba83221-1a26-45ff-8a75-ce587dd12d36" relativeResultsDirectory="f414d122-aaf0-4e6b-9800-21715be5e4ce">
+    </UnitTestResult>
+    <UnitTestResult executionId="dfe25427-39e4-4163-8a28-1a5a1ef7a2d6" testId="ec2c6f0a-2450-dc25-0d39-ade2ab07c845" testName="PopulateBellaCashGalleries_HunterLeigh" computerName="FIREFLY" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8ba83221-1a26-45ff-8a75-ce587dd12d36" relativeResultsDirectory="dfe25427-39e4-4163-8a28-1a5a1ef7a2d6">
+    </UnitTestResult>
+    <UnitTestResult executionId="73320078-e5b1-4891-a2e9-61b7f7a8425c" testId="330e0218-b1c3-0599-b86f-bb99241a385f" testName="PopulatePinkVelvetVaultGalleries_BellaXOXO_Com" computerName="FIREFLY" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8ba83221-1a26-45ff-8a75-ce587dd12d36" relativeResultsDirectory="73320078-e5b1-4891-a2e9-61b7f7a8425c">
+    </UnitTestResult>
+    <UnitTestResult executionId="9105d8d2-7134-4a85-9c63-7aaf6eeec1ef" testId="9b8a8829-6f71-8101-2626-855991eddcfc" testName="PopulatePinkVelvetVaultGalleries_MeetMadden_Com" computerName="FIREFLY" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8ba83221-1a26-45ff-8a75-ce587dd12d36" relativeResultsDirectory="9105d8d2-7134-4a85-9c63-7aaf6eeec1ef">
+    </UnitTestResult>
+    <UnitTestResult executionId="e66ce05d-f600-4811-909e-19da26f66596" testId="732e0271-3646-904e-0de5-cd01a1e05c83" testName="PopulateLatinTeenCashGalleries_KarlaSpice" computerName="FIREFLY" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8ba83221-1a26-45ff-8a75-ce587dd12d36" relativeResultsDirectory="e66ce05d-f600-4811-909e-19da26f66596">
+    </UnitTestResult>
+    <UnitTestResult executionId="07ba5142-7ee1-452c-b27a-9f5dc5aa79c7" testId="9f33c672-2a2b-7ca7-eae4-406262c592bc" testName="PopulateLatinTeenCashGalleries_SelenaSpice" computerName="FIREFLY" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8ba83221-1a26-45ff-8a75-ce587dd12d36" relativeResultsDirectory="07ba5142-7ee1-452c-b27a-9f5dc5aa79c7">
+    </UnitTestResult>
+    <UnitTestResult executionId="f7018ad9-45e1-45f5-a431-7793efb95b1b" testId="6ab30983-7e28-5632-d87f-2957844134d4" testName="PopulatePinkVelvetVaultGalleries_RadiantDesire_Com" computerName="FIREFLY" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8ba83221-1a26-45ff-8a75-ce587dd12d36" relativeResultsDirectory="f7018ad9-45e1-45f5-a431-7793efb95b1b">
+    </UnitTestResult>
+    <UnitTestResult executionId="1ebe03dd-0eb9-44f3-8829-e548e6ace669" testId="746ca17d-0c95-55f7-2444-fcda2e970d75" testName="PopulateEpicPandaCashGalleries_MidoriWest" computerName="FIREFLY" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8ba83221-1a26-45ff-8a75-ce587dd12d36" relativeResultsDirectory="1ebe03dd-0eb9-44f3-8829-e548e6ace669">
+    </UnitTestResult>
+    <UnitTestResult executionId="7d461634-a5bf-4ce7-a5e7-0dce7243151c" testId="b2fe822b-5976-20eb-494c-a2e70b73f8a8" testName="PopulateBellaCashGalleries_TaliaShepard" computerName="FIREFLY" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8ba83221-1a26-45ff-8a75-ce587dd12d36" relativeResultsDirectory="7d461634-a5bf-4ce7-a5e7-0dce7243151c">
+    </UnitTestResult>
+    <UnitTestResult executionId="2a1060dc-dcec-40ec-8cce-9d5dc510ece1" testId="b4f0a9e8-5d81-3545-39ca-78302cfc2e4c" testName="PopulatePinkVelvetVaultGalleries_Sockblocked_Com" computerName="FIREFLY" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8ba83221-1a26-45ff-8a75-ce587dd12d36" relativeResultsDirectory="2a1060dc-dcec-40ec-8cce-9d5dc510ece1">
+    </UnitTestResult>
+    <UnitTestResult executionId="8c9a32a9-8307-4348-9fd7-c7e35aad354f" testId="66f4f75a-e39b-800c-c209-257f1c101b17" testName="PopulateBellaCashGalleries_Bryci" computerName="FIREFLY" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8ba83221-1a26-45ff-8a75-ce587dd12d36" relativeResultsDirectory="8c9a32a9-8307-4348-9fd7-c7e35aad354f">
+    </UnitTestResult>
+    <UnitTestResult executionId="4fb8050e-2b47-4b5a-9d82-4fe841ca519e" testId="3244bd33-62ad-5b0c-a0f8-17623bcb7156" testName="PopulateZellysCashGalleries_MelissaXoXo" computerName="FIREFLY" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8ba83221-1a26-45ff-8a75-ce587dd12d36" relativeResultsDirectory="4fb8050e-2b47-4b5a-9d82-4fe841ca519e">
+    </UnitTestResult>
+    <UnitTestResult executionId="1fe66453-62dd-4b38-ab96-4e5ad6465f12" testId="2d0fc9e1-ddb6-e1a3-2e4b-63cd236f3727" testName="PopulateLatinTeenCashGalleries_NataliaSpice" computerName="FIREFLY" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8ba83221-1a26-45ff-8a75-ce587dd12d36" relativeResultsDirectory="1fe66453-62dd-4b38-ab96-4e5ad6465f12">
+    </UnitTestResult>
+    <UnitTestResult executionId="c8dee55a-245e-4afb-aed0-1c1e805970c0" testId="5264e98b-d59f-ee56-149b-fc83642626d4" testName="PopulateLatinTeenCashGalleries_PacinosAdventures" computerName="FIREFLY" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8ba83221-1a26-45ff-8a75-ce587dd12d36" relativeResultsDirectory="c8dee55a-245e-4afb-aed0-1c1e805970c0">
+    </UnitTestResult>
+    <UnitTestResult executionId="ab399492-23c2-4fbd-ba27-59eefa52cd2a" testId="398d7b5e-bf85-40e6-19ea-4a768f60f793" testName="PopulateLatinTeenCashGalleries_MariahSpice" computerName="FIREFLY" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8ba83221-1a26-45ff-8a75-ce587dd12d36" relativeResultsDirectory="ab399492-23c2-4fbd-ba27-59eefa52cd2a">
+    </UnitTestResult>
+    <UnitTestResult executionId="26f48480-e92a-40b5-89a1-4f7afcca6b69" testId="0e293ab0-9375-e2a4-2482-49fbaa7ebeb7" testName="PopulatePacinoCashGalleries_MadisonLain" computerName="FIREFLY" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8ba83221-1a26-45ff-8a75-ce587dd12d36" relativeResultsDirectory="26f48480-e92a-40b5-89a1-4f7afcca6b69">
+    </UnitTestResult>
+    <UnitTestResult executionId="33026b13-585a-445d-92fa-c78593ffeb40" testId="1fc74d3e-f8b6-d564-aca5-16763c6dfeac" testName="PopulateLatinTeenCashGalleries_PacinosWorld" computerName="FIREFLY" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8ba83221-1a26-45ff-8a75-ce587dd12d36" relativeResultsDirectory="33026b13-585a-445d-92fa-c78593ffeb40">
+    </UnitTestResult>
+    <UnitTestResult executionId="48b041bc-04bf-4534-91fd-d9274ae2b730" testId="dfed4799-d8fd-25dc-42b0-c8ea9ee23c63" testName="PopulateBellaCashGalleries_RennaRyann" computerName="FIREFLY" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8ba83221-1a26-45ff-8a75-ce587dd12d36" relativeResultsDirectory="48b041bc-04bf-4534-91fd-d9274ae2b730">
+    </UnitTestResult>
+    <UnitTestResult executionId="6331129a-2fb2-40cc-b2b1-54ae40085be6" testId="64a7a8aa-d2a3-43db-0a19-db0baa07537e" testName="PopulateJewelsGoldGalleries" computerName="FIREFLY" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8ba83221-1a26-45ff-8a75-ce587dd12d36" relativeResultsDirectory="6331129a-2fb2-40cc-b2b1-54ae40085be6">
+    </UnitTestResult>
+    <UnitTestResult executionId="3be79607-78a5-40b8-ae56-88c891983ee4" testId="d0390afa-4a21-297c-771f-2a8050db7de4" testName="PopulateEpicPandaCashGalleries_PartyAll_Star" computerName="FIREFLY" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8ba83221-1a26-45ff-8a75-ce587dd12d36" relativeResultsDirectory="3be79607-78a5-40b8-ae56-88c891983ee4">
+    </UnitTestResult>
+    <UnitTestResult executionId="35778de8-ddc6-4cf3-a7fd-b2246bd8e8eb" testId="d4651545-402e-63fd-5727-2f619b78f07c" testName="PopulateZellysCashGalleries_BluEyedCass" computerName="FIREFLY" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8ba83221-1a26-45ff-8a75-ce587dd12d36" relativeResultsDirectory="35778de8-ddc6-4cf3-a7fd-b2246bd8e8eb">
+    </UnitTestResult>
+    <UnitTestResult executionId="9c45568f-c514-4868-b8ce-5cb44498c42d" testId="8328e058-f44f-1617-9580-129c03893814" testName="PopulateLatinTeenCashGalleries_CierraSpice" computerName="FIREFLY" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8ba83221-1a26-45ff-8a75-ce587dd12d36" relativeResultsDirectory="9c45568f-c514-4868-b8ce-5cb44498c42d">
+    </UnitTestResult>
+    <UnitTestResult executionId="c909de10-7492-4081-bab2-089f3b914fe9" testId="0833e762-dd78-d87c-6052-d9944bd1c4a8" testName="PopulateEpicPandaCashGalleries_SpencerNicks" computerName="FIREFLY" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8ba83221-1a26-45ff-8a75-ce587dd12d36" relativeResultsDirectory="c909de10-7492-4081-bab2-089f3b914fe9">
+    </UnitTestResult>
+    <UnitTestResult executionId="b43e6239-19a2-4bb4-9db7-16938dca3944" testId="076a81dd-d8a3-782a-c412-1ea2d0276610" testName="PopulatePinkVelvetVaultGalleries_BrianaLeeExtreme_Com" computerName="FIREFLY" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8ba83221-1a26-45ff-8a75-ce587dd12d36" relativeResultsDirectory="b43e6239-19a2-4bb4-9db7-16938dca3944">
+    </UnitTestResult>
+    <UnitTestResult executionId="6fcaa775-7534-4bef-bfd4-5c213c819b8f" testId="f796dec0-3ebb-a230-ecb5-c2c98ad99720" testName="PopulateLatinTeenCashGalleries_LaZonaModelos" computerName="FIREFLY" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8ba83221-1a26-45ff-8a75-ce587dd12d36" relativeResultsDirectory="6fcaa775-7534-4bef-bfd4-5c213c819b8f">
+    </UnitTestResult>
+    <UnitTestResult executionId="bf147c12-1bab-439a-b399-f6f102bb3433" testId="6af92fa9-0ccf-8383-ab91-02e618ce084c" testName="PopulateBellaCashGalleries_MonroeLee" computerName="FIREFLY" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8ba83221-1a26-45ff-8a75-ce587dd12d36" relativeResultsDirectory="bf147c12-1bab-439a-b399-f6f102bb3433">
+    </UnitTestResult>
+    <UnitTestResult executionId="53426b77-c4fa-4f7f-9a07-3749cf2aba83" testId="90275ed3-6b7f-be6c-3123-37a1d67aeee3" testName="PopulatePinkVelvetVaultGalleries_TaylorTrue" computerName="FIREFLY" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8ba83221-1a26-45ff-8a75-ce587dd12d36" relativeResultsDirectory="53426b77-c4fa-4f7f-9a07-3749cf2aba83">
+    </UnitTestResult>
+    <UnitTestResult executionId="ff64d376-b913-4e91-b5cd-12c6d6ffbc70" testId="70329624-f7cc-6664-b631-4cc70d51a00f" testName="PopulatePinkVelvetVaultGalleries_LynnPops_Com" computerName="FIREFLY" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8ba83221-1a26-45ff-8a75-ce587dd12d36" relativeResultsDirectory="ff64d376-b913-4e91-b5cd-12c6d6ffbc70">
+    </UnitTestResult>
+    <UnitTestResult executionId="2b177877-1586-4fc6-9cd3-0e89761bc151" testId="a54bbd81-de28-c5a1-9d12-ca028d3f093b" testName="PopulateLatinTeenCashGalleries_GigiSpice" computerName="FIREFLY" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8ba83221-1a26-45ff-8a75-ce587dd12d36" relativeResultsDirectory="2b177877-1586-4fc6-9cd3-0e89761bc151">
+    </UnitTestResult>
+    <UnitTestResult executionId="06c7eb15-0540-481f-939a-1bd3841cd378" testId="6f823177-fac0-1695-39d6-789688bb1a48" testName="PopulateEpicPandaCashGalleries_RachelSexton" computerName="FIREFLY" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8ba83221-1a26-45ff-8a75-ce587dd12d36" relativeResultsDirectory="06c7eb15-0540-481f-939a-1bd3841cd378">
+    </UnitTestResult>
+    <UnitTestResult executionId="cf70698c-23d1-4799-b51e-3ba7e6802c27" testId="09f339eb-e1ff-0d96-dca9-6e24e2f7cfbf" testName="PopulatePinkVelvetVaultGalleries_TiffanyAlexis_Com" computerName="FIREFLY" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8ba83221-1a26-45ff-8a75-ce587dd12d36" relativeResultsDirectory="cf70698c-23d1-4799-b51e-3ba7e6802c27">
+    </UnitTestResult>
+    <UnitTestResult executionId="9f6ad6ed-79d4-4578-8b49-6fdbd13df28f" testId="b561c79c-303d-25b6-3666-9b140d099ec6" testName="PopulatePinkVelvetVaultGalleries_BrianaLeeOnline" computerName="FIREFLY" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8ba83221-1a26-45ff-8a75-ce587dd12d36" relativeResultsDirectory="9f6ad6ed-79d4-4578-8b49-6fdbd13df28f">
+    </UnitTestResult>
+  </Results>
+</TestRun>

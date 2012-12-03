@@ -41,6 +41,18 @@ namespace PornCantina.Models
 			set;
 		}
 
+		public string Bio
+		{
+			get;
+			set;
+		}
+
+		public string AvatarImagePath
+		{
+			get;
+			set;
+		}
+
 		public Guid WebSiteId
 		{
 			get;

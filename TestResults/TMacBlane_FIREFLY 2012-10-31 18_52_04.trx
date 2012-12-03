@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="61ac9089-79dd-451a-95f7-60aca9c8cfeb" name="TMacBlane@FIREFLY 2012-10-31 18:52:04" runUser="Firefly\TMacBlane" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Default Test Settings" id="7a8e19e4-57a5-4a5d-8f04-103df7bd8032">
+    <Deployment runDeploymentRoot="TMacBlane_FIREFLY 2012-10-31 18_52_04">
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\AutomationFramework\bin\Debug\AutomationFramework.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\packages\SpecFlow.1.9.0\lib\net35\TechTalk.SpecFlow.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\PornCantina\bin\PornCantina.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\packages\Microsoft.AspNet.Mvc.4.0.20505.0\lib\net40\System.Web.Mvc.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\bin\Debug\WebDriver.Support.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\packages\Microsoft.AspNet.WebPages.2.0.20710.0\lib\net40\System.Web.Helpers.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\bin\Debug\WebDriver.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\packages\Microsoft.AspNet.WebPages.2.0.20710.0\lib\net40\System.Web.WebPages.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\packages\Microsoft.Web.Infrastructure.1.0.0.0\lib\net40\Microsoft.Web.Infrastructure.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\packages\Microsoft.AspNet.WebPages.2.0.20710.0\lib\net40\System.Web.WebPages.Deployment.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\packages\Microsoft.AspNet.WebPages.2.0.20710.0\lib\net40\System.Web.WebPages.Razor.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\bin\Debug\Ionic.Zip.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\packages\Microsoft.AspNet.Razor.2.0.20710.0\lib\net40\System.Web.Razor.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\bin\Debug\Castle.Core.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\bin\Debug\Newtonsoft.Json.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2012-10-31T18:52:04.0190000-04:00" queuing="2012-10-31T18:52:04.6240000-04:00" start="2012-10-31T18:52:04.6350000-04:00" finish="2012-10-31T18:53:17.2590000-04:00" />
+  <ResultSummary outcome="Inconclusive">
+    <Counters total="1" executed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="1" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="PopulateLatinTeenCashGalleries_Variant0" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" id="c5427ad7-facf-12dc-db19-c5da417c9681">
+      <Description>Populate LatinTeenCash Galleries</Description>
+      <Execution id="f43e4ae3-d9e2-4f2c-8cf6-8f12bc8e051f" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>LatinTeenCash</Value>
+        </Property>
+        <Property>
+          <Key>VariantName</Key>
+          <Value>Variant 0</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:type</Key>
+          <Value>Nude</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:modelName</Key>
+          <Value>Natalia Spice</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Users/TMacBlane/Documents/DevelopmentProjects/PornCantina.UIAutomation/bin/Debug/PornCantina.UIAutomation.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PornCantina.UIAutomation.Scenarios.LatinTeenCashFeature, PornCantina.UIAutomation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PopulateLatinTeenCashGalleries_Variant0" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="c5427ad7-facf-12dc-db19-c5da417c9681" executionId="f43e4ae3-d9e2-4f2c-8cf6-8f12bc8e051f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="f43e4ae3-d9e2-4f2c-8cf6-8f12bc8e051f" testId="c5427ad7-facf-12dc-db19-c5da417c9681" testName="PopulateLatinTeenCashGalleries_Variant0" computerName="FIREFLY" duration="00:01:12.0746731" startTime="2012-10-31T18:52:04.6620000-04:00" endTime="2012-10-31T18:53:17.2270000-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Inconclusive" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f43e4ae3-d9e2-4f2c-8cf6-8f12bc8e051f">
+      <Output>
+        <StdOut>Given I open the latinteencash page
+-&gt; done: StepDefinitions.IAmOnTheSpecifiedPage("latinteencash") (70.8s)
+Then I should be on the latinteencash page
+-&gt; done: StepDefinitions.IShouldBeOnTheSpecifiedPage("latinteencash") (0.0s)
+When I enter the LatinTeenCash ccbill id
+-&gt; pending: HostedGalleriesManagerStepDefinitions.WhenIEnterTheSpecifiedCcbillId("LatinTeenCash")
+Then I should be on the latinteencash page
+-&gt; skipped because of previous errors
+When I select the Natalia Spice latinteencash Nude site
+-&gt; skipped because of previous errors
+Then I should see the Natalia Spice - Nude latinteencash hosted galleries
+-&gt; skipped because of previous errors
+And I should create any new Natalia Spice latinteencash galleries
+-&gt; skipped because of previous errors</StdOut>
+        <ErrorInfo>
+          <Message>Assert.Inconclusive failed. One or more step definitions are not implemented yet.
+  HostedGalleriesManagerStepDefinitions.WhenIEnterTheSpecifiedCcbillId("LatinTeenCash")</Message>
+          <StackTrace>   at lambda_method(Closure , String , Object[] )
+   at TechTalk.SpecFlow.UnitTestProvider.MsTestRuntimeProvider.TestInconclusive(String message)
+   at TechTalk.SpecFlow.UnitTestProvider.MsTestRuntimeProvider.TestPending(String message)
+   at TechTalk.SpecFlow.ErrorHandling.ErrorProvider.ThrowPendingError(TestStatus testStatus, String message)
+   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.OnAfterLastStep()
+   at TechTalk.SpecFlow.TestRunner.CollectScenarioErrors()
+   at PornCantina.UIAutomation.Scenarios.LatinTeenCashFeature.ScenarioCleanup() in C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\Scenarios\LatinTeenCash.feature.cs:line 0
+   at PornCantina.UIAutomation.Scenarios.LatinTeenCashFeature.PopulateLatinTeenCashGalleries(String modelName, String type, String[] exampleTags) in c:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\Scenarios\LatinTeenCash.feature:line 12
+   at PornCantina.UIAutomation.Scenarios.LatinTeenCashFeature.PopulateLatinTeenCashGalleries_Variant0() in C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\Scenarios\LatinTeenCash.feature.cs:line 0
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

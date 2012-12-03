@@ -16,7 +16,7 @@
 				<a href="@Url.Action("Model", new { name = @item.GetModelName(item.ModelId), galleryId = item.Id })" title="@item.Title">@item.Title</a>
 			</h3>
 			<h3 class="title">
-				<a href="@Url.Action("Index", "Model", new { modelId = item.ModelId })">@item.GetModelName(item.ModelId)</a>
+				<a href="@Url.Action("Details", "Model", new { id = item.ModelId })">@item.GetModelName(item.ModelId)</a>
 			</h3>
 		  </li>
 	  }

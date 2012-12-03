@@ -13,7 +13,7 @@
 			<h2>>></h2>
 		</li>
 		<li>
-			<a href="@Url.Action("Index", "Model", new { modelId = Model.FirstOrDefault().GetModelId(Model.FirstOrDefault().GalleryId) })">
+			<a href="@Url.Action("Details", "Model", new { Id = Model.FirstOrDefault().GetModelId(Model.FirstOrDefault().GalleryId) })">
 				<h2>@Model.FirstOrDefault().GetModelName(Model.FirstOrDefault().GalleryId)</h2>
 			</a>
 		</li>

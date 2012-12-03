@@ -26,10 +26,10 @@ namespace PornCantina.Controllers
 			ViewBag.HasMore = galleries.HasNext;
 			ViewBag.CurrentPage = (page ?? 1);
 			ViewBag.FirstPage = 1;
-			ViewBag.LastPage = Math.Round((double)(GetModelGalleries(modelId).Count()/20), 0, MidpointRounding.AwayFromZero) + 1;
+			ViewBag.LastPage = Math.Round((double)(GetModelGalleries(modelId).Count() / 20), 0, MidpointRounding.AwayFromZero) + 1;
 			ViewBag.ModelId = modelId;
 
-			return View("Index", galleries);
+			return View("ImageGalleries", galleries);
 		}
 
 		public static PagedList<Gallery> GetModelGalleries(Guid modelId, int skip, int take)
@@ -116,9 +116,10 @@ namespace PornCantina.Controllers
 				db.SaveChanges();
 
 				// Create Model Folder
-				string basePath = @"Content\Images";
+				string basePath = @"Content\Models";
 				DirectoryInfo dInfo = new DirectoryInfo(AppDomain.CurrentDomain.BaseDirectory + basePath);
-				dInfo.CreateSubdirectory(model.Name.Replace(" ", string.Empty));
+				dInfo.CreateSubdirectory(model.Name.Replace(" ", string.Empty) + @"\ImageGalleries");
+				dInfo.CreateSubdirectory(model.Name.Replace(" ", string.Empty) + @"\Videos");
 
 				return RedirectToAction("Manage");
 			}

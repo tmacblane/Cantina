@@ -139,12 +139,32 @@
     </Compile>
     <Compile Include="Helpers\PagedList.cs" />
     <Compile Include="Helpers\PornCantinaHelper.cs" />
+    <Compile Include="Migrations\201209200343473_InitialCreate.cs" />
+    <Compile Include="Migrations\201209200343473_InitialCreate.Designer.cs">
+      <DependentUpon>201209200343473_InitialCreate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201210030241126_CreateContentTypeTable.cs" />
+    <Compile Include="Migrations\201210030241126_CreateContentTypeTable.Designer.cs">
+      <DependentUpon>201210030241126_CreateContentTypeTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201210030250278_CreateCategoryTable.cs" />
+    <Compile Include="Migrations\201210030250278_CreateCategoryTable.Designer.cs">
+      <DependentUpon>201210030250278_CreateCategoryTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201211112154368_AddBioColumnToModelTable.cs" />
+    <Compile Include="Migrations\201211112154368_AddBioColumnToModelTable.Designer.cs">
+      <DependentUpon>201211112154368_AddBioColumnToModelTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201211112330012_AddAvatarImagePathColumnForModelTable.cs" />
+    <Compile Include="Migrations\201211112330012_AddAvatarImagePathColumnForModelTable.Designer.cs">
+      <DependentUpon>201211112330012_AddAvatarImagePathColumnForModelTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountModels.cs" />
     <Compile Include="Models\Gallery.cs" />
     <Compile Include="Models\Image.cs" />
     <Compile Include="Models\Model.cs" />
     <Compile Include="Models\PornCantinaContext.cs" />
-    <Compile Include="Models\PornCantinaDataInitializer.cs" />
     <Compile Include="Models\WebSite.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ViewModels\GalleryCreateEditModel.cs" />
@@ -256,7 +276,7 @@
     <Content Include="Views\Model\Create.cshtml" />
     <Content Include="Views\Model\Details.cshtml" />
     <Content Include="Views\Model\Edit.cshtml" />
-    <Content Include="Views\Model\Index.cshtml" />
+    <Content Include="Views\Model\ImageGalleries.cshtml" />
     <Content Include="Views\Model\Manage.cshtml" />
     <Content Include="Views\Model\Model.cshtml" />
     <Content Include="Views\Model\_CreateEdit.cshtml" />
@@ -290,6 +310,29 @@
       <Project>{4A9C201B-01D9-49C9-B3F6-E754159CC24F}</Project>
       <Name>PornCantina.FFMpegFrameCapture</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\201209200343473_InitialCreate.resx">
+      <DependentUpon>201209200343473_InitialCreate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201210030241126_CreateContentTypeTable.resx">
+      <DependentUpon>201210030241126_CreateContentTypeTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201210030250278_CreateCategoryTable.resx">
+      <DependentUpon>201210030250278_CreateCategoryTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201211112154368_AddBioColumnToModelTable.resx">
+      <DependentUpon>201211112154368_AddBioColumnToModelTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201211112330012_AddAvatarImagePathColumnForModelTable.resx">
+      <DependentUpon>201211112330012_AddAvatarImagePathColumnForModelTable.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Views\Model\VideoGalleries.cshtml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Views\Model\Index.cshtml" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

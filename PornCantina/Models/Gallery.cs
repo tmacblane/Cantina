@@ -141,7 +141,7 @@ namespace PornCantina.Models
 
 		public int GetGalleryFolderImagesCount(string modelName, string folderName)
 		{
-			string basePath = string.Format(@"Content/Images/{0}/{1}", modelName.Replace(" ", string.Empty), folderName);
+			string basePath = string.Format(@"Content/Models/{0}/ImageGalleries/{1}", modelName.Replace(" ", string.Empty), folderName);
 			DirectoryInfo dInfo = new DirectoryInfo(AppDomain.CurrentDomain.BaseDirectory + basePath);
 
 			if(dInfo.Exists == false)

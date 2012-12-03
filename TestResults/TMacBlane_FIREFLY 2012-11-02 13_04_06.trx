@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="4a153a52-832e-4dbf-94b5-f57013e07876" name="TMacBlane@FIREFLY 2012-11-02 13:04:06" runUser="Firefly\TMacBlane" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Default Test Settings" id="26e41429-8881-40aa-8ba1-5bd6ce17a0e4">
+    <Deployment userDeploymentRoot="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\TestResults" useDefaultDeploymentRoot="false" runDeploymentRoot="TMacBlane_FIREFLY 2012-11-02 13_04_06">
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\packages\Microsoft.AspNet.WebPages.2.0.20710.0\lib\net40\System.Web.WebPages.Razor.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\packages\Microsoft.AspNet.Mvc.4.0.20505.0\lib\net40\System.Web.Mvc.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\bin\Debug\Castle.Core.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\packages\Microsoft.AspNet.Razor.2.0.20710.0\lib\net40\System.Web.Razor.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\PornCantina\bin\PornCantina.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\bin\Debug\WebDriver.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\packages\Microsoft.AspNet.WebPages.2.0.20710.0\lib\net40\System.Web.WebPages.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\bin\Debug\Newtonsoft.Json.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\packages\Selenium.Support.2.26.0\lib\net40\WebDriver.Support.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\bin\Debug\WebDriver.Support.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\packages\SpecFlow.1.9.0\lib\net35\TechTalk.SpecFlow.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\AutomationFramework\bin\Debug\AutomationFramework.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\packages\Microsoft.AspNet.WebPages.2.0.20710.0\lib\net40\System.Web.Helpers.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\packages\Microsoft.Web.Infrastructure.1.0.0.0\lib\net40\Microsoft.Web.Infrastructure.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\packages\Selenium.WebDriver.2.26.0\lib\net40\WebDriver.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\bin\Debug\Ionic.Zip.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\packages\Microsoft.AspNet.WebPages.2.0.20710.0\lib\net40\System.Web.WebPages.Deployment.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2012-11-02T13:04:06.2938343-04:00" queuing="2012-11-02T13:04:06.8278343-04:00" start="2012-11-02T13:04:06.8488343-04:00" finish="2012-11-02T13:05:33.2048343-04:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="PopulateBellaCashGalleries_AvaDawn" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" id="2272289c-032b-1243-7330-eb5092e584fc">
+      <Description>Populate BellaCash Galleries</Description>
+      <Execution id="9a42a593-e5ce-4260-87be-35ed203a9ff7" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>BellaCash</Value>
+        </Property>
+        <Property>
+          <Key>VariantName</Key>
+          <Value>Ava Dawn</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:modelName</Key>
+          <Value>Ava Dawn</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Users/TMacBlane/Documents/DevelopmentProjects/PornCantina.UIAutomation/bin/Debug/PornCantina.UIAutomation.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PornCantina.UIAutomation.Scenarios.BellaCashFeature, PornCantina.UIAutomation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PopulateBellaCashGalleries_AvaDawn" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="2272289c-032b-1243-7330-eb5092e584fc" executionId="9a42a593-e5ce-4260-87be-35ed203a9ff7" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="9a42a593-e5ce-4260-87be-35ed203a9ff7" testId="2272289c-032b-1243-7330-eb5092e584fc" testName="PopulateBellaCashGalleries_AvaDawn" computerName="FIREFLY" duration="00:01:25.7214046" startTime="2012-11-02T13:04:06.8738343-04:00" endTime="2012-11-02T13:05:33.0838343-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="9a42a593-e5ce-4260-87be-35ed203a9ff7">
+      <Output>
+        <StdOut>Given I open the bellacash page
+-&gt; done: StepDefinitions.IAmOnTheSpecifiedPage("bellacash") (72.6s)
+Then I should be on the bellacash page
+-&gt; done: StepDefinitions.IShouldBeOnTheSpecifiedPage("bellacash") (0.1s)
+When I select the Ava Dawn bellapass paysite
+-&gt; done: BellaCashStepDefinitions.WhenISelectTheSpecifiedPaysite("Ava Dawn") (0.5s)
+Then I should see the Ava Dawn bellapass hosted galleries
+-&gt; done: BellaCashStepDefinitions.ThenIShouldSeeTheSpecifiedHostedGalleries("Ava Dawn") (1.9s)
+And I should create any new Ava Dawn bellapass galleries
+-&gt; done: BellaCashStepDefinitions.ThenIShouldCreateAnyNewModelNameBellapassGalleries("Ava Dawn") (9.2s)</StdOut>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

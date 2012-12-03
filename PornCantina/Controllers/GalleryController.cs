@@ -76,7 +76,7 @@ namespace PornCantina.Controllers
 				db.SaveChanges();
 
 				// Create Gallery Folder
-				string basePath = "Content/Images/" + gallery.GetModelName(gallery.ModelId).Replace(" ", string.Empty);
+				string basePath = "Content/Models/" + gallery.GetModelName(gallery.ModelId).Replace(" ", string.Empty) + "/ImageGalleries";
 				DirectoryInfo dInfo = new DirectoryInfo(AppDomain.CurrentDomain.BaseDirectory + basePath);
 				dInfo.CreateSubdirectory(gallery.Folder.Replace(" ", string.Empty));
 
@@ -242,7 +242,7 @@ namespace PornCantina.Controllers
 
 		public ActionResult PopulateGalleryImages(string modelName, string folderName)
 		{
-			string basePath = string.Format(@"Content/Images/{0}/{1}", modelName.Replace(" ", string.Empty), folderName);
+			string basePath = string.Format(@"Content/Models/{0}/ImageGalleries/{1}", modelName.Replace(" ", string.Empty), folderName);
 			DirectoryInfo dInfo = new DirectoryInfo(AppDomain.CurrentDomain.BaseDirectory + basePath);
 
 			Guid modelId = db.Models.Where(m => m.Name.Replace(" ", string.Empty) == modelName.Replace(" ", string.Empty)).FirstOrDefault().Id;
@@ -287,7 +287,7 @@ namespace PornCantina.Controllers
 
 		public ActionResult RenameAndCreateThumbnails(string modelName, string folderName)
 		{
-			string basePath = string.Format("Content/Images/{0}/{1}", modelName.Replace(" ", string.Empty), folderName);
+			string basePath = string.Format("Content/Models/{0}/ImageGalleries/{1}", modelName.Replace(" ", string.Empty), folderName);
 			DirectoryInfo dInfo = new DirectoryInfo(AppDomain.CurrentDomain.BaseDirectory + basePath);
 
 			int i = 1;
@@ -444,7 +444,7 @@ namespace PornCantina.Controllers
 
 		public void PopulateGalleryImage()
 		{
-			string basePath = @"Content/Images";
+			string basePath = @"Content/Models";
 			DirectoryInfo dInfo = new DirectoryInfo(AppDomain.CurrentDomain.BaseDirectory + basePath);
 
 			using(var context = new PornCantinaContext())
@@ -452,8 +452,9 @@ namespace PornCantina.Controllers
 				// iterate through each model folder
 				foreach(var modelRootFolder in dInfo.GetDirectories())
 				{
+					DirectoryInfo modelImageGalleryFolder = new DirectoryInfo(AppDomain.CurrentDomain.BaseDirectory + modelRootFolder + "ImageGalleries");
 					// iterate through each gallery folder
-					foreach(var galleryFolder in modelRootFolder.GetDirectories())
+					foreach(var galleryFolder in modelImageGalleryFolder.GetDirectories())
 					{
 						this.PopulateGalleryImages(modelRootFolder.Name, galleryFolder.Name);
 					}

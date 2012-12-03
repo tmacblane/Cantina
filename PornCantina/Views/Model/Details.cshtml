@@ -1,25 +1,38 @@
 ﻿@model PornCantina.Models.Model
 
-@{
-    ViewBag.Title = "Details";
-}
+<div id="mainPanel">
+	<div id="modelInfoPanel">
+		<div id="modelAvatar">
+			<a href="@Model.WebSite.ReferralLink" target="_blank">
+				<img src="../../@Model.AvatarImagePath/Avatar.jpg" alt="Avatar.jpg" />
+			</a>
+		</div>
+		<div id="modelInfo">
+			<h1>@Html.DisplayFor(model => model.Name)</h1>
+			<h4><a href="@Model.WebSite.ReferralLink" target="_blank">@Html.DisplayFor(website => Model.WebSite.Name)</a></h4>
+			<hr />
+			@Html.Raw(@Model.Bio)
+		</div>
+		<div id="modelStats">
+			<ul>
+				<li>
+					<a href="@Url.Action("Index", "Model", new { modelId = Model.Id })">@Model.GetActiveGalleryCountByModel(@Model.Id)</a></li>
+				<li>Image Galleries</li>
+				<li> | </li>
+				<li></li>
+				<li>Videos</li>
+			</ul>
+		</div>
+	</div>
 
-<h2>Details</h2>
-
-<fieldset>
-    <legend>Model</legend>
-
-    <div class="display-label">Name</div>
-    <div class="display-field">
-        @Html.DisplayFor(model => model.Name)
-    </div>
-
-    <div class="display-label">WebSiteId</div>
-    <div class="display-field">
-        @Html.DisplayFor(model => model.WebSiteId)
-    </div>
-</fieldset>
-<p>
-    @Html.ActionLink("Edit", "Edit", new { id=Model.Id }) |
-    @Html.ActionLink("Back to List", "Manage")
-</p>
+	<div id="latestUpdates">
+		<div>
+			<h3>Latest Image Galleries</h3>
+		</div>
+		<div>
+			<h3>Latest Videos</h3>
+		</div>
+	</div>
+</div>
+<div id="ads">
+</div>

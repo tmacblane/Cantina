@@ -240,6 +240,7 @@ body
 	float: left;
 }
 
+#mainPanel,
 #thumbnails 
 {
 	margin: 20px 10px 20px 20px;
@@ -285,6 +286,74 @@ body
 {
 	margin: 10px;
 	width: 128px;
+}
+
+#modelInfoPanel
+{
+	margin: 10px;
+	color: #EEEEEE;
+}
+
+#modelInfoPanel,
+#modelStats,
+#latestUpdates
+{
+	width: 100%;
+	float: left;
+	position: relative;
+}
+
+#modelAvatar
+{
+	width: 235px;
+	height: 300px;
+	margin: 0 10px 10px 0;
+	float: left;
+}
+
+#modelAvatar img
+{
+	border: 1px solid #eff;
+}
+
+#modelInfo
+{
+	margin: 0 10px 10px 10px;
+}
+
+#modelInfo h1
+{
+	font-size: 30px;
+}
+
+#modelInfo hr
+{
+	margin: 10px 10px 10px 0;
+}
+
+#modelStats li
+{
+	float: left;
+	list-style-type: none;
+	padding: 0 10px 0 0;
+}
+
+#modelInfoPanel a,
+#modelStats a
+{
+	color: #EEEEEE;
+}
+
+#modelInfoPanel a:visited,
+#modelStats a:visited
+{
+	color: #EEEEEE;
+}
+
+#latestUpdates h3
+{
+	color: #EEEEEE;
+	margin-top: 15px;
 }
 
 ul

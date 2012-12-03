@@ -1,11 +1,5 @@
 ﻿@model IEnumerable<PornCantina.Models.Model>
 
-@{
-    ViewBag.Title = "Index";
-}
-
-<h2>Index</h2>
-
 <p>
     @Html.ActionLink("Create New", "Create")
 </p>
@@ -32,7 +26,7 @@
     <tbody>
         <tr>
             <td>
-                @Html.DisplayFor(modelItem => item.Name)
+				<a href="@Url.Action("Details", "Model", new { Id = item.Id })">@Html.DisplayFor(modelItem => item.Name)</a>
             </td>
             <td>
                 @item.GetActiveGalleryCountByModel(item.Id)

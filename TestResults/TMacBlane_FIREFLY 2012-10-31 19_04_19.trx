@@ -1,0 +1,975 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="b94f29d9-5ff1-4bab-a626-60e0f3970760" name="TMacBlane@FIREFLY 2012-10-31 19:04:19" runUser="Firefly\TMacBlane" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Default Test Settings" id="cd9c8a19-4dde-4163-a3c9-7f559949bbc2">
+    <Deployment runDeploymentRoot="TMacBlane_FIREFLY 2012-10-31 19_04_19">
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\AutomationFramework\bin\Debug\AutomationFramework.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\packages\SpecFlow.1.9.0\lib\net35\TechTalk.SpecFlow.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\PornCantina\bin\PornCantina.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\packages\Microsoft.AspNet.Mvc.4.0.20505.0\lib\net40\System.Web.Mvc.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\bin\Debug\WebDriver.Support.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\packages\Microsoft.AspNet.WebPages.2.0.20710.0\lib\net40\System.Web.Helpers.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\bin\Debug\WebDriver.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\packages\Microsoft.AspNet.WebPages.2.0.20710.0\lib\net40\System.Web.WebPages.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\packages\Microsoft.Web.Infrastructure.1.0.0.0\lib\net40\Microsoft.Web.Infrastructure.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\packages\Microsoft.AspNet.WebPages.2.0.20710.0\lib\net40\System.Web.WebPages.Deployment.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\packages\Microsoft.AspNet.WebPages.2.0.20710.0\lib\net40\System.Web.WebPages.Razor.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\bin\Debug\Ionic.Zip.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\packages\Microsoft.AspNet.Razor.2.0.20710.0\lib\net40\System.Web.Razor.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\bin\Debug\Castle.Core.dll" />
+      <DeploymentItem filename="C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\bin\Debug\Newtonsoft.Json.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2012-10-31T19:04:19.0160000-04:00" queuing="2012-10-31T19:04:19.7800000-04:00" start="2012-10-31T19:04:19.8100000-04:00" finish="2012-10-31T20:06:56.5700000-04:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="21" executed="21" passed="19" error="0" failed="2" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="PopulateLatinTeenCashGalleries_Variant20" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" id="16c69607-987e-79af-3a1a-509f4f235130">
+      <Description>Populate LatinTeenCash Galleries</Description>
+      <Execution id="9403439f-5334-424b-9f44-14f74ece3df6" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>LatinTeenCash</Value>
+        </Property>
+        <Property>
+          <Key>VariantName</Key>
+          <Value>Variant 20</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:type</Key>
+          <Value>Nude</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:modelName</Key>
+          <Value>Bella Spice</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Users/TMacBlane/Documents/DevelopmentProjects/PornCantina.UIAutomation/bin/Debug/PornCantina.UIAutomation.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PornCantina.UIAutomation.Scenarios.LatinTeenCashFeature, PornCantina.UIAutomation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PopulateLatinTeenCashGalleries_Variant20" />
+    </UnitTest>
+    <UnitTest name="PopulateLatinTeenCashGalleries_Variant11" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" id="3ea170a6-232f-1a8b-470c-516442333b57">
+      <Description>Populate LatinTeenCash Galleries</Description>
+      <Execution id="05a1ada7-7bb2-4090-8fd1-8eb55c95dea2" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>LatinTeenCash</Value>
+        </Property>
+        <Property>
+          <Key>VariantName</Key>
+          <Value>Variant 11</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:type</Key>
+          <Value>Non-Nude</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:modelName</Key>
+          <Value>Cierra Spice</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Users/TMacBlane/Documents/DevelopmentProjects/PornCantina.UIAutomation/bin/Debug/PornCantina.UIAutomation.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PornCantina.UIAutomation.Scenarios.LatinTeenCashFeature, PornCantina.UIAutomation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PopulateLatinTeenCashGalleries_Variant11" />
+    </UnitTest>
+    <UnitTest name="PopulateLatinTeenCashGalleries_Variant13" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" id="7a4fd888-ae81-b2c6-dcaa-b5ea7e3af7d4">
+      <Description>Populate LatinTeenCash Galleries</Description>
+      <Execution id="46cdb769-c36c-462a-8d22-9387e343d080" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>LatinTeenCash</Value>
+        </Property>
+        <Property>
+          <Key>VariantName</Key>
+          <Value>Variant 13</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:type</Key>
+          <Value>Non-Nude</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:modelName</Key>
+          <Value>Pamela Spice</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Users/TMacBlane/Documents/DevelopmentProjects/PornCantina.UIAutomation/bin/Debug/PornCantina.UIAutomation.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PornCantina.UIAutomation.Scenarios.LatinTeenCashFeature, PornCantina.UIAutomation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PopulateLatinTeenCashGalleries_Variant13" />
+    </UnitTest>
+    <UnitTest name="PopulateLatinTeenCashGalleries_Variant10" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" id="e216ad41-6006-2aef-fac9-ee3cc9d96dee">
+      <Description>Populate LatinTeenCash Galleries</Description>
+      <Execution id="cb729f85-9e95-4cd9-9372-a157921545e6" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>LatinTeenCash</Value>
+        </Property>
+        <Property>
+          <Key>VariantName</Key>
+          <Value>Variant 10</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:type</Key>
+          <Value>Nude</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:modelName</Key>
+          <Value>Cierra Spice</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Users/TMacBlane/Documents/DevelopmentProjects/PornCantina.UIAutomation/bin/Debug/PornCantina.UIAutomation.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PornCantina.UIAutomation.Scenarios.LatinTeenCashFeature, PornCantina.UIAutomation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PopulateLatinTeenCashGalleries_Variant10" />
+    </UnitTest>
+    <UnitTest name="PopulateLatinTeenCashGalleries_Variant17" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" id="afa7297d-b6db-b3ed-a003-c6b2b846be5b">
+      <Description>Populate LatinTeenCash Galleries</Description>
+      <Execution id="3e799787-be01-4165-8e5b-6858b4935ad4" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>LatinTeenCash</Value>
+        </Property>
+        <Property>
+          <Key>VariantName</Key>
+          <Value>Variant 17</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:type</Key>
+          <Value>Non-Nude</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:modelName</Key>
+          <Value>Spice Twins</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Users/TMacBlane/Documents/DevelopmentProjects/PornCantina.UIAutomation/bin/Debug/PornCantina.UIAutomation.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PornCantina.UIAutomation.Scenarios.LatinTeenCashFeature, PornCantina.UIAutomation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PopulateLatinTeenCashGalleries_Variant17" />
+    </UnitTest>
+    <UnitTest name="PopulateLatinTeenCashGalleries_Variant2" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" id="203358cd-54fb-717b-ab0f-d1c9d21b01dd">
+      <Description>Populate LatinTeenCash Galleries</Description>
+      <Execution id="fc135ad2-f666-4b2e-8cca-7530efd6b671" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>LatinTeenCash</Value>
+        </Property>
+        <Property>
+          <Key>VariantName</Key>
+          <Value>Variant 2</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:type</Key>
+          <Value>Nude</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:modelName</Key>
+          <Value>La Zona Modelos</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Users/TMacBlane/Documents/DevelopmentProjects/PornCantina.UIAutomation/bin/Debug/PornCantina.UIAutomation.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PornCantina.UIAutomation.Scenarios.LatinTeenCashFeature, PornCantina.UIAutomation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PopulateLatinTeenCashGalleries_Variant2" />
+    </UnitTest>
+    <UnitTest name="PopulateLatinTeenCashGalleries_Variant19" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" id="f3be4903-47e6-c00d-22f0-27bf70ae2658">
+      <Description>Populate LatinTeenCash Galleries</Description>
+      <Execution id="35e92387-197f-4ea1-bbe1-dc47ef3ee3f0" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>LatinTeenCash</Value>
+        </Property>
+        <Property>
+          <Key>VariantName</Key>
+          <Value>Variant 19</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:type</Key>
+          <Value>Non-Nude</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:modelName</Key>
+          <Value>Mariah Spice</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Users/TMacBlane/Documents/DevelopmentProjects/PornCantina.UIAutomation/bin/Debug/PornCantina.UIAutomation.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PornCantina.UIAutomation.Scenarios.LatinTeenCashFeature, PornCantina.UIAutomation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PopulateLatinTeenCashGalleries_Variant19" />
+    </UnitTest>
+    <UnitTest name="PopulateLatinTeenCashGalleries_Variant6" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" id="92986006-91a2-3709-e0d6-d64f1e16b930">
+      <Description>Populate LatinTeenCash Galleries</Description>
+      <Execution id="6626fb45-ae75-42ec-9cc1-cfe42bc29d42" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>LatinTeenCash</Value>
+        </Property>
+        <Property>
+          <Key>VariantName</Key>
+          <Value>Variant 6</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:type</Key>
+          <Value>Non-Nude</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:modelName</Key>
+          <Value>Gigi Spice</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Users/TMacBlane/Documents/DevelopmentProjects/PornCantina.UIAutomation/bin/Debug/PornCantina.UIAutomation.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PornCantina.UIAutomation.Scenarios.LatinTeenCashFeature, PornCantina.UIAutomation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PopulateLatinTeenCashGalleries_Variant6" />
+    </UnitTest>
+    <UnitTest name="PopulateLatinTeenCashGalleries_Variant16" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" id="bb502de1-a289-69c7-7649-f025132a5dec">
+      <Description>Populate LatinTeenCash Galleries</Description>
+      <Execution id="52d840c2-83c1-40ed-8d3e-2def979407c8" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>LatinTeenCash</Value>
+        </Property>
+        <Property>
+          <Key>VariantName</Key>
+          <Value>Variant 16</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:type</Key>
+          <Value>Non-Nude</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:modelName</Key>
+          <Value>Selena Spice</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Users/TMacBlane/Documents/DevelopmentProjects/PornCantina.UIAutomation/bin/Debug/PornCantina.UIAutomation.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PornCantina.UIAutomation.Scenarios.LatinTeenCashFeature, PornCantina.UIAutomation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PopulateLatinTeenCashGalleries_Variant16" />
+    </UnitTest>
+    <UnitTest name="PopulateLatinTeenCashGalleries_Variant21" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" id="9444d2b5-3154-e44a-db1d-ac9f984c4ea1">
+      <Description>Populate LatinTeenCash Galleries</Description>
+      <Execution id="a5cbbb87-19b1-4d50-aad0-a6701a596fcc" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>LatinTeenCash</Value>
+        </Property>
+        <Property>
+          <Key>VariantName</Key>
+          <Value>Variant 21</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:type</Key>
+          <Value>Non-Nude</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:modelName</Key>
+          <Value>Bella Spice</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Users/TMacBlane/Documents/DevelopmentProjects/PornCantina.UIAutomation/bin/Debug/PornCantina.UIAutomation.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PornCantina.UIAutomation.Scenarios.LatinTeenCashFeature, PornCantina.UIAutomation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PopulateLatinTeenCashGalleries_Variant21" />
+    </UnitTest>
+    <UnitTest name="PopulateLatinTeenCashGalleries_Variant15" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" id="57581509-d70d-4920-7d9f-39badeded11a">
+      <Description>Populate LatinTeenCash Galleries</Description>
+      <Execution id="a067f54b-bd9d-4467-9ea8-f544b08d915c" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>LatinTeenCash</Value>
+        </Property>
+        <Property>
+          <Key>VariantName</Key>
+          <Value>Variant 15</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:type</Key>
+          <Value>Non-Nude</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:modelName</Key>
+          <Value>Pacinos World</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Users/TMacBlane/Documents/DevelopmentProjects/PornCantina.UIAutomation/bin/Debug/PornCantina.UIAutomation.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PornCantina.UIAutomation.Scenarios.LatinTeenCashFeature, PornCantina.UIAutomation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PopulateLatinTeenCashGalleries_Variant15" />
+    </UnitTest>
+    <UnitTest name="PopulateLatinTeenCashGalleries_Variant12" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" id="4d1e82ca-50ef-d24f-0d8e-3ce5b4dc2243">
+      <Description>Populate LatinTeenCash Galleries</Description>
+      <Execution id="960deec3-9470-4167-b034-555d38025fe2" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>LatinTeenCash</Value>
+        </Property>
+        <Property>
+          <Key>VariantName</Key>
+          <Value>Variant 12</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:type</Key>
+          <Value>Nude</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:modelName</Key>
+          <Value>Pamela Spice</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Users/TMacBlane/Documents/DevelopmentProjects/PornCantina.UIAutomation/bin/Debug/PornCantina.UIAutomation.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PornCantina.UIAutomation.Scenarios.LatinTeenCashFeature, PornCantina.UIAutomation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PopulateLatinTeenCashGalleries_Variant12" />
+    </UnitTest>
+    <UnitTest name="PopulateLatinTeenCashGalleries_Variant7" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" id="3f31a9ac-4114-804d-d0f6-f17f79f5bf80">
+      <Description>Populate LatinTeenCash Galleries</Description>
+      <Execution id="b20acf93-60ef-401b-9418-9879336ff245" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>LatinTeenCash</Value>
+        </Property>
+        <Property>
+          <Key>VariantName</Key>
+          <Value>Variant 7</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:type</Key>
+          <Value>Nude</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:modelName</Key>
+          <Value>Tania Spice</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Users/TMacBlane/Documents/DevelopmentProjects/PornCantina.UIAutomation/bin/Debug/PornCantina.UIAutomation.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PornCantina.UIAutomation.Scenarios.LatinTeenCashFeature, PornCantina.UIAutomation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PopulateLatinTeenCashGalleries_Variant7" />
+    </UnitTest>
+    <UnitTest name="PopulateLatinTeenCashGalleries_Variant4" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" id="99302bfa-907f-3800-327d-e8a756ac0e33">
+      <Description>Populate LatinTeenCash Galleries</Description>
+      <Execution id="3d6368fb-013e-4d04-94c6-eb33034a21a3" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>LatinTeenCash</Value>
+        </Property>
+        <Property>
+          <Key>VariantName</Key>
+          <Value>Variant 4</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:type</Key>
+          <Value>Nude</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:modelName</Key>
+          <Value>Pacino Network Pass</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Users/TMacBlane/Documents/DevelopmentProjects/PornCantina.UIAutomation/bin/Debug/PornCantina.UIAutomation.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PornCantina.UIAutomation.Scenarios.LatinTeenCashFeature, PornCantina.UIAutomation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PopulateLatinTeenCashGalleries_Variant4" />
+    </UnitTest>
+    <UnitTest name="PopulateLatinTeenCashGalleries_Variant18" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" id="14470d4e-46fc-42a5-2328-ae6a499a9e8a">
+      <Description>Populate LatinTeenCash Galleries</Description>
+      <Execution id="e6753355-f528-423a-90d6-3f4ee0f2b0d4" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>LatinTeenCash</Value>
+        </Property>
+        <Property>
+          <Key>VariantName</Key>
+          <Value>Variant 18</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:type</Key>
+          <Value>Nude</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:modelName</Key>
+          <Value>Mariah Spice</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Users/TMacBlane/Documents/DevelopmentProjects/PornCantina.UIAutomation/bin/Debug/PornCantina.UIAutomation.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PornCantina.UIAutomation.Scenarios.LatinTeenCashFeature, PornCantina.UIAutomation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PopulateLatinTeenCashGalleries_Variant18" />
+    </UnitTest>
+    <UnitTest name="PopulateLatinTeenCashGalleries_Variant9" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" id="9b5b20bb-c094-3a9d-9b66-a85e25612da9">
+      <Description>Populate LatinTeenCash Galleries</Description>
+      <Execution id="f1e1a8bc-db1f-4556-9520-d7544cfc19b0" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>LatinTeenCash</Value>
+        </Property>
+        <Property>
+          <Key>VariantName</Key>
+          <Value>Variant 9</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:type</Key>
+          <Value>Non-Nude</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:modelName</Key>
+          <Value>Karla Spice</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Users/TMacBlane/Documents/DevelopmentProjects/PornCantina.UIAutomation/bin/Debug/PornCantina.UIAutomation.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PornCantina.UIAutomation.Scenarios.LatinTeenCashFeature, PornCantina.UIAutomation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PopulateLatinTeenCashGalleries_Variant9" />
+    </UnitTest>
+    <UnitTest name="PopulateLatinTeenCashGalleries_Variant8" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" id="cc41ee60-814c-4d95-ef8b-2742ca92d77e">
+      <Description>Populate LatinTeenCash Galleries</Description>
+      <Execution id="43cd7711-bc2c-49c7-998b-07f7f6a1e9dc" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>LatinTeenCash</Value>
+        </Property>
+        <Property>
+          <Key>VariantName</Key>
+          <Value>Variant 8</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:type</Key>
+          <Value>Non-Nude</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:modelName</Key>
+          <Value>Tania Spice</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Users/TMacBlane/Documents/DevelopmentProjects/PornCantina.UIAutomation/bin/Debug/PornCantina.UIAutomation.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PornCantina.UIAutomation.Scenarios.LatinTeenCashFeature, PornCantina.UIAutomation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PopulateLatinTeenCashGalleries_Variant8" />
+    </UnitTest>
+    <UnitTest name="PopulateLatinTeenCashGalleries_Variant1" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" id="a23b7ba6-2402-60ef-65fb-6d72c73c98b8">
+      <Description>Populate LatinTeenCash Galleries</Description>
+      <Execution id="c8a3e28a-e0f4-402a-8f9a-d47a7f7af5d5" />
+      <Properties>
+        <Property>
+          <Key>Parameter:type</Key>
+          <Value>Nude</Value>
+        </Property>
+        <Property>
+          <Key>VariantName</Key>
+          <Value>Variant 1</Value>
+        </Property>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>LatinTeenCash</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:modelName</Key>
+          <Value>Pacinos Adventures</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Users/TMacBlane/Documents/DevelopmentProjects/PornCantina.UIAutomation/bin/Debug/PornCantina.UIAutomation.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PornCantina.UIAutomation.Scenarios.LatinTeenCashFeature, PornCantina.UIAutomation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PopulateLatinTeenCashGalleries_Variant1" />
+    </UnitTest>
+    <UnitTest name="PopulateLatinTeenCashGalleries_Variant5" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" id="4ccc18d3-fc2d-0802-56ed-d9c3d5960ca9">
+      <Description>Populate LatinTeenCash Galleries</Description>
+      <Execution id="9dc4cc48-df75-4ad9-bd7e-4f5acf257d37" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>LatinTeenCash</Value>
+        </Property>
+        <Property>
+          <Key>VariantName</Key>
+          <Value>Variant 5</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:type</Key>
+          <Value>Nude</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:modelName</Key>
+          <Value>Gigi Spice</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Users/TMacBlane/Documents/DevelopmentProjects/PornCantina.UIAutomation/bin/Debug/PornCantina.UIAutomation.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PornCantina.UIAutomation.Scenarios.LatinTeenCashFeature, PornCantina.UIAutomation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PopulateLatinTeenCashGalleries_Variant5" />
+    </UnitTest>
+    <UnitTest name="PopulateLatinTeenCashGalleries_Variant3" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" id="ab6ee543-c123-45bb-c9a1-d634ddfcca43">
+      <Description>Populate LatinTeenCash Galleries</Description>
+      <Execution id="b7b5ca96-8d52-4f83-8c81-0d13a2692884" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>LatinTeenCash</Value>
+        </Property>
+        <Property>
+          <Key>VariantName</Key>
+          <Value>Variant 3</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:type</Key>
+          <Value>Non-Nude</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:modelName</Key>
+          <Value>La Zona Modelos</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Users/TMacBlane/Documents/DevelopmentProjects/PornCantina.UIAutomation/bin/Debug/PornCantina.UIAutomation.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PornCantina.UIAutomation.Scenarios.LatinTeenCashFeature, PornCantina.UIAutomation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PopulateLatinTeenCashGalleries_Variant3" />
+    </UnitTest>
+    <UnitTest name="PopulateLatinTeenCashGalleries_Variant14" storage="c:\users\tmacblane\documents\developmentprojects\porncantina.uiautomation\bin\debug\porncantina.uiautomation.dll" id="f61ffacc-dbbe-6677-45d4-d60f474c0e5c">
+      <Description>Populate LatinTeenCash Galleries</Description>
+      <Execution id="d3cd6814-0748-4cb6-9380-b3d8f22710ff" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>LatinTeenCash</Value>
+        </Property>
+        <Property>
+          <Key>VariantName</Key>
+          <Value>Variant 14</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:type</Key>
+          <Value>Nude</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:modelName</Key>
+          <Value>Pacinos World</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Users/TMacBlane/Documents/DevelopmentProjects/PornCantina.UIAutomation/bin/Debug/PornCantina.UIAutomation.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PornCantina.UIAutomation.Scenarios.LatinTeenCashFeature, PornCantina.UIAutomation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PopulateLatinTeenCashGalleries_Variant14" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="9444d2b5-3154-e44a-db1d-ac9f984c4ea1" executionId="a5cbbb87-19b1-4d50-aad0-a6701a596fcc" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="14470d4e-46fc-42a5-2328-ae6a499a9e8a" executionId="e6753355-f528-423a-90d6-3f4ee0f2b0d4" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="bb502de1-a289-69c7-7649-f025132a5dec" executionId="52d840c2-83c1-40ed-8d3e-2def979407c8" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ab6ee543-c123-45bb-c9a1-d634ddfcca43" executionId="b7b5ca96-8d52-4f83-8c81-0d13a2692884" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f61ffacc-dbbe-6677-45d4-d60f474c0e5c" executionId="d3cd6814-0748-4cb6-9380-b3d8f22710ff" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="7a4fd888-ae81-b2c6-dcaa-b5ea7e3af7d4" executionId="46cdb769-c36c-462a-8d22-9387e343d080" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="9b5b20bb-c094-3a9d-9b66-a85e25612da9" executionId="f1e1a8bc-db1f-4556-9520-d7544cfc19b0" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="4ccc18d3-fc2d-0802-56ed-d9c3d5960ca9" executionId="9dc4cc48-df75-4ad9-bd7e-4f5acf257d37" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="4d1e82ca-50ef-d24f-0d8e-3ce5b4dc2243" executionId="960deec3-9470-4167-b034-555d38025fe2" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="16c69607-987e-79af-3a1a-509f4f235130" executionId="9403439f-5334-424b-9f44-14f74ece3df6" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a23b7ba6-2402-60ef-65fb-6d72c73c98b8" executionId="c8a3e28a-e0f4-402a-8f9a-d47a7f7af5d5" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="99302bfa-907f-3800-327d-e8a756ac0e33" executionId="3d6368fb-013e-4d04-94c6-eb33034a21a3" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="e216ad41-6006-2aef-fac9-ee3cc9d96dee" executionId="cb729f85-9e95-4cd9-9372-a157921545e6" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="3f31a9ac-4114-804d-d0f6-f17f79f5bf80" executionId="b20acf93-60ef-401b-9418-9879336ff245" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="92986006-91a2-3709-e0d6-d64f1e16b930" executionId="6626fb45-ae75-42ec-9cc1-cfe42bc29d42" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="afa7297d-b6db-b3ed-a003-c6b2b846be5b" executionId="3e799787-be01-4165-8e5b-6858b4935ad4" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="203358cd-54fb-717b-ab0f-d1c9d21b01dd" executionId="fc135ad2-f666-4b2e-8cca-7530efd6b671" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f3be4903-47e6-c00d-22f0-27bf70ae2658" executionId="35e92387-197f-4ea1-bbe1-dc47ef3ee3f0" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="57581509-d70d-4920-7d9f-39badeded11a" executionId="a067f54b-bd9d-4467-9ea8-f544b08d915c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="3ea170a6-232f-1a8b-470c-516442333b57" executionId="05a1ada7-7bb2-4090-8fd1-8eb55c95dea2" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="cc41ee60-814c-4d95-ef8b-2742ca92d77e" executionId="43cd7711-bc2c-49c7-998b-07f7f6a1e9dc" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="a5cbbb87-19b1-4d50-aad0-a6701a596fcc" testId="9444d2b5-3154-e44a-db1d-ac9f984c4ea1" testName="PopulateLatinTeenCashGalleries_Variant21" computerName="FIREFLY" duration="00:01:24.3346692" startTime="2012-10-31T19:04:19.8150000-04:00" endTime="2012-10-31T19:05:44.6230000-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a5cbbb87-19b1-4d50-aad0-a6701a596fcc">
+      <Output>
+        <StdOut>Given I open the latinteencash page
+-&gt; done: StepDefinitions.IAmOnTheSpecifiedPage("latinteencash") (71.0s)
+Then I should be on the latinteencash page
+-&gt; done: StepDefinitions.IShouldBeOnTheSpecifiedPage("latinteencash") (0.0s)
+When I enter the LatinTeenCash ccbill id
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenIEnterTheSpecifiedCcbillId("LatinTeenCash") (1.9s)
+Then I should be on the latinteencash page
+-&gt; done: StepDefinitions.IShouldBeOnTheSpecifiedPage("latinteencash") (0.0s)
+When I select the Bella Spice latinteencash Non-Nude site
+-&gt; error: Unable to locate element: {"method":"xpath","selector":"//table/tbody/tr/td[2]/table[2]/tbody/tr[4]/td/table/tbody/tr[5]/td[7]/font/a[text()='Non-Nude']"}
+Then I should see the Bella Spice - Non-Nude latinteencash hosted galleries
+-&gt; skipped because of previous errors
+And I should create any new Bella Spice latinteencash galleries
+-&gt; skipped because of previous errors</StdOut>
+        <ErrorInfo>
+          <Message>Test method PornCantina.UIAutomation.Scenarios.LatinTeenCashFeature.PopulateLatinTeenCashGalleries_Variant21 threw exception: 
+OpenQA.Selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//table/tbody/tr/td[2]/table[2]/tbody/tr[4]/td/table/tbody/tr[5]/td[7]/font/a[text()='Non-Nude']"}</Message>
+          <StackTrace>    at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElementByXPath(String xpath)
+   at OpenQA.Selenium.By.&lt;&gt;c__DisplayClasse.&lt;XPath&gt;b__c(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(By by)
+   at AutomationFramework.BrowserHelper.GetElementByXPath(IWebDriver driver, String locator, String additionalLocatorPath) in C:\Users\TMacBlane\Documents\DevelopmentProjects\AutomationFramework\Classes\BrowserHelper.cs:line 106
+   at AutomationFramework.BrowserHelper.GetElement(IWebDriver driver, String locator, String additionalLocatorPath) in C:\Users\TMacBlane\Documents\DevelopmentProjects\AutomationFramework\Classes\BrowserHelper.cs:line 25
+   at AutomationFramework.WebBrowser.Click(String locator, String additionalLocatorPath) in C:\Users\TMacBlane\Documents\DevelopmentProjects\AutomationFramework\Classes\WebBrowser.cs:line 69
+   at AutomationFramework.PageElementExtensions.Click(IPageElement element, String additionalLocator) in C:\Users\TMacBlane\Documents\DevelopmentProjects\AutomationFramework\Classes\PageElementExtensions.cs:line 15
+   at PornCantina.UIAutomation.StepDefinitions.LatinTeenCashStepDefinitions.WhenISelectTheModelNameLatinteencashTypeSite(String modelName, String galleryType) in C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\StepDefinitions\LatinTeenCashStepDefinitions.cs:line 193
+   at lambda_method(Closure , IContextManager , String , String )
+   at TechTalk.SpecFlow.Bindings.BindingInvoker.InvokeBinding(IBinding binding, IContextManager contextManager, Object[] arguments, ITestTracer testTracer, TimeSpan&amp; duration)
+   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.ExecuteStepMatch(BindingMatch match, Object[] arguments)
+   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.ExecuteStep(StepInstance stepInstance)
+   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.OnAfterLastStep()
+   at TechTalk.SpecFlow.TestRunner.CollectScenarioErrors()
+   at PornCantina.UIAutomation.Scenarios.LatinTeenCashFeature.ScenarioCleanup() in C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\Scenarios\LatinTeenCash.feature.cs:line 0
+   at PornCantina.UIAutomation.Scenarios.LatinTeenCashFeature.PopulateLatinTeenCashGalleries(String modelName, String type, String[] exampleTags) in c:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\Scenarios\LatinTeenCash.feature:line 12
+   at PornCantina.UIAutomation.Scenarios.LatinTeenCashFeature.PopulateLatinTeenCashGalleries_Variant21() in C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\Scenarios\LatinTeenCash.feature.cs:line 0
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="e6753355-f528-423a-90d6-3f4ee0f2b0d4" testId="14470d4e-46fc-42a5-2328-ae6a499a9e8a" testName="PopulateLatinTeenCashGalleries_Variant18" computerName="FIREFLY" duration="00:02:03.9322564" startTime="2012-10-31T19:05:44.6380000-04:00" endTime="2012-10-31T19:07:48.5680000-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e6753355-f528-423a-90d6-3f4ee0f2b0d4">
+      <Output>
+        <StdOut>Given I open the latinteencash page
+-&gt; done: StepDefinitions.IAmOnTheSpecifiedPage("latinteencash") (70.2s)
+Then I should be on the latinteencash page
+-&gt; done: StepDefinitions.IShouldBeOnTheSpecifiedPage("latinteencash") (0.0s)
+When I enter the LatinTeenCash ccbill id
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenIEnterTheSpecifiedCcbillId("LatinTeenCash") (1.8s)
+Then I should be on the latinteencash page
+-&gt; done: StepDefinitions.IShouldBeOnTheSpecifiedPage("latinteencash") (0.0s)
+When I select the Mariah Spice latinteencash Nude site
+-&gt; done: LatinTeenCashStepDefinitions.WhenISelectTheModelNameLatinteencashTypeSite("Mariah Spice", "Nude") (3.3s)
+Then I should see the Mariah Spice - Nude latinteencash hosted galleries
+-&gt; done: LatinTeenCashStepDefinitions.ThenIShouldSeeTheSpecifiedLatinTeenCashHostedGalleries("Mariah Spice", "Nude") (0.0s)
+And I should create any new Mariah Spice latinteencash galleries
+-&gt; done: LatinTeenCashStepDefinitions.ThenIShouldCreateAnyNewLatinTeenCashGalleries("Mariah Spice") (47.3s)</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="52d840c2-83c1-40ed-8d3e-2def979407c8" testId="bb502de1-a289-69c7-7649-f025132a5dec" testName="PopulateLatinTeenCashGalleries_Variant16" computerName="FIREFLY" duration="00:02:02.4368264" startTime="2012-10-31T19:07:48.5720000-04:00" endTime="2012-10-31T19:09:51.0070000-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="52d840c2-83c1-40ed-8d3e-2def979407c8">
+      <Output>
+        <StdOut>Given I open the latinteencash page
+-&gt; done: StepDefinitions.IAmOnTheSpecifiedPage("latinteencash") (68.8s)
+Then I should be on the latinteencash page
+-&gt; done: StepDefinitions.IShouldBeOnTheSpecifiedPage("latinteencash") (0.0s)
+When I enter the LatinTeenCash ccbill id
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenIEnterTheSpecifiedCcbillId("LatinTeenCash") (1.9s)
+Then I should be on the latinteencash page
+-&gt; done: StepDefinitions.IShouldBeOnTheSpecifiedPage("latinteencash") (0.0s)
+When I select the Selena Spice latinteencash Non-Nude site
+-&gt; done: LatinTeenCashStepDefinitions.WhenISelectTheModelNameLatinteencashTypeSite("Selena Spice", "Non-Nude") (3.2s)
+Then I should see the Selena Spice - Non-Nude latinteencash hosted galleries
+-&gt; done: LatinTeenCashStepDefinitions.ThenIShouldSeeTheSpecifiedLatinTeenCashHostedGalleries("Selena Spice", "Non-Nude") (1.0s)
+And I should create any new Selena Spice latinteencash galleries
+-&gt; done: LatinTeenCashStepDefinitions.ThenIShouldCreateAnyNewLatinTeenCashGalleries("Selena Spice") (46.3s)</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="b7b5ca96-8d52-4f83-8c81-0d13a2692884" testId="ab6ee543-c123-45bb-c9a1-d634ddfcca43" testName="PopulateLatinTeenCashGalleries_Variant3" computerName="FIREFLY" duration="00:04:37.5255979" startTime="2012-10-31T19:09:51.0120000-04:00" endTime="2012-10-31T19:14:28.5270000-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b7b5ca96-8d52-4f83-8c81-0d13a2692884">
+      <Output>
+        <StdOut>Given I open the latinteencash page
+-&gt; done: StepDefinitions.IAmOnTheSpecifiedPage("latinteencash") (68.7s)
+Then I should be on the latinteencash page
+-&gt; done: StepDefinitions.IShouldBeOnTheSpecifiedPage("latinteencash") (0.0s)
+When I enter the LatinTeenCash ccbill id
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenIEnterTheSpecifiedCcbillId("LatinTeenCash") (2.0s)
+Then I should be on the latinteencash page
+-&gt; done: StepDefinitions.IShouldBeOnTheSpecifiedPage("latinteencash") (0.0s)
+When I select the La Zona Modelos latinteencash Non-Nude site
+-&gt; done: LatinTeenCashStepDefinitions.WhenISelectTheModelNameLatinteencashTypeSite("La Zona Modelos", "Non-Nude") (12.3s)
+Then I should see the La Zona Modelos - Non-Nude latinteencash hosted galleries
+-&gt; done: LatinTeenCashStepDefinitions.ThenIShouldSeeTheSpecifiedLatinTeenCashHostedGalleries("La Zona Modelos", "Non-Nude") (0.1s)
+And I should create any new La Zona Modelos latinteencash galleries
+-&gt; done: LatinTeenCashStepDefinitions.ThenIShouldCreateAnyNewLatinTeenCashGalleries("La Zona Modelos") (193.3s)</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="d3cd6814-0748-4cb6-9380-b3d8f22710ff" testId="f61ffacc-dbbe-6677-45d4-d60f474c0e5c" testName="PopulateLatinTeenCashGalleries_Variant14" computerName="FIREFLY" duration="00:03:30.5825416" startTime="2012-10-31T19:14:28.5350000-04:00" endTime="2012-10-31T19:17:59.1110000-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d3cd6814-0748-4cb6-9380-b3d8f22710ff">
+      <Output>
+        <StdOut>Given I open the latinteencash page
+-&gt; done: StepDefinitions.IAmOnTheSpecifiedPage("latinteencash") (68.8s)
+Then I should be on the latinteencash page
+-&gt; done: StepDefinitions.IShouldBeOnTheSpecifiedPage("latinteencash") (0.0s)
+When I enter the LatinTeenCash ccbill id
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenIEnterTheSpecifiedCcbillId("LatinTeenCash") (2.0s)
+Then I should be on the latinteencash page
+-&gt; done: StepDefinitions.IShouldBeOnTheSpecifiedPage("latinteencash") (0.0s)
+When I select the Pacinos World latinteencash Nude site
+-&gt; done: LatinTeenCashStepDefinitions.WhenISelectTheModelNameLatinteencashTypeSite("Pacinos World", "Nude") (9.3s)
+Then I should see the Pacinos World - Nude latinteencash hosted galleries
+-&gt; done: LatinTeenCashStepDefinitions.ThenIShouldSeeTheSpecifiedLatinTeenCashHostedGalleries("Pacinos World", "Nude") (0.1s)
+And I should create any new Pacinos World latinteencash galleries
+-&gt; done: LatinTeenCashStepDefinitions.ThenIShouldCreateAnyNewLatinTeenCashGalleries("Pacinos World") (129.2s)</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="46cdb769-c36c-462a-8d22-9387e343d080" testId="7a4fd888-ae81-b2c6-dcaa-b5ea7e3af7d4" testName="PopulateLatinTeenCashGalleries_Variant13" computerName="FIREFLY" duration="00:02:02.2228276" startTime="2012-10-31T19:17:59.1150000-04:00" endTime="2012-10-31T19:20:01.3380000-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="46cdb769-c36c-462a-8d22-9387e343d080">
+      <Output>
+        <StdOut>Given I open the latinteencash page
+-&gt; done: StepDefinitions.IAmOnTheSpecifiedPage("latinteencash") (70.0s)
+Then I should be on the latinteencash page
+-&gt; done: StepDefinitions.IShouldBeOnTheSpecifiedPage("latinteencash") (0.0s)
+When I enter the LatinTeenCash ccbill id
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenIEnterTheSpecifiedCcbillId("LatinTeenCash") (2.0s)
+Then I should be on the latinteencash page
+-&gt; done: StepDefinitions.IShouldBeOnTheSpecifiedPage("latinteencash") (0.0s)
+When I select the Pamela Spice latinteencash Non-Nude site
+-&gt; done: LatinTeenCashStepDefinitions.WhenISelectTheModelNameLatinteencashTypeSite("Pamela Spice", "Non-Nude") (3.7s)
+Then I should see the Pamela Spice - Non-Nude latinteencash hosted galleries
+-&gt; done: LatinTeenCashStepDefinitions.ThenIShouldSeeTheSpecifiedLatinTeenCashHostedGalleries("Pamela Spice", "Non-Nude") (0.1s)
+And I should create any new Pamela Spice latinteencash galleries
+-&gt; done: LatinTeenCashStepDefinitions.ThenIShouldCreateAnyNewLatinTeenCashGalleries("Pamela Spice") (45.3s)</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="f1e1a8bc-db1f-4556-9520-d7544cfc19b0" testId="9b5b20bb-c094-3a9d-9b66-a85e25612da9" testName="PopulateLatinTeenCashGalleries_Variant9" computerName="FIREFLY" duration="00:05:55.9857426" startTime="2012-10-31T19:20:01.3440000-04:00" endTime="2012-10-31T19:25:57.3140000-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f1e1a8bc-db1f-4556-9520-d7544cfc19b0">
+      <Output>
+        <StdOut>Given I open the latinteencash page
+-&gt; done: StepDefinitions.IAmOnTheSpecifiedPage("latinteencash") (69.5s)
+Then I should be on the latinteencash page
+-&gt; done: StepDefinitions.IShouldBeOnTheSpecifiedPage("latinteencash") (0.0s)
+When I enter the LatinTeenCash ccbill id
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenIEnterTheSpecifiedCcbillId("LatinTeenCash") (1.9s)
+Then I should be on the latinteencash page
+-&gt; done: StepDefinitions.IShouldBeOnTheSpecifiedPage("latinteencash") (0.0s)
+When I select the Karla Spice latinteencash Non-Nude site
+-&gt; done: LatinTeenCashStepDefinitions.WhenISelectTheModelNameLatinteencashTypeSite("Karla Spice", "Non-Nude") (16.3s)
+Then I should see the Karla Spice - Non-Nude latinteencash hosted galleries
+-&gt; done: LatinTeenCashStepDefinitions.ThenIShouldSeeTheSpecifiedLatinTeenCashHostedGalleries("Karla Spice", "Non-Nude") (0.0s)
+And I should create any new Karla Spice latinteencash galleries
+-&gt; done: LatinTeenCashStepDefinitions.ThenIShouldCreateAnyNewLatinTeenCashGalleries("Karla Spice") (267.0s)</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="9dc4cc48-df75-4ad9-bd7e-4f5acf257d37" testId="4ccc18d3-fc2d-0802-56ed-d9c3d5960ca9" testName="PopulateLatinTeenCashGalleries_Variant5" computerName="FIREFLY" duration="00:03:23.5221834" startTime="2012-10-31T19:25:57.3190000-04:00" endTime="2012-10-31T19:29:20.8350000-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="9dc4cc48-df75-4ad9-bd7e-4f5acf257d37">
+      <Output>
+        <StdOut>Given I open the latinteencash page
+-&gt; done: StepDefinitions.IAmOnTheSpecifiedPage("latinteencash") (68.9s)
+Then I should be on the latinteencash page
+-&gt; done: StepDefinitions.IShouldBeOnTheSpecifiedPage("latinteencash") (0.0s)
+When I enter the LatinTeenCash ccbill id
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenIEnterTheSpecifiedCcbillId("LatinTeenCash") (2.2s)
+Then I should be on the latinteencash page
+-&gt; done: StepDefinitions.IShouldBeOnTheSpecifiedPage("latinteencash") (0.0s)
+When I select the Gigi Spice latinteencash Nude site
+-&gt; done: LatinTeenCashStepDefinitions.WhenISelectTheModelNameLatinteencashTypeSite("Gigi Spice", "Nude") (8.8s)
+Then I should see the Gigi Spice - Nude latinteencash hosted galleries
+-&gt; done: LatinTeenCashStepDefinitions.ThenIShouldSeeTheSpecifiedLatinTeenCashHostedGalleries("Gigi Spice", "Nude") (1.0s)
+And I should create any new Gigi Spice latinteencash galleries
+-&gt; done: LatinTeenCashStepDefinitions.ThenIShouldCreateAnyNewLatinTeenCashGalleries("Gigi Spice") (121.5s)</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="960deec3-9470-4167-b034-555d38025fe2" testId="4d1e82ca-50ef-d24f-0d8e-3ce5b4dc2243" testName="PopulateLatinTeenCashGalleries_Variant12" computerName="FIREFLY" duration="00:02:40.9341319" startTime="2012-10-31T19:29:20.8490000-04:00" endTime="2012-10-31T19:32:01.7810000-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="960deec3-9470-4167-b034-555d38025fe2">
+      <Output>
+        <StdOut>Given I open the latinteencash page
+-&gt; done: StepDefinitions.IAmOnTheSpecifiedPage("latinteencash") (68.9s)
+Then I should be on the latinteencash page
+-&gt; done: StepDefinitions.IShouldBeOnTheSpecifiedPage("latinteencash") (0.0s)
+When I enter the LatinTeenCash ccbill id
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenIEnterTheSpecifiedCcbillId("LatinTeenCash") (2.1s)
+Then I should be on the latinteencash page
+-&gt; done: StepDefinitions.IShouldBeOnTheSpecifiedPage("latinteencash") (0.0s)
+When I select the Pamela Spice latinteencash Nude site
+-&gt; done: LatinTeenCashStepDefinitions.WhenISelectTheModelNameLatinteencashTypeSite("Pamela Spice", "Nude") (6.1s)
+Then I should see the Pamela Spice - Nude latinteencash hosted galleries
+-&gt; done: LatinTeenCashStepDefinitions.ThenIShouldSeeTheSpecifiedLatinTeenCashHostedGalleries("Pamela Spice", "Nude") (0.0s)
+And I should create any new Pamela Spice latinteencash galleries
+-&gt; done: LatinTeenCashStepDefinitions.ThenIShouldCreateAnyNewLatinTeenCashGalleries("Pamela Spice") (82.6s)</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="9403439f-5334-424b-9f44-14f74ece3df6" testId="16c69607-987e-79af-3a1a-509f4f235130" testName="PopulateLatinTeenCashGalleries_Variant20" computerName="FIREFLY" duration="00:01:22.7031791" startTime="2012-10-31T19:32:01.7850000-04:00" endTime="2012-10-31T19:33:24.4910000-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="9403439f-5334-424b-9f44-14f74ece3df6">
+      <Output>
+        <StdOut>Given I open the latinteencash page
+-&gt; done: StepDefinitions.IAmOnTheSpecifiedPage("latinteencash") (68.5s)
+Then I should be on the latinteencash page
+-&gt; done: StepDefinitions.IShouldBeOnTheSpecifiedPage("latinteencash") (0.0s)
+When I enter the LatinTeenCash ccbill id
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenIEnterTheSpecifiedCcbillId("LatinTeenCash") (2.0s)
+Then I should be on the latinteencash page
+-&gt; done: StepDefinitions.IShouldBeOnTheSpecifiedPage("latinteencash") (0.0s)
+When I select the Bella Spice latinteencash Nude site
+-&gt; error: Unable to locate element: {"method":"xpath","selector":"//table/tbody/tr/td[2]/table[2]/tbody/tr[4]/td/table/tbody/tr[5]/td[7]/font/a[text()='Nude']"}
+Then I should see the Bella Spice - Nude latinteencash hosted galleries
+-&gt; skipped because of previous errors
+And I should create any new Bella Spice latinteencash galleries
+-&gt; skipped because of previous errors</StdOut>
+        <ErrorInfo>
+          <Message>Test method PornCantina.UIAutomation.Scenarios.LatinTeenCashFeature.PopulateLatinTeenCashGalleries_Variant20 threw exception: 
+OpenQA.Selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//table/tbody/tr/td[2]/table[2]/tbody/tr[4]/td/table/tbody/tr[5]/td[7]/font/a[text()='Nude']"}</Message>
+          <StackTrace>    at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElementByXPath(String xpath)
+   at OpenQA.Selenium.By.&lt;&gt;c__DisplayClasse.&lt;XPath&gt;b__c(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(By by)
+   at AutomationFramework.BrowserHelper.GetElementByXPath(IWebDriver driver, String locator, String additionalLocatorPath) in C:\Users\TMacBlane\Documents\DevelopmentProjects\AutomationFramework\Classes\BrowserHelper.cs:line 106
+   at AutomationFramework.BrowserHelper.GetElement(IWebDriver driver, String locator, String additionalLocatorPath) in C:\Users\TMacBlane\Documents\DevelopmentProjects\AutomationFramework\Classes\BrowserHelper.cs:line 25
+   at AutomationFramework.WebBrowser.Click(String locator, String additionalLocatorPath) in C:\Users\TMacBlane\Documents\DevelopmentProjects\AutomationFramework\Classes\WebBrowser.cs:line 69
+   at AutomationFramework.PageElementExtensions.Click(IPageElement element, String additionalLocator) in C:\Users\TMacBlane\Documents\DevelopmentProjects\AutomationFramework\Classes\PageElementExtensions.cs:line 15
+   at PornCantina.UIAutomation.StepDefinitions.LatinTeenCashStepDefinitions.WhenISelectTheModelNameLatinteencashTypeSite(String modelName, String galleryType) in C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\StepDefinitions\LatinTeenCashStepDefinitions.cs:line 189
+   at lambda_method(Closure , IContextManager , String , String )
+   at TechTalk.SpecFlow.Bindings.BindingInvoker.InvokeBinding(IBinding binding, IContextManager contextManager, Object[] arguments, ITestTracer testTracer, TimeSpan&amp; duration)
+   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.ExecuteStepMatch(BindingMatch match, Object[] arguments)
+   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.ExecuteStep(StepInstance stepInstance)
+   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.OnAfterLastStep()
+   at TechTalk.SpecFlow.TestRunner.CollectScenarioErrors()
+   at PornCantina.UIAutomation.Scenarios.LatinTeenCashFeature.ScenarioCleanup() in C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\Scenarios\LatinTeenCash.feature.cs:line 0
+   at PornCantina.UIAutomation.Scenarios.LatinTeenCashFeature.PopulateLatinTeenCashGalleries(String modelName, String type, String[] exampleTags) in c:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\Scenarios\LatinTeenCash.feature:line 12
+   at PornCantina.UIAutomation.Scenarios.LatinTeenCashFeature.PopulateLatinTeenCashGalleries_Variant20() in C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina.UIAutomation\Scenarios\LatinTeenCash.feature.cs:line 0
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="c8a3e28a-e0f4-402a-8f9a-d47a7f7af5d5" testId="a23b7ba6-2402-60ef-65fb-6d72c73c98b8" testName="PopulateLatinTeenCashGalleries_Variant1" computerName="FIREFLY" duration="00:07:21.6842845" startTime="2012-10-31T19:33:24.4990000-04:00" endTime="2012-10-31T19:40:46.1630000-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c8a3e28a-e0f4-402a-8f9a-d47a7f7af5d5">
+      <Output>
+        <StdOut>Given I open the latinteencash page
+-&gt; done: StepDefinitions.IAmOnTheSpecifiedPage("latinteencash") (68.7s)
+Then I should be on the latinteencash page
+-&gt; done: StepDefinitions.IShouldBeOnTheSpecifiedPage("latinteencash") (0.0s)
+When I enter the LatinTeenCash ccbill id
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenIEnterTheSpecifiedCcbillId("LatinTeenCash") (1.9s)
+Then I should be on the latinteencash page
+-&gt; done: StepDefinitions.IShouldBeOnTheSpecifiedPage("latinteencash") (0.0s)
+When I select the Pacinos Adventures latinteencash Nude site
+-&gt; done: LatinTeenCashStepDefinitions.WhenISelectTheModelNameLatinteencashTypeSite("Pacinos Adventures", "Nude") (32.7s)
+Then I should see the Pacinos Adventures - Nude latinteencash hosted galleries
+-&gt; done: LatinTeenCashStepDefinitions.ThenIShouldSeeTheSpecifiedLatinTeenCashHostedGalleries("Pacinos Adventures", "Nude") (0.1s)
+And I should create any new Pacinos Adventures latinteencash galleries
+-&gt; done: LatinTeenCashStepDefinitions.ThenIShouldCreateAnyNewLatinTeenCashGalleries("Pacinos Adventures") (337.1s)</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="3d6368fb-013e-4d04-94c6-eb33034a21a3" testId="99302bfa-907f-3800-327d-e8a756ac0e33" testName="PopulateLatinTeenCashGalleries_Variant4" computerName="FIREFLY" duration="00:01:52.3856066" startTime="2012-10-31T19:40:46.1670000-04:00" endTime="2012-10-31T19:42:38.5520000-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="3d6368fb-013e-4d04-94c6-eb33034a21a3">
+      <Output>
+        <StdOut>Given I open the latinteencash page
+-&gt; done: StepDefinitions.IAmOnTheSpecifiedPage("latinteencash") (70.0s)
+Then I should be on the latinteencash page
+-&gt; done: StepDefinitions.IShouldBeOnTheSpecifiedPage("latinteencash") (0.0s)
+When I enter the LatinTeenCash ccbill id
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenIEnterTheSpecifiedCcbillId("LatinTeenCash") (2.2s)
+Then I should be on the latinteencash page
+-&gt; done: StepDefinitions.IShouldBeOnTheSpecifiedPage("latinteencash") (0.0s)
+When I select the Pacino Network Pass latinteencash Nude site
+-&gt; done: LatinTeenCashStepDefinitions.WhenISelectTheModelNameLatinteencashTypeSite("Pacino Network Pass", "Nude") (5.1s)
+Then I should see the Pacino Network Pass - Nude latinteencash hosted galleries
+-&gt; done: LatinTeenCashStepDefinitions.ThenIShouldSeeTheSpecifiedLatinTeenCashHostedGalleries("Pacino Network Pass", "Nude") (0.0s)
+And I should create any new Pacino Network Pass latinteencash galleries
+-&gt; done: LatinTeenCashStepDefinitions.ThenIShouldCreateAnyNewLatinTeenCashGalleries("Pacino Network Pass") (33.9s)</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="cb729f85-9e95-4cd9-9372-a157921545e6" testId="e216ad41-6006-2aef-fac9-ee3cc9d96dee" testName="PopulateLatinTeenCashGalleries_Variant10" computerName="FIREFLY" duration="00:02:54.7623068" startTime="2012-10-31T19:42:38.5560000-04:00" endTime="2012-10-31T19:45:33.3140000-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="cb729f85-9e95-4cd9-9372-a157921545e6">
+      <Output>
+        <StdOut>Given I open the latinteencash page
+-&gt; done: StepDefinitions.IAmOnTheSpecifiedPage("latinteencash") (68.6s)
+Then I should be on the latinteencash page
+-&gt; done: StepDefinitions.IShouldBeOnTheSpecifiedPage("latinteencash") (0.0s)
+When I enter the LatinTeenCash ccbill id
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenIEnterTheSpecifiedCcbillId("LatinTeenCash") (2.1s)
+Then I should be on the latinteencash page
+-&gt; done: StepDefinitions.IShouldBeOnTheSpecifiedPage("latinteencash") (0.0s)
+When I select the Cierra Spice latinteencash Nude site
+-&gt; done: LatinTeenCashStepDefinitions.WhenISelectTheModelNameLatinteencashTypeSite("Cierra Spice", "Nude") (6.5s)
+Then I should see the Cierra Spice - Nude latinteencash hosted galleries
+-&gt; done: LatinTeenCashStepDefinitions.ThenIShouldSeeTheSpecifiedLatinTeenCashHostedGalleries("Cierra Spice", "Nude") (1.0s)
+And I should create any new Cierra Spice latinteencash galleries
+-&gt; done: LatinTeenCashStepDefinitions.ThenIShouldCreateAnyNewLatinTeenCashGalleries("Cierra Spice") (95.4s)</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="b20acf93-60ef-401b-9418-9879336ff245" testId="3f31a9ac-4114-804d-d0f6-f17f79f5bf80" testName="PopulateLatinTeenCashGalleries_Variant7" computerName="FIREFLY" duration="00:02:51.4646052" startTime="2012-10-31T19:45:33.3200000-04:00" endTime="2012-10-31T19:48:24.7790000-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b20acf93-60ef-401b-9418-9879336ff245">
+      <Output>
+        <StdOut>Given I open the latinteencash page
+-&gt; done: StepDefinitions.IAmOnTheSpecifiedPage("latinteencash") (70.8s)
+Then I should be on the latinteencash page
+-&gt; done: StepDefinitions.IShouldBeOnTheSpecifiedPage("latinteencash") (0.1s)
+When I enter the LatinTeenCash ccbill id
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenIEnterTheSpecifiedCcbillId("LatinTeenCash") (2.6s)
+Then I should be on the latinteencash page
+-&gt; done: StepDefinitions.IShouldBeOnTheSpecifiedPage("latinteencash") (0.0s)
+When I select the Tania Spice latinteencash Nude site
+-&gt; done: LatinTeenCashStepDefinitions.WhenISelectTheModelNameLatinteencashTypeSite("Tania Spice", "Nude") (6.9s)
+Then I should see the Tania Spice - Nude latinteencash hosted galleries
+-&gt; done: LatinTeenCashStepDefinitions.ThenIShouldSeeTheSpecifiedLatinTeenCashHostedGalleries("Tania Spice", "Nude") (0.1s)
+And I should create any new Tania Spice latinteencash galleries
+-&gt; done: LatinTeenCashStepDefinitions.ThenIShouldCreateAnyNewLatinTeenCashGalleries("Tania Spice") (89.9s)</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="6626fb45-ae75-42ec-9cc1-cfe42bc29d42" testId="92986006-91a2-3709-e0d6-d64f1e16b930" testName="PopulateLatinTeenCashGalleries_Variant6" computerName="FIREFLY" duration="00:01:45.4782091" startTime="2012-10-31T19:48:24.7830000-04:00" endTime="2012-10-31T19:50:10.2610000-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="6626fb45-ae75-42ec-9cc1-cfe42bc29d42">
+      <Output>
+        <StdOut>Given I open the latinteencash page
+-&gt; done: StepDefinitions.IAmOnTheSpecifiedPage("latinteencash") (69.8s)
+Then I should be on the latinteencash page
+-&gt; done: StepDefinitions.IShouldBeOnTheSpecifiedPage("latinteencash") (0.0s)
+When I enter the LatinTeenCash ccbill id
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenIEnterTheSpecifiedCcbillId("LatinTeenCash") (2.0s)
+Then I should be on the latinteencash page
+-&gt; done: StepDefinitions.IShouldBeOnTheSpecifiedPage("latinteencash") (0.0s)
+When I select the Gigi Spice latinteencash Non-Nude site
+-&gt; done: LatinTeenCashStepDefinitions.WhenISelectTheModelNameLatinteencashTypeSite("Gigi Spice", "Non-Nude") (2.8s)
+Then I should see the Gigi Spice - Non-Nude latinteencash hosted galleries
+-&gt; done: LatinTeenCashStepDefinitions.ThenIShouldSeeTheSpecifiedLatinTeenCashHostedGalleries("Gigi Spice", "Non-Nude") (0.0s)
+And I should create any new Gigi Spice latinteencash galleries
+-&gt; done: LatinTeenCashStepDefinitions.ThenIShouldCreateAnyNewLatinTeenCashGalleries("Gigi Spice") (29.8s)</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="3e799787-be01-4165-8e5b-6858b4935ad4" testId="afa7297d-b6db-b3ed-a003-c6b2b846be5b" testName="PopulateLatinTeenCashGalleries_Variant17" computerName="FIREFLY" duration="00:02:51.0063485" startTime="2012-10-31T19:50:10.2670000-04:00" endTime="2012-10-31T19:53:01.2690000-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="3e799787-be01-4165-8e5b-6858b4935ad4">
+      <Output>
+        <StdOut>Given I open the latinteencash page
+-&gt; done: StepDefinitions.IAmOnTheSpecifiedPage("latinteencash") (68.6s)
+Then I should be on the latinteencash page
+-&gt; done: StepDefinitions.IShouldBeOnTheSpecifiedPage("latinteencash") (0.0s)
+When I enter the LatinTeenCash ccbill id
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenIEnterTheSpecifiedCcbillId("LatinTeenCash") (2.0s)
+Then I should be on the latinteencash page
+-&gt; done: StepDefinitions.IShouldBeOnTheSpecifiedPage("latinteencash") (0.0s)
+When I select the Spice Twins latinteencash Non-Nude site
+-&gt; done: LatinTeenCashStepDefinitions.WhenISelectTheModelNameLatinteencashTypeSite("Spice Twins", "Non-Nude") (6.5s)
+Then I should see the Spice Twins - Non-Nude latinteencash hosted galleries
+-&gt; done: LatinTeenCashStepDefinitions.ThenIShouldSeeTheSpecifiedLatinTeenCashHostedGalleries("Spice Twins", "Non-Nude") (0.1s)
+And I should create any new Spice Twins latinteencash galleries
+-&gt; done: LatinTeenCashStepDefinitions.ThenIShouldCreateAnyNewLatinTeenCashGalleries("Spice Twins") (92.7s)</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="fc135ad2-f666-4b2e-8cca-7530efd6b671" testId="203358cd-54fb-717b-ab0f-d1c9d21b01dd" testName="PopulateLatinTeenCashGalleries_Variant2" computerName="FIREFLY" duration="00:05:34.1779617" startTime="2012-10-31T19:53:01.2740000-04:00" endTime="2012-10-31T19:58:35.4380000-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="fc135ad2-f666-4b2e-8cca-7530efd6b671">
+      <Output>
+        <StdOut>Given I open the latinteencash page
+-&gt; done: StepDefinitions.IAmOnTheSpecifiedPage("latinteencash") (69.9s)
+Then I should be on the latinteencash page
+-&gt; done: StepDefinitions.IShouldBeOnTheSpecifiedPage("latinteencash") (0.0s)
+When I enter the LatinTeenCash ccbill id
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenIEnterTheSpecifiedCcbillId("LatinTeenCash") (1.9s)
+Then I should be on the latinteencash page
+-&gt; done: StepDefinitions.IShouldBeOnTheSpecifiedPage("latinteencash") (0.0s)
+When I select the La Zona Modelos latinteencash Nude site
+-&gt; done: LatinTeenCashStepDefinitions.WhenISelectTheModelNameLatinteencashTypeSite("La Zona Modelos", "Nude") (20.7s)
+Then I should see the La Zona Modelos - Nude latinteencash hosted galleries
+-&gt; done: LatinTeenCashStepDefinitions.ThenIShouldSeeTheSpecifiedLatinTeenCashHostedGalleries("La Zona Modelos", "Nude") (0.0s)
+And I should create any new La Zona Modelos latinteencash galleries
+-&gt; done: LatinTeenCashStepDefinitions.ThenIShouldCreateAnyNewLatinTeenCashGalleries("La Zona Modelos") (240.5s)</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="35e92387-197f-4ea1-bbe1-dc47ef3ee3f0" testId="f3be4903-47e6-c00d-22f0-27bf70ae2658" testName="PopulateLatinTeenCashGalleries_Variant19" computerName="FIREFLY" duration="00:02:00.9182959" startTime="2012-10-31T19:58:35.4420000-04:00" endTime="2012-10-31T20:00:36.3610000-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="35e92387-197f-4ea1-bbe1-dc47ef3ee3f0">
+      <Output>
+        <StdOut>Given I open the latinteencash page
+-&gt; done: StepDefinitions.IAmOnTheSpecifiedPage("latinteencash") (69.4s)
+Then I should be on the latinteencash page
+-&gt; done: StepDefinitions.IShouldBeOnTheSpecifiedPage("latinteencash") (0.0s)
+When I enter the LatinTeenCash ccbill id
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenIEnterTheSpecifiedCcbillId("LatinTeenCash") (2.3s)
+Then I should be on the latinteencash page
+-&gt; done: StepDefinitions.IShouldBeOnTheSpecifiedPage("latinteencash") (0.0s)
+When I select the Mariah Spice latinteencash Non-Nude site
+-&gt; done: LatinTeenCashStepDefinitions.WhenISelectTheModelNameLatinteencashTypeSite("Mariah Spice", "Non-Nude") (3.3s)
+Then I should see the Mariah Spice - Non-Nude latinteencash hosted galleries
+-&gt; done: LatinTeenCashStepDefinitions.ThenIShouldSeeTheSpecifiedLatinTeenCashHostedGalleries("Mariah Spice", "Non-Nude") (0.0s)
+And I should create any new Mariah Spice latinteencash galleries
+-&gt; done: LatinTeenCashStepDefinitions.ThenIShouldCreateAnyNewLatinTeenCashGalleries("Mariah Spice") (44.7s)</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="a067f54b-bd9d-4467-9ea8-f544b08d915c" testId="57581509-d70d-4920-7d9f-39badeded11a" testName="PopulateLatinTeenCashGalleries_Variant15" computerName="FIREFLY" duration="00:03:15.6578268" startTime="2012-10-31T20:00:36.3660000-04:00" endTime="2012-10-31T20:03:52.0170000-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a067f54b-bd9d-4467-9ea8-f544b08d915c">
+      <Output>
+        <StdOut>Given I open the latinteencash page
+-&gt; done: StepDefinitions.IAmOnTheSpecifiedPage("latinteencash") (69.0s)
+Then I should be on the latinteencash page
+-&gt; done: StepDefinitions.IShouldBeOnTheSpecifiedPage("latinteencash") (0.1s)
+When I enter the LatinTeenCash ccbill id
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenIEnterTheSpecifiedCcbillId("LatinTeenCash") (3.0s)
+Then I should be on the latinteencash page
+-&gt; done: StepDefinitions.IShouldBeOnTheSpecifiedPage("latinteencash") (0.0s)
+When I select the Pacinos World latinteencash Non-Nude site
+-&gt; done: LatinTeenCashStepDefinitions.WhenISelectTheModelNameLatinteencashTypeSite("Pacinos World", "Non-Nude") (9.7s)
+Then I should see the Pacinos World - Non-Nude latinteencash hosted galleries
+-&gt; done: LatinTeenCashStepDefinitions.ThenIShouldSeeTheSpecifiedLatinTeenCashHostedGalleries("Pacinos World", "Non-Nude") (0.0s)
+And I should create any new Pacinos World latinteencash galleries
+-&gt; done: LatinTeenCashStepDefinitions.ThenIShouldCreateAnyNewLatinTeenCashGalleries("Pacinos World") (112.6s)</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="05a1ada7-7bb2-4090-8fd1-8eb55c95dea2" testId="3ea170a6-232f-1a8b-470c-516442333b57" testName="PopulateLatinTeenCashGalleries_Variant11" computerName="FIREFLY" duration="00:01:36.7180107" startTime="2012-10-31T20:03:52.0210000-04:00" endTime="2012-10-31T20:05:28.7440000-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="05a1ada7-7bb2-4090-8fd1-8eb55c95dea2">
+      <Output>
+        <StdOut>Given I open the latinteencash page
+-&gt; done: StepDefinitions.IAmOnTheSpecifiedPage("latinteencash") (69.7s)
+Then I should be on the latinteencash page
+-&gt; done: StepDefinitions.IShouldBeOnTheSpecifiedPage("latinteencash") (0.0s)
+When I enter the LatinTeenCash ccbill id
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenIEnterTheSpecifiedCcbillId("LatinTeenCash") (2.2s)
+Then I should be on the latinteencash page
+-&gt; done: StepDefinitions.IShouldBeOnTheSpecifiedPage("latinteencash") (0.0s)
+When I select the Cierra Spice latinteencash Non-Nude site
+-&gt; done: LatinTeenCashStepDefinitions.WhenISelectTheModelNameLatinteencashTypeSite("Cierra Spice", "Non-Nude") (2.5s)
+Then I should see the Cierra Spice - Non-Nude latinteencash hosted galleries
+-&gt; done: LatinTeenCashStepDefinitions.ThenIShouldSeeTheSpecifiedLatinTeenCashHostedGalleries("Cierra Spice", "Non-Nude") (0.0s)
+And I should create any new Cierra Spice latinteencash galleries
+-&gt; done: LatinTeenCashStepDefinitions.ThenIShouldCreateAnyNewLatinTeenCashGalleries("Cierra Spice") (21.0s)</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="43cd7711-bc2c-49c7-998b-07f7f6a1e9dc" testId="cc41ee60-814c-4d95-ef8b-2742ca92d77e" testName="PopulateLatinTeenCashGalleries_Variant8" computerName="FIREFLY" duration="00:01:27.7893354" startTime="2012-10-31T20:05:28.7480000-04:00" endTime="2012-10-31T20:06:56.5390000-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="43cd7711-bc2c-49c7-998b-07f7f6a1e9dc">
+      <Output>
+        <StdOut>Given I open the latinteencash page
+-&gt; done: StepDefinitions.IAmOnTheSpecifiedPage("latinteencash") (68.8s)
+Then I should be on the latinteencash page
+-&gt; done: StepDefinitions.IShouldBeOnTheSpecifiedPage("latinteencash") (0.0s)
+When I enter the LatinTeenCash ccbill id
+-&gt; done: HostedGalleriesManagerStepDefinitions.WhenIEnterTheSpecifiedCcbillId("LatinTeenCash") (2.2s)
+Then I should be on the latinteencash page
+-&gt; done: StepDefinitions.IShouldBeOnTheSpecifiedPage("latinteencash") (0.0s)
+When I select the Tania Spice latinteencash Non-Nude site
+-&gt; done: LatinTeenCashStepDefinitions.WhenISelectTheModelNameLatinteencashTypeSite("Tania Spice", "Non-Nude") (1.8s)
+Then I should see the Tania Spice - Non-Nude latinteencash hosted galleries
+-&gt; done: LatinTeenCashStepDefinitions.ThenIShouldSeeTheSpecifiedLatinTeenCashHostedGalleries("Tania Spice", "Non-Nude") (0.1s)
+And I should create any new Tania Spice latinteencash galleries
+-&gt; done: LatinTeenCashStepDefinitions.ThenIShouldCreateAnyNewLatinTeenCashGalleries("Tania Spice") (13.8s)</StdOut>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

@@ -36,3 +36,10 @@ C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\PornCantina\obj\Deb
 C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\PornCantina\obj\Debug\PornCantina.pdb
 C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\PornCantina\bin\PornCantina.FFMpegFrameCapture.dll
 C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\PornCantina\bin\PornCantina.FFMpegFrameCapture.pdb
+C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\PornCantina\obj\Debug\PornCantina.Migrations.InitialCreate.resources
+C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\PornCantina\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\PornCantina\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\PornCantina\obj\Debug\PornCantina.Migrations.CreateContentTypeTable.resources
+C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\PornCantina\obj\Debug\PornCantina.Migrations.CreateCategoryTable.resources
+C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\PornCantina\obj\Debug\PornCantina.Migrations.AddBioColumnToModelTable.resources
+C:\Users\TMacBlane\Documents\DevelopmentProjects\PornCantina\PornCantina\obj\Debug\PornCantina.Migrations.AddAvatarImagePathColumnForModelTable.resources

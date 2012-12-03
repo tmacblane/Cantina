@@ -37,7 +37,7 @@ namespace PornCantina.Controllers
 
 		public ActionResult CreateVideoThumbnails()
 		{
-			var videoLocation = @"C:\Temp\catie_minx_bedroom_floor_hitachi.mp4";
+			var videoLocation = @"C:\Temp\Models\catie_minx_bedroom_floor_hitachi.mp4";
 
 			this.FrameCapture = new FrameCapture();
 			this.FrameCapture.CreateVideoThumbnails(videoLocation);
@@ -47,7 +47,7 @@ namespace PornCantina.Controllers
 
 		public ActionResult ConvertVideo()
 		{
-			var videoLocation = @"C:\Temp\catie_minx_bedroom_floor_hitachi.mp4";
+			var videoLocation = @"C:\Temp\Models\catie_minx_bedroom_floor_hitachi.mp4";
 			this.Converter = new Converter();
 			ffMpeg.OutputPackage outputPackage = this.Converter.ConvertToFLV(videoLocation);
 
@@ -55,7 +55,7 @@ namespace PornCantina.Controllers
 			outputPackage.VideoStream.WriteTo(outStream);
 			outStream.Flush();
 			outStream.Close();
-			outputPackage.PreviewImage.Save(@"C:\Temp\preview001.jpg");
+			outputPackage.PreviewImage.Save(@"C:\Temp\Models\preview001.jpg");
 
 			return View();
 		}
